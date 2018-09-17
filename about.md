@@ -31,7 +31,7 @@ subtitle: Mission and Team Members (including interviews) of the RIPL_Effect Res
 - [Shandra Bellinger](#Shandra Bellinger)
 
 
-<img src="img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Dr. Félix E. Rivera-Mariani"></a>***Dr. Félix E. Rivera-Mariani*** (**Principal Investigator**): 
+<img src="/img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Dr. Félix E. Rivera-Mariani"></a>***Dr. Félix E. Rivera-Mariani*** (**Principal Investigator**): 
 <div style="text-align:justify"><p>Dr. Rivera-Mariani, Assistant Professor and Academic Director in the <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>, is an expert immunologist, microbiologist, aerobiologist, and computational biologist. At Larkin University, Dr. Rivera-Mariani, in addition to carrying out scientific research, teaches biochemistry, immunology, and molecular genetics. Among the academic credentials of Dr. Rivera-Mariani include a B.S. in Biology with a minor in Chemistry (Southeastern Louisiana University under an athletic scholarship), Ph.D. in Microbiology and Medical Zoology (School of Medicine of the University of Puerto Rico - Medical Sciences Campus), post-doctoral fellowship in Environmental Health Sciences (the Bloomberg School of Public Health of the Johns Hopkins University), and Science Teaching Fellowship (American Society for Microbiology).</p></div> 
 
 <div style="text-align:justify"><p>Dr. Rivera-Mariani is also a strong supporter of reproducibility in sciences and thus has gained specializations in Data Science, Genomic Data Sciences, Executive Data Science, Software Development (Johns Hopkins University), Systems Biology (Icahn School of Medicine at Mt. Sinai), and Bioinformatics (University of California at San Diego). Through these specializations, Dr. Rivera-Mariani has developed extensive experience as a programmer in the R, Python, and Matlab computer languages.</p></div> 
@@ -60,7 +60,7 @@ Josh grew up in Indonesia and then moved to Waco, Texas where he attended Baylor
 </div>
 
 
-<img src="img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant**)
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant**)
 <div style="text-align:justify"><p>
 Shandra, originally from Maryland, received her B.S. in Biology from Frostburg State University. During her undergraduate studies, she held multiple positions on various leadership boards and made the Dean's list numerous times. She has spent a considerable amount of time working in clinical environments, such as the Emergency Department and volunteering at the University of Maryland Medical Center, Shock Trauma. Though she enjoys the clinical environment, she is excited to venture into scientific research allowing her curiosity of how the human body works and is affected. She recently graduated from the M.S. in Biomedical Science program at Larkin University and plans to continue working and volunteering in the healthcare field to help uplift the community and make changes where and when it’s possible. Her goal is to attend Medical School in the future.
 </p></div>  
