@@ -12,7 +12,7 @@ subtitle: Respiratory and Immunology Project at Larkin University
 # RIPL_Effect Research Team Members
 
 <a href="https://www.riplrt.com/about/">
-  <img src="/img/RIPL_EffectRT.png" alt="RIPL_Effect Research Team" class="inline"/>
+  <img src="img/RIPL_EffectRT.png" alt="RIPL_Effect Research Team" class="inline"/>
 </a>
 
 To learn more about our mission at the @RIPLRT as well as about the @RIPLRT members (including bio's and interviews), [**click here**](https://www.riplrt.com/about)!
