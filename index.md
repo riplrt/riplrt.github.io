@@ -1,0 +1,58 @@
+---
+layour: page
+title: The RIPL Effect Research Team (RIPLRT)
+subtitle: Respiratory and Immunology Project at Larkin University
+---
+
+<div style="text-align:justify"><p>We are the RIPL Effect research team (<i>@RIPLRT</i>), which stands for Respiratory and Immunology Project at Larkin University, within <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">the College of Biomedical Sciences.</a></p></div>
+
+<div style="text-align:justify"><p>In the RIPL_Effect Research Team, in addition to addressing the respiratory health of the population through immunological, exposure science, and computational approaches, we value inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership. <a href="https://www.riplrt.com/about/">Click Here</a> to learn more about the RIPL_Effect Research Team.</p></div>
+
+---
+# RIPL_Effect Research Team Members
+
+<a href="https://www.riplrt.com/about/">
+  <img src="/img/RIPL_EffectRT.png" alt="RIPL_Effect Research Team" class="inline"/>
+</a>
+
+To learn more about our mission at the @RIPLRT as well as about the @RIPLRT members (including bio's and interviews), [**click here**](https://www.riplrt.com/about)!
+
+---
+# Recent News @RIPLRT!!!
+
+<i><b>We launched a Wiki page!</b></i>
+
+Dear followers, we justed launched a <a href="https://wiki.riplrt.com" target="_blank">Wiki Page</a>, in which we share guidelines and resources we employ in our daily endeavors within the RIPL_Effect Research Team.
+
+---
+<i><b>Recent Publications!</b></i>
+ 
+<ul>
+<li><div style="text-align:justify"><p>Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to asthma in the State of California. (<a href="http://dx.doi.org/10.12688/f1000research.15839.1" target="_blank">click here for the article</a>).</p></div></li>
+</ul>
+
+<ul>
+<li><div style="text-align:justify"><p>Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. (<a href="http://dx.doi.org/10.12688/f1000research.15831.1" target="_blank">click here for the article</a>).</p></div></li> 
+</ul> 
+
+---
+<i><b>Our Funding Campaign!</b></i>
+
+<div style="text-align:justify"><p>Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor the future generations of scientists and healthcare workfore.</p></div> 
+
+<div style="text-align:justify"><p>There is no such thing as a small donation: any small change can have a huge impact! <a href="https://www.gofundme.com/advocate-for-the-ripleffect?sharetype=teams&member=275308&rcid=r01-153687396981-61436b19e158485d&pc=ot_co_campmgmt_w" target="_blank">Click here to make a charitable donation to the RIPL_Effect Research Team</a>.</p></div>
+
+See the list of previous donors [here](https://www.riplrt.com/donors).
+
+---
+**To contact us**, 
+<a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here to contact the RIPL_Effect Research Team.<br></a>
+
+<a href="http://ularkin.org/college-of-biomedical-sciences/">
+  <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>
+</a>
+
+<font size="1">&#169; 2018 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
+
+
+
