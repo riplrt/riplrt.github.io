@@ -96,6 +96,14 @@ share-links-active:
   google: false
   linkedin: true
 
+# footer links
+footer-links-active:
+  github: true
+  email: true
+  rss: false
+  facebook: true
+  twitter: true
+
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
