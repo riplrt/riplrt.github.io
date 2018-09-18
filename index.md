@@ -1,5 +1,5 @@
 ---
-layour: page
+layout: page
 title: The RIPL Effect Research Team (RIPLRT)
 subtitle: Respiratory and Immunology Project at Larkin University
 ---
