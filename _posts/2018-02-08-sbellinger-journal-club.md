@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First student in the Journal Club!
-subtitle: Shandra Bellinger breaks the ice in the RIPLRt Journal Club!
+subtitle: Shandra Bellinger breaks the ice in the RIPLRT Journal Club!
 ---
 
 <img src="/img/RIPL_JournalClub_Shandra.jpg" alt="1st Journal Club: Shandra" class="inline"/>
