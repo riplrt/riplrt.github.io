@@ -27,8 +27,8 @@ navbar-links:
   Home: ""
   About Us: "about"
   Publications: 
-    - Peer-Reviewed Articles: "articles"
-    - Data Science/Bioinformatics: "datasci"
+    - Peer-Reviewed: "articles"
+    - Data Science: "datasci"
   Blog: "blog"
   Donors: "donors"
   Social: "social"
