@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIPLRT launches first!
+title: RIPLRT launches first Journal Club!
 subtitle: We launched our first journal club!
 ---
 
