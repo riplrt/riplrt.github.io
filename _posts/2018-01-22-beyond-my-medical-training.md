@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beyond My Medical Training!
-subtitle: Scientific research to enhance your medical career credentials: a testimonial from a postdoctoral research fellow
+subtitle: A testimonial from a postdoctoral research fellow!
 ---
 
 
