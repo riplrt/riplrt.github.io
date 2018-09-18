@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beyond My Medical Training!
-subtitle: First Discussion group with Dr. Sanchez-Gonzalez and fellows from LCH!
+subtitle: Scientific research to enhance your medical career credentials: a testimonial from a postdoctoral research fellow
 ---
 
 <img src="/img/DiscussionGroupSeries.jpg" alt="Beyond My Medical Training" class="inline" style="width: 50%; height: 50%; margin:8px"> <a name="Beyond My Medical Training"></a>
