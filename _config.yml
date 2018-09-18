@@ -29,8 +29,7 @@ navbar-links:
   Publications: 
     - Peer-Reviewed Articles: "articles"
     - Data Science/Bioinformatics: "datasci"
-  News: "news"
-  Blog: "blog"
+  News: "blog"
   Donors: "donors"
   Social: "social"
   RIPLRT Wiki: "https://wiki.riplrt.com"
