@@ -1,6 +1,5 @@
 ---
 title: First Discussion Group!
-image: /img/hello_world.jpeg
 ---
 
 <img src="/img/1st_DiscussionGroup.jpg" alt="First Discussion Group" class="inline"/>
