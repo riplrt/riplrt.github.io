@@ -4,7 +4,7 @@ title: T cells vaccine against Lupus!
 subtitle: Irradiated T Cells as Vaccine for Systemic Lupus Erythematous!
 ---
 
----
+
 <img src="/img/JournalClub_Ruslan.jpg" alt="Journal Club: Ruslan" align="right" style="width: 50%; height: 50%; margin:8px"> <a name="Journal Club: Ruslan"></a>
 
 <header>
