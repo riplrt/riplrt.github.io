@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Aerosols in a Dental Office!
-subtitle: Air pollution and respiratory health: aerosols and bioaerosols in a dental office!
+subtitle: Air pollution and respiratory health in a dental office!
 ---
 
 
