@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RIPLRT and Hurricane Maria!
-subtitle: RIPLRT is the PI of a Sub-Award within an NIH R21!
+title: T cells and encephalomyelitis!
+subtitle: Inducing regulatory T cells to suppress the autoimmune encephalomyelitis!
 ---
 
 
