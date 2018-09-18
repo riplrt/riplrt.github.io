@@ -1,4 +1,5 @@
 ---
+layout: post
 title: First Discussion Group!
 ---
 
