@@ -20,7 +20,7 @@ Among the contents of the [RIPLRT Wiki](https://wiki.riplrt.com) page are the fo
 - Open Science: @RIPLRT supports the the Open Science movement!
 - Resources: learning, scientific, and computational resources used by @RIPLRT
 
-We would like to thank the [Alylab](https://www.alylab.org/)[^fn1] for sharing in a recent issue of [Nature News & Comments](https://www.nature.com/articles/d41586-018-06167-w) the benefits of having a wiki page as well as elaborating a manual. 
+We would like to thank the [Alylab](https://www.alylab.org/)(1) for sharing in a recent issue of [Nature News & Comments](https://www.nature.com/articles/d41586-018-06167-w) the benefits of having a wiki page as well as elaborating a manual. 
 
 
-[^fn1] Aly, M., ruiz, nicholas, Jayakumar, M., & Tarder-Stoll, H. (2018, September 19). Aly Lab. Retrieved from osf.io/mdh87
+(1) Aly, M., ruiz, nicholas, Jayakumar, M., & Tarder-Stoll, H. (2018, September 19). Aly Lab. Retrieved from osf.io/mdh87
