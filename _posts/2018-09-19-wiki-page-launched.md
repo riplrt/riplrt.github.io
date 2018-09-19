@@ -6,7 +6,7 @@ subtitle: Lab information and resources in one place!
 
 In our efforts to contribute to the Open Science movement, and to facilitate access to information and resources among the RIPLRT team members (including prospective ones), the RIPLRT has launched a [Wiki Page](https://wiki.riplrt.com).
 
-<a href="https://wiki.riplrt.com/">
+<a href="https://wiki.riplrt.com/" target="_blank">
   <img src="/img/wiki-page.png" alt="RIPL_Effect Research Team" class="inline"/>
 </a>
 
