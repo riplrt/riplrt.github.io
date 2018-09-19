@@ -4,6 +4,7 @@ title: RIPLRT Team Members
 subtitle: Who are the RIPLRT?
 ---
 
+Find here pictures and bios of current members of the RIPLRT, pictures of [past members](#Past members of the RIPL_Effect), and [interviews](#Interviews with current and past members of the RIPL_Effect) with current and past members, as well as with our PI Dr. Rivera-Mariani. 
 
 ***Current members of the RIPLRT***
 
