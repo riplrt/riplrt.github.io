@@ -41,7 +41,7 @@ There is no such thing as a small donation: any small change can have a huge imp
 See the list of previous donors [here](https://www.riplrt.com/donors).
 
 ---
-**To the RIPL_Effect Research Team**, 
+**To contact the RIPL_Effect Research Team**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">

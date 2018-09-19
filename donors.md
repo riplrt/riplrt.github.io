@@ -4,11 +4,7 @@ title: Donors for the RIPLRT
 subtitle: People that have contributed donations to the @RIPLRT
 ---
 
-We the **RIPL_Effect Research Team** are more than grateful for our donors. Find our current crowd funding campaign below, as well as the **list of donors** that have supported our research, mentoring, and educational endeavor’s!
-
-<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='advocate-for-the-ripleffect'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
-
----
+We, the **RIPL_Effect Research Team** are more than grateful for our donors. Find our current crowd funding campaign below, as well as the **list of donors** that have supported our research, mentoring, and educational endeavor’s!
 
 <b>We are grateful for the donations made by:</b>
 
@@ -20,11 +16,14 @@ We the **RIPL_Effect Research Team** are more than grateful for our donors. Find
 </ul>
 
 ---
-**To contact us**, 
-<a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here to contact the RIPL_Effect Research Team.<br></a>
 
-<a href="https://www.riplrt.com/"><strong>Click here to return to the Home Page</strong></a>.
+### *Our Funding Campaign!*
 
+<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='advocate-for-the-ripleffect'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
+
+---
+**To contact the RIPL_Effect Research Team**, 
+<a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">
   <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>

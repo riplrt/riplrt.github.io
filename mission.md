@@ -19,11 +19,8 @@ The RIPL Effect research team also serves as a venue for the core of the team, <
 - **Leadership** (nourish from a culture of intra and inter-motivation and inspiration)
 
 ---
-**To contact us**, 
-<a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here to contact the RIPL_Effect Research Team.<br></a>
-
-<a href="https://www.riplrt.com/"><strong>Click here to return to the Home Page</strong></a>.
-
+**To contact the RIPL_Effect Research Team**, 
+<a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">
   <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>
