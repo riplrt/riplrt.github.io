@@ -36,7 +36,7 @@ Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in 
 
 - Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. (<a href="http://dx.doi.org/10.12688/f1000research.15831.1" target="_blank">click here for the article</a>).
 
-<b><a href="/blog" class="list-filter">Read more here!</a></b>
+<b><a href="/blog/2018-08-10-asthma-allergens-pub" class="list-filter">Read more here!</a></b>
 
 ---
 ### *Our Funding Campaign!*
