@@ -34,7 +34,7 @@ Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in 
 ---
 ***Our Funding Campaign!***
 
-Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor the future generations of scientists and healthcare workfore.
+Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor the future generations of scientists and healthcare workforce.
 
 There is no such thing as a small donation: any small change can have a huge impact! <a href="https://www.gofundme.com/advocate-for-the-ripleffect?sharetype=teams&member=275308&rcid=r01-153687396981-61436b19e158485d&pc=ot_co_campmgmt_w" target="_blank">Click here to make a charitable donation to the RIPL_Effect Research Team</a>.
 
