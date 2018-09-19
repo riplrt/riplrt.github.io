@@ -8,8 +8,3 @@ subtitle: ovarian steriods and their relationship with development of neurodegen
 
 <b>Jennifer Sutton</b>, <i>Community Leader</i> of the RIPL_Effect research team, from the state of Florida, and aspiring physician with plenty of volunteering experience with the community, shared her Journal Club talk on the ovarian steriods and their relationship with development of neurodegenerative diseases. The article Jennifer presented discussed was published by <i>Bethea C.L. and Reddy A.P. </i> (2015) in the journal <i>Molecular Psychiatry</i> (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508249/" target="_blank">click here to access the article</a>). Among the authors' findings were that timely steroid hormone therapy among females could reduce the incidence of depression and neurodegenerative diseases. 
 
-<a href="http://ularkin.org/college-of-biomedical-sciences/">
-  <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>
-</a>
-
-<font size="1">&#169; 2018 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
