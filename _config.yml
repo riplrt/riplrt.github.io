@@ -25,7 +25,9 @@ description: Respiratory and Immunology Project At Larkin University
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Us: "about"
+  About Us: 
+    - Mission: "mission"
+    - Team Members: "members"
   Publications: 
     - Peer-Reviewed: "articles"
     - Data Science: "datasci"
