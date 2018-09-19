@@ -4,7 +4,13 @@ title: RIPLRT in Facebook
 subtitle: Access and follow here our Facebook page!
 ---
 
-# RIPLRT's Facebook Page
+Access here our post, news, and updates we share with the Facebook community. In the RIPLRT Facebook page, we share 
+
+- RIPLRT news
+- RIPLRT events
+- RIPLRT milestones
+- Health information
+- Reflections: **don't miss our Friday's Reflections!**
 
 <div class="fb-page" data-href="https://www.facebook.com/RIPLEffectRT/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RIPLEffectRG/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RIPLEffectRG/">RIPL_Effect: Respiratory and Immunology Project at Larkin</a></blockquote></div>
 
