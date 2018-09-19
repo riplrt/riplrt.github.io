@@ -12,13 +12,13 @@ In our efforts to contribute to the Open Science movement, and to facilitate acc
 
 Among the contents of the [RIPLRT Wiki](https://wiki.riplrt.com) page are the following:
 
-- Lab Orientation: everyone joining @RIPLRT must go through lab orientation
-- Lab Management: house-keeping approaches for @RIPLRT daily activities
-- Experiments: guides on how to properly design, carry out, and document experiments with @RIPLRT
-- Forms: lab manual and other important forms related to @RIPLRT
-- In the Cloud: databases employed by @RIPLRT
-- Open Science: @RIPLRT supports the the Open Science movement!
-- Resources: learning, scientific, and computational resources used by @RIPLRT
+- **Lab Orientation**: everyone joining @RIPLRT must go through lab orientation
+- **Lab Management**: house-keeping approaches for @RIPLRT daily activities
+- **Experiments**: guides on how to properly design, carry out, and document experiments with @RIPLRT
+- **Forms**: lab manual and other important forms related to @RIPLRT
+- **In the Cloud**: databases employed by @RIPLRT
+- **Open Science**: @RIPLRT supports the the Open Science movement!
+- **Resources**: learning, scientific, and computational resources used by @RIPLRT
 
 We would like to thank the [Alylab](https://www.alylab.org/)(1) for sharing in a recent issue of [Nature News & Comments](https://www.nature.com/articles/d41586-018-06167-w) the benefits of having a wiki page as well as elaborating a manual. 
 
