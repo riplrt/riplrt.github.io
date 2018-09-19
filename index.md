@@ -22,11 +22,8 @@ To learn more about our mission at the @RIPLRT as well as about the @RIPLRT memb
 
 ### *We launched a Wiki page!*
 
-Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in which we share guidelines and resources we employ in our daily endeavors within the RIPL_Effect Research Team.
+Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in which we share guidelines and resources we employ in our daily endeavors within the RIPL_Effect Research Team. <b><a href="/blog" class="list-filter">Read More Here</a></b>.
 
-<div class="list-filters">
-  <a href="/blog" class="list-filter">Read More Here</a>
-</div>
 
 ---
 ### *Recent Publications!*
