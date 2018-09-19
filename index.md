@@ -27,7 +27,7 @@ In the RIPL_Effect Research Team, in addition to addressing the respiratory heal
 
 Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in which we share guidelines and resources we employ in our daily endeavors within the RIPL_Effect Research Team. 
 
-<b><a href="https://www.riplrt.com/2018-09-19-wiki-page-launched/" class="list-filter">Read more here!</a></b>.
+<b><a href="/blog" class="list-filter">Read more here!</a></b>.
 
 ---
 ### *Recent Publications!*
@@ -36,7 +36,7 @@ Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in 
 
 - Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. (<a href="http://dx.doi.org/10.12688/f1000research.15831.1" target="_blank">click here for the article</a>).
 
-<b><a href="https://www.riplrt.com/2018-08-10-asthma-allergens-pub/" class="list-filter">Read more here!</a></b>
+<b><a href="/blog" class="list-filter">Read more here!</a></b>
 
 ---
 ### *Our Funding Campaign!*
