@@ -4,7 +4,7 @@ title: Our Donors
 subtitle: People that have contributed donations to the @RIPLRT
 ---
 
-We, the **RIPL_Effect Research Team** are more than grateful for our donors. Find our current crowd funding campaign below, as well as the **list of donors** that have supported our research, mentoring, and educational endeavor’s!
+We, the **RIPL_Effect Research Team** are more than grateful for our donors. Find the **list of donors** that have supported our research, mentoring, and educational endeavor’s!
 
 <b>We are grateful for the donations made by:</b>
 
