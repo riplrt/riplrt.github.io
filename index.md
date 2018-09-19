@@ -14,7 +14,7 @@ In the RIPL_Effect Research Team, in addition to addressing the respiratory heal
 ---
 # RIPL_Effect Research Team Members
 
-<a href="https://www.riplrt.com/about/">
+<a href="https://www.riplrt.com/members/">
   <img src="/img/RIPL_EffectRT.png" alt="RIPL_Effect Research Team" class="inline"/>
 </a>
 
