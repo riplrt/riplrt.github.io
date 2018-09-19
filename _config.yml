@@ -33,7 +33,9 @@ navbar-links:
     - Data Science: "datasci"
   Blog: "blog"
   Donors: "donors"
-  Social: "social"
+  Social: 
+    - In Facebook: "facebook"
+    - In Twitter: "twitter"
   RIPLRT Wiki: "https://wiki.riplrt.com"
 
 
