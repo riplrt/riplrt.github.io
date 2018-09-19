@@ -22,6 +22,8 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 <p>At Larkin University, Dr. Rivera-Mariani seeks to mentor students and young researchers in the different pipelines and epicycles of scientific research, and through the RIPL Effect team provide further insight into the immunotoxicology of airborne pollutants of different chemical origins. He has published extensively in this line of research (<a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications" target="_blank">click here for additional information</a>).</p>
 
+[Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
+
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Ariel Stateman"></a>***Ariel Stateman*** (**Research Assistant**)
 <p>Ariel recently graduated from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, Ariel earned a B.S. in Molecular and Cellular Biology from the University of Illinois at Urbana-Champaign. There, she participated in scientific research- studying the sensing in lean and obese individuals through rats. She has an extensive experience in clinical observations from her internships at Carle Foundation Hospital in Urbana, IL. Among her prospective professional plans, she hopes to earn her doctorate degree.</p>
 
@@ -29,13 +31,17 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Hayat Srour"></a>***Hayat Srour*** (**Research Assistant**)
 <p>Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality.</p>
 
+[Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
 
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Joshua Baguley"></a>***Joshua Baguley*** (**Research Assistant**)  
 <p>Josh grew up in Indonesia and then moved to Waco, Texas where he attended Baylor University to complete a B.S. in Biochemistry. He spent the majority of his time at Baylor working as an undergraduate researcher, specializing in DNA manipulation and protein purification. His work in the lab mainly focused on the functions and effects of replication factors MCM8, MCM9, Dpo1, and Dpo4 on the DNA replisome. Joshua was also a member of the Baylor Volleyball club team. Joshua is also a recent graduate of the M.S. in Biomedical Sciences program at Larkin University.</p>
 
+[Click here](#With Angel and Josh Baguley) to view Josh's interview. 
 
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant**)
 <p>Shandra, originally from Maryland, received her B.S. in Biology from Frostburg State University. During her undergraduate studies, she held multiple positions on various leadership boards and made the Dean's list numerous times. She has spent a considerable amount of time working in clinical environments, such as the Emergency Department and volunteering at the University of Maryland Medical Center, Shock Trauma. Though she enjoys the clinical environment, she is excited to venture into scientific research allowing her curiosity of how the human body works and is affected. She recently graduated from the M.S. in Biomedical Science program at Larkin University and plans to continue working and volunteering in the healthcare field to help uplift the community and make changes where and when it’s possible. Her goal is to attend Medical School in the future.</p>  
+
+[Click here](#With Shandra Bellinger) to view Josh's interview.
 
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
@@ -46,22 +52,16 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 <a name="Interviews with current and past members of the RIPL_Effect"></a>***Interviews with current and past members of the RIPL_Effect***
 
-#### With Dr. Félix E. Rivera-Mariani
+<i><b><a name="With Dr. Félix E. Rivera-Mariani"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7H_Q4WBYfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### With Angel Jordan and Josh Baguley
+<i><b><a name="With Angel and Josh Baguley"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUdQuzNDHQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### With Jennifer Sutton and Roghan Wagimin
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_LODr7eC-M8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-#### With Melany Santana
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-UwbPcKTLZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-#### With Ruslan Fomenko and Hayat Srour
+<i><b><a name="With Ruslan Fomenko and Hayat Srour"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zty6LdeTwbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### With Shandra Bellinger
+<i><b><a name="With Shandra Bellinger"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72P1H5ioGrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
