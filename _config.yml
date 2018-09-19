@@ -32,7 +32,9 @@ navbar-links:
     - Peer-Reviewed: "articles"
     - Data Science: "datasci"
   Blog: "blog"
-  Donors: "donors"
+  Donors:
+    - Our Donors: "donors"
+    - Funding Campaign: "campaign"
   Social: 
     - In Facebook: "facebook"
     - In Twitter: "twitter"

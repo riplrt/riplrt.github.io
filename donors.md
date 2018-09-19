@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Donors for the RIPLRT
+title: Our Donors 
 subtitle: People that have contributed donations to the @RIPLRT
 ---
 
@@ -14,12 +14,6 @@ We, the **RIPL_Effect Research Team** are more than grateful for our donors. Fin
   <li>José (Joito) Berrios Baerga, Josselyn Rosario, Juan (Juanchy) Ortiz, Julio Rivera, Kierra Wilkerson, Lisa Lowder</li>
   <li>Luis Rivera Mariani, Marison Santana, Mildred Mariani, Shavontrola Rodríguez, Violeta Mariani Guevara</li>
 </ul>
-
----
-
-### *Our Funding Campaign!*
-
-<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='advocate-for-the-ripleffect'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
 
 ---
 **To contact the RIPL_Effect Research Team**, 
