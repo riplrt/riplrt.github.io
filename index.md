@@ -24,12 +24,20 @@ To learn more about our mission at the @RIPLRT as well as about the @RIPLRT memb
 
 Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in which we share guidelines and resources we employ in our daily endeavors within the RIPL_Effect Research Team.
 
+<div class="list-filters">
+  <a href="/blog" class="list-filter">Read More Here</a>
+</div>
+
 ---
 ### *Recent Publications!*
  
  - Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to asthma in the State of California. (<a href="http://dx.doi.org/10.12688/f1000research.15839.1" target="_blank">click here for the article</a>)
 
 - Evaluating the Associations of Race, Ethnicity, and Food Allergens in the Development of Childhood Asthma: Re-Analysis of Publicly Available Retrospective Cross-Sectional Cohort. (<a href="http://dx.doi.org/10.12688/f1000research.15831.1" target="_blank">click here for the article</a>).
+
+<div class="list-filters">
+  <a href="/blog" class="list-filter">Read More Here</a>
+</div>
 
 ---
 ### *Our Funding Campaign!*
@@ -39,6 +47,7 @@ Support our mission: to address the respiratory health of the population when ex
 There is no such thing as a small donation: any small change can have a huge impact! <a href="https://www.gofundme.com/advocate-for-the-ripleffect?sharetype=teams&member=275308&rcid=r01-153687396981-61436b19e158485d&pc=ot_co_campmgmt_w" target="_blank">Click here to make a charitable donation to the RIPL_Effect Research Team</a>.
 
 See the list of previous donors [here](https://www.riplrt.com/donors).
+
 
 ---
 **To contact the RIPL_Effect Research Team**, 
