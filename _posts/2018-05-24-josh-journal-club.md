@@ -1,7 +1,7 @@
 ---
 layout: post
-title: RIPLRT @ the LU Symposium
-subtitle: Students Posters Presentations at the Inaugural LU Research Symposium!
+title: Shutting down proteases in tumor cells
+subtitle: Inhibition of proteases that are expressed on tumor cells
 ---
 
 
