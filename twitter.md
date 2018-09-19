@@ -4,7 +4,13 @@ title: @RIPLRT in Twitter
 subtitle: Access and follow here our Twitter posts!
 ---
 
-# Twitting @RIPLRT
+Access here our post, news, and updates we share with the Twitter community. In the RIPLRT Twitter page, we share 
+
+- RIPLRT news
+- Re-Tweets
+- RIPLRT milestones
+- Health information
+- Reflections: **don't miss our Friday's Reflections!**
 
 <a class="twitter-timeline" href="https://twitter.com/riplrt?ref_src=twsrc%5Etfw">Tweets by riplrt</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
