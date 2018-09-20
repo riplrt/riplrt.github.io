@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIPLRT and hurricane Maria: one year from the day!
+title: RIPLRT and hurricane Maria, one year from the day!
 subtitle: The RIPLRT is in full gear in a collaborative project related to hurricane Maria
 ---
 
