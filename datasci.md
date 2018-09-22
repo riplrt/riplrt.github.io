@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RIPLRT's Computational Data Science and Biology
+title: Computational Approaches
 subtitle: Find here Data Science, Big Data Analytics, Computational Biology Reports 
 ---
 
