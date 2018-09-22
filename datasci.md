@@ -1,8 +1,7 @@
 ---
 layout: page
-title: RIPLRT's Data Science and Bioinformatics
-subtitle: Data Science, Big Data, and Bioinformatics Reports by the RIPLRT
----
+title: RIPLRT's Computational Data Science and Biology
+subtitle: Find here Data Science, Big Data Analytics, Computational Biology Reports 
 
 <ul>
 <li><div style="text-align:justify"><p>Proteomics data analysis in cancer biology with Matlab. <i>DOI: 10.13140/RG.2.2.19081.75366</i> (<a href="https://github.com/friveramariani/RIPL_Effect/blob/master/articles/CancerBloodExample.pdf" target="_blank">click here for the PDF</a>)</p></div></li> 
