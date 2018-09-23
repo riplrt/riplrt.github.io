@@ -31,13 +31,13 @@ navbar-links:
   Publications: 
     - Peer-review: "articles"
     - Data Science: "datasci"
-  Blog: "blog"
+  Blog/Social: 
+    - Blog: "blog"
+    - In Facebook: "facebook"
+    - In Twitter: " twitter"
   Donors:
     - Our Donors: "donors"
     - Funding Campaign: "campaign"
-  Social: 
-    - In Facebook: "facebook"
-    - In Twitter: "twitter"
   Wiki: "https://wiki.riplrt.com"
 
 
