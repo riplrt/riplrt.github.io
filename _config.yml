@@ -28,13 +28,12 @@ navbar-links:
   About Us: 
     - Mission: "mission"
     - Team Members: "members"
+    - In Facebook: "facebook"
+    - In Twitter: "twitter"
   Publications: 
     - Peer-review: "articles"
     - Data Science: "datasci"
   Blog: "blog"
-  Social: 
-    - In Facebook: "facebook"
-    - In Twitter: "twitter"
   Donors:
     - Our Donors: "donors"
     - Funding Campaign: "campaign"
@@ -44,7 +43,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/RIPL_EffectRT.png"
+avatar: "/img/RIPL_EffectRT.png"
 
 
 
