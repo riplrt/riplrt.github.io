@@ -28,7 +28,8 @@ navbar-links:
   About Us: 
     - Mission: "mission"
     - Team Members: "members"
-    - Publications: "publications"
+  Publications: 
+    - Peer-review: "articles"
     - Data Science: "datasci"
   Blog: "blog"
   Donors:
