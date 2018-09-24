@@ -20,9 +20,10 @@ As described in [our mission](https://www.riplrt.com/mission/), our main scienti
 <div style="text-align:justify"><p><u><b>Human-Based Immunotoxicology</b></u>. To align our findings of biomarker profiles in response fo environmental pollutants, we employ human-based immunological approaches (see the red arrow in the image). Our PI and mentor (Dr. Rivera-Mariani) has a long track of expanding the utility of immunological approaches into new areas of research as evidenced <a href="https://lushprize.org/awards/young-researcher-prize/" target="_blank">here (refer to the bottom of the page of this link)</a>. </p></div>
 
 ---
-<img src="/img/epicycles-of-datascience.jpg" alt="Computational Data Science" align="right" style="width: 40%; height: 40%; margin:8px"> <a name="Computational Data Science"></a>
+<img src="/img/epicycles-of-datascience.jpg" alt="Computational Data Science" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Computational Data Science"></a>
 <div style="text-align:justify"><p><u><b>Computational Data Science</b></u>. It is difficult case for science when there are relevant findings, but the statistical approaches are not reproducible. In RIPLRT, we employ <a href="https://www.r-project.org/" target="_blank">R</a>,  <a href="https://www.python.org/" target="_blank">Python</a>, and <a href="https://www.mathworks.com/products/matlab.html" target="_blank">Matlab</a> to make our data science reproducible. We also make our data science scripts, and often our raw data, available in online repositories such as <a href="https://github.com/riplrt" target="_blank">Github</a>, the <a href="https://osf.io/" target="_blank">Open Science Framework</a>,  <a href="https://figshare.com/" target="_blank">FigShare</a>, or <a href="https://zenodo.org/" target="_blank">Zenodo</a>.</p></div>
- 
+
+
 
 ---
 **To contact the RIPL_Effect Research Team**, 
