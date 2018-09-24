@@ -11,11 +11,10 @@ As described in [our mission](https://www.riplrt.com/mission/), our main scienti
 - [Computational Data Science](#Computational Data Science) 
 - [Big Data Analytics](#Big Data Analytics) 
 
-# Exposure Science
+---
 
-<img src="/img/human-exposure.png" alt="Exposure Science" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Exposure Science"></a>***Pollutants and Human Exposure***: 
-<div style="text-align:justify"><p>As stated by the US National Academies of Science in the book <a href="https://www.nap.edu/catalog/13507/exposure-science-in-the-21st-century-a-vision-and-a" target="_blank">Exposure Science in the 21st Century:
-A Vision and a Strategy</a>, exposure science (with regards to human beings) links the <b>a)</b> origin of the pollutant and its concentration from a giving source, <b>b)</b> the human behavior during or as result of the exposure, <b>c)</b> the interaction between the pollutant and the human subject, and <b>d)</b> and the outcome of this interaction. Depending on the nature of the question we want to address, and the project (often in a collaborative manner) in which we engage, here in RIPLRT we often address two or more of the concepts of exposure science</p></div>
+<img src="/img/human-exposure.png" alt="Exposure Science" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Exposure Science"></a>
+<div style="text-align:justify"><p><u><b>Expusure Science</b></u>. As stated by the US National Academies of Science in the book <a href="https://www.nap.edu/catalog/13507/exposure-science-in-the-21st-century-a-vision-and-a" target="_blank">Exposure Science in the 21st Century: A Vision and a Strategy</a>, exposure science (with regards to human beings) links the <b>a)</b> origin of the pollutant and its concentration from a giving source, <b>b)</b> the human behavior during or as result of the exposure, <b>c)</b> the interaction between the pollutant and the human subject, and <b>d)</b> and the outcome of this interaction. Depending on the nature of the question we want to address, and the project (often in a collaborative manner) in which we engage, here in RIPLRT we often address two or more of the concepts of exposure science</p></div>
 
 ---
 # Human-Based Immunotoxicology
