@@ -18,6 +18,18 @@ As described in [our mission](https://www.riplrt.com/mission/), our main scienti
 A Vision and a Strategy</a>, exposure science (with regards to human beings) links the <b>a)</b> origin of the pollutant and its concentration from a giving source, <b>b)</b> the human behavior during or as result of the exposure, <b>c)</b> the interaction between the pollutant and the human subject, and <b>d)</b> and the outcome of this interaction. Depending on the nature of the question we want to address, and the project (often in a collaborative manner) in which we engage, here in RIPLRT we often address two or more of the concepts of exposure science</p></div>
 
 ---
+# Human-Based Immunotoxicology
+
+
+---
+# Computational Data Science
+
+
+---
+# Big Data Analytics
+
+
+---
 **To contact the RIPL_Effect Research Team**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 

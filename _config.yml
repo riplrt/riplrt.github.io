@@ -26,8 +26,9 @@ description: Respiratory and Immunology Project At Larkin University
 navbar-links:
   Home: ""
   About Us: 
-    - Mission: "mission"
+    - Our Mission: "mission"
     - Team Members: "members"
+    - In the Lab: "lab"
     - In Facebook: "facebook"
     - In Twitter: "twitter"
   Publications: 
