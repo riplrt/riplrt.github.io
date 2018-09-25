@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Funding Campaign 
+title: Our Crowdfunding Campaign 
 subtitle: Any small change can have a big impact!
 ---
 
