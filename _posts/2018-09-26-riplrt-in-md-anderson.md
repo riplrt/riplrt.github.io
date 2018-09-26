@@ -11,3 +11,5 @@ As stated in our [mission](https://www.riplrt.com/mission/), besides contributin
 News like these ones bring joy to the RIPLRT
 
 Cheers to Josh!!!
+
+P.S. He will continue to be affiliated with the RIPLRT!!!
