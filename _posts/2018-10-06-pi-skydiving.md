@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Work-life balance 14,000 high
+title: Work-life balance 14,000 feet high
 subtitle: Xtreme sports taste in our PI'S work-life balance!
 ---
 
