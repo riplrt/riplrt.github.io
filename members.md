@@ -12,6 +12,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 - [Ariel Stateman](#Ariel Stateman)
 - [Hayat Srour](#Hayat Srour)
 - [Joshua Baguley](#Joshua Baguley)
+- [Patricia Romaniuk](#Patricia Romaniuk)
 - [Shandra Bellinger](#Shandra Bellinger)
 
 
@@ -25,7 +26,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 [Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
 
 ---
-<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Ariel Stateman"></a>***Ariel Stateman*** (**Research Assistant**)
+<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Ariel Stateman"></a>***Ariel Stateman*** (**Research Assistant - Intern**)
 <div style="text-align:justify"><p>Ariel recently graduated from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, Ariel earned a B.S. in Molecular and Cellular Biology from the University of Illinois at Urbana-Champaign. There, she participated in scientific research- studying the sensing in lean and obese individuals through rats. She has an extensive experience in clinical observations from her internships at Carle Foundation Hospital in Urbana, IL. Among her prospective professional plans, she hopes to earn her doctorate degree.</p></div>
 
 ---
@@ -35,13 +36,17 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
 
 ---
-<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Joshua Baguley"></a>***Joshua Baguley*** (**Research Assistant**)  
+<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Joshua Baguley"></a>***Joshua Baguley*** (**Research Assistant - Intern**)  
 <div style="text-align:justify"><p>Josh grew up in Indonesia and then moved to Waco, Texas where he attended Baylor University to complete a B.S. in Biochemistry. He spent the majority of his time at Baylor working as an undergraduate researcher, specializing in DNA manipulation and protein purification. His work in the lab mainly focused on the functions and effects of replication factors MCM8, MCM9, Dpo1, and Dpo4 on the DNA replisome. Joshua was also a member of the Baylor Volleyball club team. Joshua is also a recent graduate of the M.S. in Biomedical Sciences program at Larkin University.</p></div>
 
 [Click here](#With Angel and Josh Baguley) to view Josh's interview. 
 
 ---
-<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant**)
+<img src="/img/Patricia.jpg" alt="Patricia Romaniuk" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Patricia Romaniuk"></a>***Patricia Romaniuk*** (**Graduate Student**)  
+<div style="text-align:justify"><p>Patricia graduated from Florida International University with a B.A. in Psychology and Marketing, and from Miami Dade College with an A.S. in Biotechnology – Chemical Technology and A.A. in Psychology. She conducted scientific research in Bioinformatics and Biotechnology. She is involved in various philanthropic organizations and has received the Presidential Lifetime Achievement Award for her service. She is looking forward to graduating Larkin University with a Masters in Biomedical Science in Medicine and a career as a Physician.</p></div>
+
+---
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant - Intern**)
 <div style="text-align:justify"><p>Shandra, originally from Maryland, received her B.S. in Biology from Frostburg State University. During her undergraduate studies, she held multiple positions on various leadership boards and made the Dean's list numerous times. She has spent a considerable amount of time working in clinical environments, such as the Emergency Department and volunteering at the University of Maryland Medical Center, Shock Trauma. Though she enjoys the clinical environment, she is excited to venture into scientific research allowing her curiosity of how the human body works and is affected. She recently graduated from the M.S. in Biomedical Science program at Larkin University and plans to continue working and volunteering in the healthcare field to help uplift the community and make changes where and when it’s possible. Her goal is to attend Medical School in the future.</p></div>  
 
 [Click here](#With Shandra Bellinger) to view Josh's interview.
