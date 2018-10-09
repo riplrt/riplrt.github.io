@@ -42,7 +42,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 [Click here](#With Angel and Josh Baguley) to view Josh's interview. 
 
 ---
-<img src="/img/Patricia.jpg" alt="Patricia Romaniuk" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Patricia Romaniuk"></a>***Patricia Romaniuk*** (**Graduate Student**)  
+<img src="/img/Patricia.jpg" alt="Patricia Romaniuk" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Patricia Romaniuk"></a>***Patricia Romaniuk*** (**Graduate Student**)  
 <div style="text-align:justify"><p>Patricia graduated from Florida International University with a B.A. in Psychology and Marketing, and from Miami Dade College with an A.S. in Biotechnology – Chemical Technology and A.A. in Psychology. She conducted scientific research in Bioinformatics and Biotechnology. She is involved in various philanthropic organizations and has received the Presidential Lifetime Achievement Award for her service. She is looking forward to graduating Larkin University with a Masters in Biomedical Science in Medicine and a career as a Physician.</p></div>
 
 ---
