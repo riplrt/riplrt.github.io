@@ -13,6 +13,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 - [Hayat Srour](#Hayat Srour)
 - [Joshua Baguley](#Joshua Baguley)
 - [Patricia Romaniuk](#Patricia Romaniuk)
+- [Ruslan Fomenko](Ruslan Fomenko)
 - [Shandra Bellinger](#Shandra Bellinger)
 
 
@@ -44,6 +45,12 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 ---
 <img src="/img/Patricia.jpg" alt="Patricia Romaniuk" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Patricia Romaniuk"></a>***Patricia Romaniuk*** (**Graduate Student**)  
 <div style="text-align:justify"><p>Patricia graduated from Florida International University with a B.A. in Psychology and Marketing, and from Miami Dade College with an A.S. in Biotechnology – Chemical Technology and A.A. in Psychology. She conducted scientific research in Bioinformatics and Biotechnology. She is involved in various philanthropic organizations and has received the Presidential Lifetime Achievement Award for her service. She is looking forward to graduating Larkin University with a Masters in Biomedical Science in Medicine and a career as a Physician.</p></div>
+
+---
+<img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Ruslan Fomenko"></a>***Shandra Bellinger*** (**Research Assistant - Intern**)
+<div style="text-align:justify"><p>Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He later graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan also took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants. .</p></div>  
+
+[Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
 
 ---
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant - Intern**)
