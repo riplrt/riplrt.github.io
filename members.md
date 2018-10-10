@@ -13,7 +13,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 - [Hayat Srour](#Hayat Srour)
 - [Joshua Baguley](#Joshua Baguley)
 - [Patricia Romaniuk](#Patricia Romaniuk)
-- [Ruslan Fomenko](Ruslan Fomenko)
+- [Ruslan Fomenko](#Ruslan Fomenko)
 - [Shandra Bellinger](#Shandra Bellinger)
 
 
