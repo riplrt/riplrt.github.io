@@ -60,13 +60,15 @@ Patricia's peers in the RIPLRT were impressed with her credentials, including he
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Ruslan Fomenko"></a>***Ruslan Fomenko*** (**Research Assistant - Intern**)
 <div style="text-align:justify"><p>Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He later graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan also took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants.</p></div>  
 
+<div style="text-align:justify"><p>Ruslan emergence as a researcher has been evident in the group. In addition to being one of the phlebotomist of the RIPLRT (yes, we work with human tissues and body fluids), Ruslan has been very active in different projects within RIPLRT.</p></div>  
+
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
 
 ---
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant - Intern**)
 <div style="text-align:justify"><p>Shandra, originally from Maryland, received her B.S. in Biology from Frostburg State University. During her undergraduate studies, she held multiple positions on various leadership boards and made the Dean's list numerous times. She has spent a considerable amount of time working in clinical environments, such as the Emergency Department and volunteering at the University of Maryland Medical Center, Shock Trauma. Though she enjoys the clinical environment, she is excited to venture into scientific research allowing her curiosity of how the human body works and is affected. She recently graduated from the M.S. in Biomedical Science program at Larkin University and plans to continue working and volunteering in the healthcare field to help uplift the community and make changes where and when it’s possible. Her goal is to attend Medical School in the future.</p></div>  
 
-[Click here](#With Shandra Bellinger) to view Josh's interview.
+[Click here](#With Shandra Bellinger) to view Shandra's interview.
 
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
