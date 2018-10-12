@@ -44,17 +44,21 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Joshua Baguley"></a>***Joshua Baguley*** (**Research Assistant - Intern**)  
 <div style="text-align:justify"><p>Josh grew up in Indonesia and then moved to Waco, Texas where he attended Baylor University to complete a B.S. in Biochemistry. He spent the majority of his time at Baylor working as an undergraduate researcher, specializing in DNA manipulation and protein purification. His work in the lab mainly focused on the functions and effects of replication factors MCM8, MCM9, Dpo1, and Dpo4 on the DNA replisome. Joshua was also a member of the Baylor Volleyball club team. Joshua is also a recent graduate of the M.S. in Biomedical Sciences program at Larkin University.</p></div>
 
+<div style="text-align:justify"><p>Josh, as mentioned in Ariel's trayectory, was the other co-leader of the group. His leadership was evident from the beginning (even before launching the research group), as well as when addressing different challenging situations within the group. We are proud of Josh recently starting a position in the Genomics Department at MD Anderson Cancer Center, in Houston Texas. Nevertheless, his scientific heart still linked to the RIPLRT.</p></div>
+
 [Click here](#With Angel and Josh Baguley) to view Josh's interview. 
 
 ---
 <img src="/img/Patricia.jpg" alt="Patricia Romaniuk" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Patricia Romaniuk"></a>***Patricia Romaniuk*** (**Graduate Student**)  
 <div style="text-align:justify"><p>Patricia graduated from Florida International University with a B.A. in Psychology and Marketing, and from Miami Dade College with an A.S. in Biotechnology – Chemical Technology and A.A. in Psychology. She conducted scientific research in Bioinformatics and Biotechnology. She is involved in various philanthropic organizations and has received the Presidential Lifetime Achievement Award for her service. She is looking forward to graduating Larkin University with a Masters in Biomedical Science in Medicine and a career as a Physician.</p></div>
 
+Patricia's peers in the RIPLRT were impressed with her credentials, including her experience as a student researcher at Miami Dade College, and academic porfolio prior to joining the M.S. in Biomedical Sciences program at Larkin University. We are lucky to have her in the RIPLRT. 
+
 [Click here](#With Patricia Romaniuk) to view Patricia's interview. 
 
 ---
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Ruslan Fomenko"></a>***Ruslan Fomenko*** (**Research Assistant - Intern**)
-<div style="text-align:justify"><p>Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He later graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan also took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants. .</p></div>  
+<div style="text-align:justify"><p>Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He later graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan also took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants.</p></div>  
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
 
