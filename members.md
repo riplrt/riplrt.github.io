@@ -31,7 +31,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <div style="text-align:justify"><p>Ariel recently graduated from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, Ariel earned a B.S. in Molecular and Cellular Biology from the University of Illinois at Urbana-Champaign. There, she participated in scientific research- studying the sensing in lean and obese individuals through rats. She has an extensive experience in clinical observations from her internships at Carle Foundation Hospital in Urbana, IL. Among her prospective professional plans, she hopes to earn her doctorate degree.</p></div>
 
 ---
-<img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Hayat Srour"></a>***Hayat Srour*** (**Research Assistant**)
+<img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Hayat Srour"></a>***Hayat Srour*** (**Research Assistant and Lab Manager**)
 <div style="text-align:justify"><p>Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality.</p></div>
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
