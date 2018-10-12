@@ -68,6 +68,8 @@ Patricia's peers in the RIPLRT were impressed with her credentials, including he
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant - Intern**)
 <div style="text-align:justify"><p>Shandra, originally from Maryland, received her B.S. in Biology from Frostburg State University. During her undergraduate studies, she held multiple positions on various leadership boards and made the Dean's list numerous times. She has spent a considerable amount of time working in clinical environments, such as the Emergency Department and volunteering at the University of Maryland Medical Center, Shock Trauma. Though she enjoys the clinical environment, she is excited to venture into scientific research allowing her curiosity of how the human body works and is affected. She recently graduated from the M.S. in Biomedical Science program at Larkin University and plans to continue working and volunteering in the healthcare field to help uplift the community and make changes where and when it’s possible. Her goal is to attend Medical School in the future.</p></div>  
 
+<div style="text-align:justify"><p>Shandra's attention to detail is one among her many contributions to the RIPLRT. For this reason, when we were the RIPLRG, Shandra was assigned the task of being the Lead Editor, which included revising reports, our websites, among other publications from our research group. Not least important are her leadership and maturity, which have serve as examples to many students at Larkin University.</p></div>  
+
 [Click here](#With Shandra Bellinger) to view Shandra's interview.
 
 ---
