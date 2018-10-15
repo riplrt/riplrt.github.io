@@ -15,7 +15,7 @@ In the RIPL_Effect Research Team, in addition to addressing the respiratory heal
 # RIPL_Effect Research Team Members
 
 <a href="https://www.riplrt.com/members/">
-  <img src="/img/RIPL_EffectRT.png" alt="RIPL_Effect Research Team" class="inline"/>
+  <img src="/img/RIPL_EffectRT1.png" alt="RIPL_Effect Research Team" class="inline"/>
 </a>
 
 [**Read more about the Team Members**](https://www.riplrt.com/members)!
@@ -23,18 +23,19 @@ In the RIPL_Effect Research Team, in addition to addressing the respiratory heal
 ---
 # Recent News @RIPLRT!!!
 
+### *New face in the RIPLRT!*
+
+We would like extend the warmest welcome to the new face in the RIPLRT scientific roster, Patricia Romaniuk. Patricia is among the new students in the M.S. in Biomedical Sciences at Larkin University. Cheers for Patricia! 
+
+
+<b><a href="/2018-10-09-patricia-in-riplrt" class="list-filter">Read more here!</a></b>
+
 ### *RIPLRT in MD Anderson Cancer Center*
 
 One of our own, [Josh Baguley](https://www.riplrt.com/2018-09-26-riplrt-in-md-anderson/), was recently offered a position in the Genomic Medicine Department at the MD Anderson Cancer Center. This great news make us proud in the RIPLRT! Cheers for Josh! 
 
 <b><a href="/2018-09-26-riplrt-in-md-anderson" class="list-filter">Read more here!</a></b>.
 
-### *We launched a Wiki page!*
-
-Dear followers, we justed launched a [Wiki page](https://wiki.riplrt.com), , in which we share guidelines and resources we employ in our daily endeavors within the RIPL_Effect Research Team. 
-
-
-<b><a href="/2018-09-19-wiki-page-launched" class="list-filter">Read more here!</a></b>
 
 ### *Our Funding Campaign!*
 

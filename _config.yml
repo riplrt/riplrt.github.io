@@ -45,7 +45,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/RIPL_EffectRT.png"
+avatar: "/img/RIPLRT_avatar.png"
 
 
 
@@ -87,7 +87,7 @@ author:
   github: riplrt
   twitter: riplrt
   instagram: ripleffectrt
-  youtube: channel/RIPL_EffectRT
+  youtube: channel/UCifPv5PUsx8gVHbUjgcruXA
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
