@@ -4,7 +4,7 @@ title: What we Do!
 subtitle: RIPLRT's approaches to accompish our scientific mission
 --- 
 
-As described in [our mission](https://www.riplrt.com/mission/), our main scientific interest is addressing the physiological human health respiratory effects in response to environmental stressors: pollutants of different chemical origins and environmental sources. In line wit our scientific mission, we employ,
+As described in [our mission](https://www.riplrt.com/mission/), our main scientific interest is addressing the physiological human health respiratory effects in response to environmental stressors: pollutants of different chemical origins and environmental sources. In line with our scientific mission, we employ,
 
 - [Exposure Science](#Exposure Science)
 - [Human-Based Immunotoxicology](#Human-Based Immunotoxicology)
