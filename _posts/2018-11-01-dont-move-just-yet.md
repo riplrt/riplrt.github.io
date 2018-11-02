@@ -6,11 +6,11 @@ subtitle: Attention Home buyers - Could you end up in a city that affects your h
 
 *By Hayat Srour*
 
-When purchasing a home, the natural instinct is to make sure your are investing in an area that is beneficial your future. Some may consider locality of parks, markets, weather, cost of living, or even the school districts. These elements play a large part in the decision making of where you would ultimately set nest. One factor that should come into play is the health risks you may be exposed to. Air quality in any location can pose respiratory and other health risk  to a susceptible person, family, and entire community. Among the two important air quality markers considered by experts in air pollution include ozone and particulate matter (PM) (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2592262/" target="_blank">Click here for more information</a>). 
+When purchasing a home, the natural instinct is to make sure your are investing in an area that is beneficial your future. Some may consider locality of parks, markets, weather, cost of living, or even the school districts. These elements play a large part in the decision making of where you would ultimately set nest. One factor that should come into play is the health risks you may be exposed to. Air quality in any location can pose respiratory and other health risk  to a susceptible person, family, and entire community. Among the two important air quality markers considered by experts in air pollution include ozone and particulate matter (PM) (Click on the link for more information https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2592262/"). 
 
 <img src="/img/airpollution-hayatpost.png" alt="Air Pollution in Human Health" class="inline"/>
 
-<font size="2"><i>Source: https://www.lung.org/our-initiatives/healthy-air/sota/health-risks/</i></font>.
+*Source: https://www.lung.org/our-initiatives/healthy-air/sota/health-risks/.*
 
 Ground level ozone (O<sub>3</sub>) is a colorless, toxic gas that is produced when UV rays and oxygen react. This colorless pollutant can be messy, meaning it is hard to control and a product of our lifestyle (comes from chemical plants, cars, power plants, household reagents and equipments, etc.). Ozone is not only harmful to the atmosphere but when inhaled can sunburn our respiratory tract. Ozone has the potential to inflame the airway, stress the lungs and make it harder to breath. 
 
@@ -18,7 +18,7 @@ PM is another air pollutant that is small enough to enter the body, pass all its
 
 <img src="/img/lungs-air-pollution-hayatblog.png" alt="Air Pollution and Human Lungs" class="inline"/>
 
-<font size="2"><i>Source: https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/particle-pollution.html</i></font>.
+*Source: https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/particle-pollution.html.*
 
 Now that we have the facts , should we avoid certain cities and/ or states? That is up to the readers. If you plan on moving to a certain location its important to consider your surroundings.  According to the American Lung Association, living close to major roads causes childhood asthma, cardiovascular morbidity and impaired lung function. Studies show that long-term exposure roads can lead to chronic obstructive pulmonary disorder (COPD), higher risk of premature death, and dementia.
 Interestingly enough this information makes sense when studying about the nature of air pollution and functionality of the human body, it is another topic when applying it to reality. It is important to be mindful of the actions we have on the environment because in the end it may come back and attack us.
