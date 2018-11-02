@@ -8,7 +8,8 @@ subtitle: Attention Home buyers - Could you end up in a city that affects your h
 
 When purchasing a home, the natural instinct is to make sure your are investing in an area that is beneficial your future. Some may consider locality of parks, markets, weather, cost of living, or even the school districts. These elements play a large part in the decision making of where you would ultimately set nest. One factor that should come into play is the health risks you may be exposed to. Air quality in any location can pose respiratory and other health risk  to a susceptible person, family, and entire community. Among the two important air quality markers considered by experts in air pollution include ozone and particulate matter (PM) (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2592262/" target="_blank">Click here for more information</a>). 
 
-<img src="/img/airpollution-hayatpost.jpg.png" alt="Air Pollution in Human Health" class="inline"/>
+<img src="/img/airpollution-hayatpost.png" alt="Air Pollution in Human Health" class="inline"/>
+
 <font size="2"><i>Source: https://www.lung.org/our-initiatives/healthy-air/sota/health-risks/</a></i></font>.
 
 Ground level ozone (O<sub>3</sub>) is a colorless, toxic gas that is produced when UV rays and oxygen react. This colorless pollutant can be messy, meaning it is hard to control and a product of our lifestyle (comes from chemical plants, cars, power plants, household reagents and equipments, etc.). Ozone is not only harmful to the atmosphere but when inhaled can sunburn our respiratory tract. Ozone has the potential to inflame the airway, stress the lungs and make it harder to breath. 
@@ -16,6 +17,7 @@ Ground level ozone (O<sub>3</sub>) is a colorless, toxic gas that is produced wh
 PM is another air pollutant that is small enough to enter the body, pass all its defense mechanisms and do major harm. It can come from gas exhaust, dust (including both indoor and outdoor-generated), smoke, pollen, and basically any foreign matter with a diameter of 2.5 or 10 micrometers. These two pollutants do not discriminate but affect the people who are in close proximity, including children and the mature citizens. Did you know that children can be exposed to 3rd-hand smoke (<a href="https://tobaccocontrol.bmj.com/content/22/3/147" target="_blank">Click here for more information</a>). 
 
 <img src="/img/lungs-air-pollution-hayatblog.png" alt="Air Pollution and Human Lungs" class="inline"/>
+
 <font size="2"><i>Source: https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/particle-pollution.html</i></font>.
 
 Now that we have the facts , should we avoid certain cities and/ or states? That is up to the readers. If you plan on moving to a certain location its important to consider your surroundings.  According to the American Lung Association, living close to major roads causes childhood asthma, cardiovascular morbidity and impaired lung function. Studies show that long-term exposure roads can lead to chronic obstructive pulmonary disorder (COPD), higher risk of premature death, and dementia.
