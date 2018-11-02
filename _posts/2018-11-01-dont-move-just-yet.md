@@ -10,7 +10,7 @@ When purchasing a home, the natural instinct is to make sure your are investing 
 
 <img src="/img/airpollution-hayatpost.png" alt="Air Pollution in Human Health" class="inline"/>
 
-<font size="2"><i>Source: https://www.lung.org/our-initiatives/healthy-air/sota/health-risks/</a></i></font>.
+<font size="2"><i>Source: https://www.lung.org/our-initiatives/healthy-air/sota/health-risks/</i></font>.
 
 Ground level ozone (O<sub>3</sub>) is a colorless, toxic gas that is produced when UV rays and oxygen react. This colorless pollutant can be messy, meaning it is hard to control and a product of our lifestyle (comes from chemical plants, cars, power plants, household reagents and equipments, etc.). Ozone is not only harmful to the atmosphere but when inhaled can sunburn our respiratory tract. Ozone has the potential to inflame the airway, stress the lungs and make it harder to breath. 
 
@@ -27,3 +27,9 @@ Click on the <a href="https://www.lung.org/our-initiatives/healthy-air/sota/city
 
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px">
 <font size="2"><i>About the author: Hayat Srour is a graduate of the M.S. in Biomedical Sciences at Larkin University. Hayat is also a Research Assistant and Lab Manager for the RIPL_Effect Research Team (RIPLRT, a.k.a. Respiratory and Immunology Project at Larkin Research Team). She is one among the RIPLRT members who have been engaged since the research team was established on October 11<sup>th</sup> of 2017.</i></font>
+
+*Sources*: 
+- *Ebi, Kristie L and Glenn McGregor. “Climate change, tropospheric ozone and particulate matter, and health impacts” Environmental health perspectives vol. 116,11 (2008): 1449-55.*
+- *Andersen ZJ, Hvidberg M, Jensen SS, Ketzel M, Loft S, Sørensen M, Tjønneland A, Overvad K, and Raaschou-Nielsen O. Chronic Obstructive Pulmonary Disease and Long-Term Exposure to Traffic-related Air Pollution: A Cohort Study. Am J Respir Crit Care Med. 2011; 183: 455-461.*
+- https://www.lung.org
+- https://www.ncbi.nlm.nih.gov/pubmed/15496621
