@@ -27,7 +27,7 @@ Interestingly enough this information makes sense when studying about the nature
 Click on the <a href="https://tobaccocontrol.bmj.com/content/22/3/147https://www.lung.org/our-initiatives/healthy-air/sota/city-rankings/most-polluted-cities.html">link</a> to see if your city of interest makes the list of top polluted cities found in the US.
 
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="left" style="width: 15%; height: 15%; margin:8px">
-<font size="2"><p><i>About the author -- Hayat Srour is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Hayat is also a Research Assistant and Lab Manager in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani.</i></p></font>
+<p><i>About the author -- Hayat Srour is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Hayat is also a Research Assistant and Lab Manager in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani.</i></p>
 
 
 *Sources*: 
