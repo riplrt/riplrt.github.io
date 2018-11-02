@@ -15,7 +15,7 @@ Worldwide.
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="left" style="width: 15%; height: 15%; margin:8px">
 <font size="2"><p><i>About the author -- Shandra Bellinger is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Shandra is also an intern-Research Assistant in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani.</i></p></font>
 
----
+
 *Sources*:
 - *Anderson, J.O., Thundiyil, J.G. & Stolbach, A. J. (2012) Clearing the Air: A Review of the Effects of Particulate Matter Air Pollution on Human Health. Med. Toxicol. 8: 166.* 
 - *Kampa M, Castanas E. (2008) Human health effects of air pollution. Environ Pollut. 151(2):362-7.*

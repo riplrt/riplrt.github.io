@@ -29,7 +29,7 @@ Click on the <a href="https://tobaccocontrol.bmj.com/content/22/3/147https://www
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="left" style="width: 15%; height: 15%; margin:8px">
 <font size="2"><p><i>About the author -- Hayat Srour is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Hayat is also a Research Assistant and Lab Manager in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani.</i></p></font>
 
----
+
 *Sources*: 
 - Ebi, Kristie L and Glenn McGregor. “Climate change, tropospheric ozone and particulate matter, and health impacts” Environmental health perspectives vol. 116,11 (2008): 1449-55.
 - Andersen ZJ, Hvidberg M, Jensen SS, Ketzel M, Loft S, Sørensen M, Tjønneland A, Overvad K, and Raaschou-Nielsen O. Chronic Obstructive Pulmonary Disease and Long-Term Exposure to Traffic-related Air Pollution: A Cohort Study. Am J Respir Crit Care Med. 2011; 183: 455-461.
