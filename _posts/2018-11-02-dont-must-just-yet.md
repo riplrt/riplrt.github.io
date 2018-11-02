@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Wait, Don’t Move Just Yet!
-subtitle: Attention Home buyers - ould you end up in a city that affects your health?
+subtitle: Attention home buyers. Could you end up in a city that affects your health?
 ---
 
 *By Hayat Srour*
+
 When purchasing a home, the natural instinct is to make sure your are investing in an area that is beneficial your future. Some may consider locality of parks, markets, weather, cost of living, or even the school districts. These elements play a large part in the decision making of where you would ultimately set nest. One factor that should come into play is the health risks you may be exposed to. Air quality in any location can pose respiratory and other health risk  to a susceptible person, family, and entire community. Among the two important air quality markers considered by experts in air pollution include ozone and particulate matter (PM) (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2592262/). 
 
 <img src="/img/airpollution-hayatpost.png" alt="Danger of Air Pollution" class="inline"/>
