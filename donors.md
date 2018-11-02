@@ -10,7 +10,7 @@ We, the **RIPL_Effect Research Team** are more than grateful for our donors. Fin
 
 <ul>
   <li>Aixa Rivera Ortiz, Charles Rogers, Chastoni Jones, Curtis Marshall, Dr. Dominique Spigner</li>
-  <li>Edwin Cochran Colón, Elizabeth Baguer, Erika Frazier, George de Jesús Díaz, Gina Martínez-Rivera, Jorge Santana</li>
+  <li>Edwin Cochran Colón, Elizabeth Romaniuk, Erika Frazier, George de Jesús Díaz, Gina Martínez-Rivera, Jorge Santana</li>
   <li>José (Joito) Berrios Baerga, Josselyn Rosario, Juan (Juanchy) Ortiz, Julio Rivera, Kierra Wilkerson, Lisa Lowder</li>
   <li>Luis Rivera Mariani, Marison Santana, Mildred Mariani, Shavontrola Rodríguez, Violeta Mariani Guevara</li>
 </ul>
