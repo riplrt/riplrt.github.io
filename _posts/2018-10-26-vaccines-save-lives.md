@@ -22,5 +22,5 @@ Therefore, refusing the benefits of vaccination is basically like conspiring dur
 
 It is our choice: contribute to society's well being (vaccinate) or do the opposite -- conspire to make us and others sick.
 
-
+<img src="/img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="left" style="width: 20%; height: 20%; margin:8px">
 <font size="2"><i>About the author: Dr. Félix E. Rivera-Mariani is an asssitant professor and academic coordinator in the College of Biomedical Sciences at Larkin University where he teaches biochemistry, immunology, and molecular genetics. He is also the principal investigator of the Respiratory and Immunology Project at Larkin research team. His research team is actively engaged in addressing the respiratory health of the population through immunological approaches and data analysis of big dataset through computer science approaches.</i></font>
