@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wait, Don’t Move Just Yet!
-subtitle: Attention Home buyers: Could you end up in a city that affects your health?
+subtitle: Attention Home buyers - Could you end up in a city that affects your health?
 ---
 
 *By Hayat Srour*
