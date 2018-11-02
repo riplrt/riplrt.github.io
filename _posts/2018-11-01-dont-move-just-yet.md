@@ -15,7 +15,6 @@ Ground level ozone (O<sub>3</sub>) is a colorless, toxic gas that is produced wh
 
 PM is another air pollutant that is small enough to enter the body, pass all its defense mechanisms and do major harm. It can come from gas exhaust, dust (including both indoor and outdoor-generated), smoke, pollen, and basically any foreign matter with a diameter of 2.5 or 10 micrometers. These two pollutants do not discriminate but affect the people who are in close proximity, including children and the mature citizens. Did you know that children can be exposed to 3rd-hand smoke (see here: https://tobaccocontrol.bmj.com/content/22/3/147). 
 
-lungs-air-pollution-hayatblog
 <img src="/img/lungs-air-pollution-hayatblog" alt="Air Pollution and Human Lungs" class="inline"/>
 <font size="2"><i><a href="https://www.lung.org/our-initiatives/healthy-air/outdoor/air-pollution/particle-pollution.html" target="_blank">Source</a></i></font>.
 
