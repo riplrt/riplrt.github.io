@@ -4,6 +4,7 @@ title: Time for the Truth: Vaccines Do Not Cause Autism
 subtitle: Misinformation or evidence based science?
 ---
 
+
 *By Ruslan Fomenko*
 
 Misinformation spreads like a wildfire, and even if extinguished, it often leaves considerable damage in its wake.  Although this statement can be applied to many recent events, one that comes to mind is the erroneous assumption that vaccines cause autism.  This unfortunate misconception caused a lot of problems in terms of fear of vaccines and in terms of public health. 
