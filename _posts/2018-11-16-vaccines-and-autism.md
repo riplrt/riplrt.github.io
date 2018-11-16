@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time for the Truth: Vaccines Do Not Cause Autism 
-subtitle: Misinformation or evidence based science? Let us hope the latter wins the battle for the public health.
+subtitle: Misinformation or evidence based science?
 ---
 
 *By Ruslan Fomenko*
