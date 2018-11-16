@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Time for the Truth: Vaccines Do Not Cause Autism 
-subtitle: Misinformation or evidence based science?
+title: Time for the Truth -- Vaccines Do Not Cause Autism 
+subtitle: Misinformation or evidence based science? Let us hope the latter wins the battle for the public health.
 ---
-
 
 *By Ruslan Fomenko*
 
@@ -27,7 +26,7 @@ Correlation shouldn’t be confused with causation: respectively, one implies th
 
 
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomenko" align="left" style="width: 15%; height: 15%; margin:8px">
-<p><i>About the author -- Ruslan Fomenko is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Ruslan is also a Research Assistant - Intern in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani. </i></p>
+<p><i>About the author -- Ruslan Fomenko is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Ruslan is also a Research Assistant - Intern in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani.  </i></p>
 
 Sources: 
 
