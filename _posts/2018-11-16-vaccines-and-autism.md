@@ -11,7 +11,6 @@ Misinformation spreads like a wildfire, and even if extinguished, it often leave
 
 Dr. Andrew Wakefield is the author of the study published in 1998 which sparked the fear that vaccines may have serious and long lasting side effects. Particularly, Dr. Wakefield’s conclusions pointed to vaccines as the reason behind the uprise in Autism cases.  However, scientific research has clear guidelines which require adherence in order to ensure the validity of the study, and Dr. Wakefield clearly did not follow them (fig. 1).  The research had several problems, which included but were not limited to lack of reliable statistics and confusing correlation with causation.  Dr. Wakefield’s controversial conclusions spread, causing mass panic about the false dangers of vaccines that still linger today.  As a result, it became a popular and trendy choice to avoid vaccines, with many popular figures like Jenny McCarthy further fueling the fire by providing their support for the anti-vaccine cause. 
 
-vaccines-blog1.png
 <img src="/img/vaccines-blog1.png" alt="Bad Vaccines Research" class="inline"/>
 
 Figure 1. *Source: https://images.medicaldaily.com/sites/medicaldaily.com/files/styles/full_breakpoints_theme_medicaldaily_desktop_1x/public/2014/07/23/autism-rumors-ran-rampant-throughout-world-why.JPG*
