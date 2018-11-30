@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New RIPLRT Member Recruited at a Recent Conference 
-subtitle: Summer Pellechio was recently recruited ABRCMS 2019 in Indianapolis, Indiana
+subtitle: Summer Pellechio was recently recruited from the conference ABRCMS 2019
 ---
 
 Summer Pellechio, who recently attended the Annual Biomedical Research Conference for Minority (ABRMCS) which took place in Indianapolis, Indiana from November 14 to 17th of 2018, and earn a poster award in the section of Computational and System Biology, is the most recent addition to the RIPL_Effect Research Team. 
