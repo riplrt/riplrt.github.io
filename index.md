@@ -23,7 +23,7 @@ In the RIPL_Effect Research Team, in addition to addressing the respiratory heal
 ---
 # Recent News @RIPLRT!!!
 
-### *New RIPLRT recruited @ a recent conference*
+### *New RIPLRT recruited @ a Recent Conference*
 
 Summer Pellecio, recent graduate from the Rochester Institute of Technology (Rochester, NY), was recently recruited after networking with Dr. Rivera-Mariani during the Annual Biomedical Research Conference for Minority Students in Indianapolis, Indiana (November 14-17, 2018). 
 
