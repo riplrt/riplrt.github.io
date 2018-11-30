@@ -15,6 +15,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 - [Patricia Romaniuk](#Patricia Romaniuk)
 - [Ruslan Fomenko](#Ruslan Fomenko)
 - [Shandra Bellinger](#Shandra Bellinger)
+- [Summer Pellechio](#Summer Pellechio)
 
 
 <img src="/img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Dr. Félix E. Rivera-Mariani"></a>***Dr. Félix E. Rivera-Mariani*** (**Principal Investigator**): 
