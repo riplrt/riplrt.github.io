@@ -12,7 +12,6 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 - [Ariel Stateman](#Ariel Stateman)
 - [Hayat Srour](#Hayat Srour)
 - [Joshua Baguley](#Joshua Baguley)
-- [Patricia Romaniuk](#Patricia Romaniuk)
 - [Ruslan Fomenko](#Ruslan Fomenko)
 - [Shandra Bellinger](#Shandra Bellinger)
 - [Summer Pellechio](#Summer Pellechio)
@@ -48,14 +47,6 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <div style="text-align:justify"><p>Josh, as mentioned in Ariel's trayectory, was the other co-leader of the group. His leadership was evident from the beginning (even before launching the research group), as well as when addressing different challenging situations within the group. We are proud of Josh recently starting a position in the Genomics Department at MD Anderson Cancer Center, in Houston Texas. Nevertheless, his scientific heart still linked to the RIPLRT.</p></div>
 
 [Click here](#With Angel and Josh Baguley) to view Josh's interview. 
-
----
-<img src="/img/Patricia.jpg" alt="Patricia Romaniuk" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Patricia Romaniuk"></a>***Patricia Romaniuk*** (**Graduate Student**)  
-<div style="text-align:justify"><p>Patricia graduated from Florida International University with a B.A. in Psychology and Marketing, and from Miami Dade College with an A.S. in Biotechnology – Chemical Technology and A.A. in Psychology. She conducted scientific research in Bioinformatics and Biotechnology. She is involved in various philanthropic organizations and has received the Presidential Lifetime Achievement Award for her service. She is looking forward to graduating Larkin University with a Masters in Biomedical Science in Medicine and a career as a Physician.</p></div>
-
-Patricia's peers in the RIPLRT were impressed with her credentials, including her experience as a student researcher at Miami Dade College, and academic porfolio prior to joining the M.S. in Biomedical Sciences program at Larkin University. We are lucky to have her in the RIPLRT. 
-
-[Click here](#With Patricia Romaniuk) to view Patricia's interview. 
 
 ---
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Ruslan Fomenko"></a>***Ruslan Fomenko*** (**Research Assistant - Intern**)
@@ -97,9 +88,6 @@ Patricia's peers in the RIPLRT were impressed with her credentials, including he
 
 <i><b><a name="With Shandra Bellinger"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72P1H5ioGrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<i><b><a name="With Patricia Romaniuk"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dsy39jRGc9w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 **To contact the RIPL_Effect Research Team**, 
