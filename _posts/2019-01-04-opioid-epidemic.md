@@ -28,7 +28,7 @@ In 2016, the CDC released a <a href="https://www.cdc.gov/mmwr/volumes/65/rr/rr65
 
 <img src="/img/opioid-thinking.jpg" alt="Opioid Guidelines" class="inline"/>
 
-Image from: https://www.change.org/p/congress-ease-the-dea-s-grip-on-doctors-allowing-chronic-pain-patients-to-get-the-medications-we-need
+<font size="2"><i>Source: https://www.change.org/p/congress-ease-the-dea-s-grip-on-doctors-allowing-chronic-pain-patients-to-get-the-medications-we-need</i></font>
 
 With the opioid epidemic came conflicting and sensitive contributing factors. Physicians take an oath to treat patients but there is conflicting factors and regulations that hinder the tenet of nonmaleficence. The CDC set guidelines in aims to establish a sense of conscious prescribing behaviors for healthcare providers across the nation. This can control the number of opioids circulating the nation but there must also be a conscious understanding that there is a population of patients that indeed need opioids to have a normal functioning life. Until this understanding is adopted, the practice of patient care will continue to suffer. 
 
