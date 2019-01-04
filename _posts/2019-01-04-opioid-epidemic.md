@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Battle of the Opioid Epidemic!
-subtitle: In just 5 minutes, gain more knowledge about the opioid crisis
+subtitle: In just 5 minutes, additional knowledge about the opioid crisis
 ---
 
 *By Hayat Srour*
