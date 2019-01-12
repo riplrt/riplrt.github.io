@@ -25,7 +25,7 @@ There are antioxidant-rich foods like grapes, blueberries, nuts and dark green v
 <img src="/img/sh_blog_011219_3.jpg" alt="Healthy Diet" class="inline"/>
 
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="left" style="width: 15%; height: 15%; margin:8px">
-<p><i>About the author -- Shandra Bellinger is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Shandra is also an intern-Research Assistant in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani.</i></p>
+<p><i>About the author -- Shandra Bellinger is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Shandra is also an intern-Research Assistant in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani. Shandra, original from Maryland, aspirire to be a physician in the near future. Learn more about Shandra <a href="https://www.riplrt.com/members/#Shandra%20Bellinger">here </a> </i></p>.
 
 
 References:
