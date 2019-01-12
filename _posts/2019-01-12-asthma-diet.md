@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Asthma and our Diet
