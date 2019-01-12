@@ -10,7 +10,7 @@ The purpose of this blog post is to emphasize the connection between the foods w
 
 If you enter any health food store or grocery store you’ll see products advertising that they’re antioxidant-rich. It has become very trendy and popular to eat foods and take supplements which contain antioxidants but ***is there any real benefit to one’s underlying disease or illness? First, what exactly is an antioxidant?*** It’s a substance that protects and fights against oxidative stress (refer to the image below), which is an imbalance between free radicals and antioxidants in the body. Free radicals are able to easily react with other molecules and cause damage and disease. When an antioxidant is present it is able to donate an electron to the free radial so it becomes less reactive. Oxidative stress may play a role in asthma, cancer, cardiovascular disease, and diabetes. There have been multiple studies evaluating the use of antioxidants and their effect on asthma patients specifically. 
 
-<img src="/img/sb_blog_011219_1.jpg" alt="antioxidants and free radicals" class="inline"/>
+<img src="/img/sb_blog_011219_1.png" alt="antioxidants and free radicals" class="inline"/>
 
 <font size="2"><i>Source: https://www.howtorelief.com/antioxidant-foods-vitamins/</i></font>
 
