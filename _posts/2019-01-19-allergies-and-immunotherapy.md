@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Immunotherapy — A Way to Breathe Easier
+title: Immunotherapy, A Way to Breathe Easier
 ---
 
 *By Ruslan Fomenko*
@@ -17,7 +17,6 @@ One of the most prominent allergy treatments today is immunotherapy.  The proces
 <img src="/img/immnotherapy1.png" alt="Symptoms of Allergy" class="inline"/>
 
 <font size="2"><i>Source: https://drrogerscenters.com/allergy-services/</i></font>
-
 
 
 After the doctor knows which particular allergens (pollen, dust, etc.) cause the most inflammation, he or she will be able to offer treatment in the form of immunotherapy.  In most cases, it will be a series of injections which can make the body less sensitive to specific allergens, and consequently reduce or eliminate the symptoms.  The treatment begins with a buildup phase, during which the injections are administered two to three times per week for three to six months.  The maintenance phase begins after, and in this stage injections are administered approximately once a month.  Although uncommon, side effects like swelling or severe allergic reaction may occur.  For this reason, it is advised to remain in the doctor’s office for thirty minutes after the procedure, in order to rule out any adverse reactions.  In some rare cases the results aren’t as impressive as patients hope; however, this treatment effectively alleviates many bothersome symptoms in the majority of people.
