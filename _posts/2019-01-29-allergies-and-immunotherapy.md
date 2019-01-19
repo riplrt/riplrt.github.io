@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Immunotherapy — A Way to Breathe Easier
+title: Immunotherapy — A Way to Breathe Easier
 ---
 
 *By Ruslan Fomenko*
