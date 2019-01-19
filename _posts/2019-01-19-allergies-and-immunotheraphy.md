@@ -30,7 +30,8 @@ After the doctor knows which particular allergens (pollen, dust, etc.) cause the
 Allergies can be debilitating in many ways.  Whether it is a seasonal allergy preventing a young athlete from participating in a soccer game or a pet allergy making one unable to adopt a furry friend, these pesky immune reactions can make life difficult.  And even though symptoms may be averted by moving to a place with less blooming oaks or saying no to adopting a dog, it is much easier and more enjoyable to live life to the fullest. Immunotherapy treatment for allergies has been around for quite some, and has helped many people lead more fulfilling lives.  
 
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomenko" align="left" style="width: 15%; height: 15%; margin:8px">
-<p><i>About the author -- Ruslan Fomenko is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Ruslan is also a Research Assistant - Intern in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani.  </i></p>
+<p><i>About the author -- Ruslan Fomenko is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Ruslan is also a Research Assistant - Intern in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani. Ruslan is also one of the certified phlebotomists in the RIPLRT.</i></p>
+
 
 References:
 https://www.aaaai.org/conditions-and-treatments/library/allergy-library/allergy-shots-(immunotherapy)
