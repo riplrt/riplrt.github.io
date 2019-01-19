@@ -14,7 +14,7 @@ Almost all of us have had some sort of an encounter with allergies.  If not from
 
 One of the most prominent allergy treatments today is immunotherapy.  The process begins with allergy testing.  In order to begin treatment, the doctor first has to determine which allergens cause the patient’s immune system to react in the form of inflammation.  The most common evaluation is the skin prick test, which is done on the patients forearm or back, depending on the amount of allergens being tested.  By pricking the skin with a comblike device dipped in the allergen solutions, it is possible to see which substance causes a more severe reaction.  In some cases, a different method may be used, where a small amount of the allergen is injected into the patient's skin. 
 
-<img src="/img/immunotherapy1.png" alt="Symptoms of Allergy" class="inline"/>
+<img src="/img/immnotherapy1.png" alt="Symptoms of Allergy" class="inline"/>
 
 <font size="2"><i>Source: https://drrogerscenters.com/allergy-services/</i></font>
 
