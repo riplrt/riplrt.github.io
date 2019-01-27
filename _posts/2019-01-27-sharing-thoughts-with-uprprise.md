@@ -4,7 +4,7 @@ titlee: Sharing Scientific and Career Development Thoughts with Students at the 
 subtitle: Dr. Rivera-Mariani shared his knowleged with studeents of the UPR-Poncee
 ---
 
-During this past week (January 24th and 26th, 2019), the <a href="http://prise.uprp.edu" target="_blank">UPR-PRISE {University of Puerto Rico, Ponce Campus's Reseearch Initiative for Students Enhanceement)</a> invited our principal investigator and mentor <a href="https://www.riplrt.com/members/#Dr.%20Félix%20E.%20Rivera-Mariani" target="_blank">Dr. Félix E. Rivera-Mariani</a> to share some scientific and career thoughts with the students of the program. 
+During this past week (January 24th and 26th, 2019), the <a href="http://prise.uprp.edu" target="_blank">UPR-PRISE (University of Puerto Rico, Ponce Campus's Reseearch Initiative for Students Enhanceement)</a> invited our principal investigator and mentor <a href="https://www.riplrt.com/members/#Dr.%20Félix%20E.%20Rivera-Mariani" target="_blank">Dr. Félix E. Rivera-Mariani</a> to share some scientific and career thoughts with the students of the program. 
 
 On Januarty 24th, 2019, Dr. Rivera-Mariani presented a seminar addressing how data analytics can be implemented into different aspects of Biomedical Scientific Research, as well as in Biomedical Sciences coursework (see the below). In this seminar, Dr. Rivera-Mariani shared with the audience how data analytics can bring-to-life findings that may not be able to be identified if data is not thoroughly analyzed beyond the laboratory setting. 
 
