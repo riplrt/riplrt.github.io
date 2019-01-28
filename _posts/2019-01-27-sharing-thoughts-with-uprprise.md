@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sharing Scientific and Career Development Thoughts with Students at the UPR
-subtitle: Dr. Rivera-Mariani shared his knowlege with students of the UPR-Poncee
+title: Sharing Scientific and Career Development Thoughts with Students of the UPR-Ponce Campus
+subtitle: Dr. Rivera-Mariani shared his knowlege with students of the UPR-PRISE Program
 ---
 
 During this past week (January 24th and 26th, 2019), the <a href="http://prise.uprp.edu" target="_blank">UPR-PRISE (University of Puerto Rico, Ponce Campus's Research Initiative for Scientific Enhancement)</a> invited our principal investigator and mentor <a href="https://www.riplrt.com/members/#Dr.%20Félix%20E.%20Rivera-Mariani" target="_blank">Dr. Félix E. Rivera-Mariani</a> to share some scientific and career thoughts with the students of the program. 
