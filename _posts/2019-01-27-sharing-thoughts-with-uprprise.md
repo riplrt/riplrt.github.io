@@ -1,6 +1,6 @@
 ---
 layout: post
-titlee: Sharing Scientific and Career Development Thoughts with Students at the UPR
+title: Sharing Scientific and Career Development Thoughts with Students at the UPR
 subtitle: Dr. Rivera-Mariani shared his knowlege with students of the UPR-Poncee
 ---
 
