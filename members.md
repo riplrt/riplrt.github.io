@@ -25,6 +25,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <div style="text-align:justify"><p>At Larkin University, Dr. Rivera-Mariani seeks to mentor students and young researchers in the different pipelines and epicycles of scientific research, and through the RIPL Effect team provide further insight into the immunotoxicology of airborne pollutants of different chemical origins. He has published extensively in this line of research (<a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications" target="_blank">click here for additional information</a>).</p></div>
 
 [Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
+<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_FE_RiveraMariani" target="_blank">Click here to view Dr. Rivera-Mariani's CV</a>
 
 ---
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Ariel Stateman"></a>***Ariel Stateman*** (**Research Assistant - Intern**)
