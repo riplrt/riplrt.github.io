@@ -26,7 +26,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
 
-<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_FE_RiveraMariani.pdf" target="_blank">Click here</a> to view Dr. Rivera-Mariani's CV.
+<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_FE_RiveraMariani.pdf" target="_blank">Click here</a> to view Dr. Rivera-Mariani's C.V.
 
 ---
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Ariel Stateman"></a>***Ariel Stateman*** (**Research Assistant - Intern**)
@@ -58,6 +58,8 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
 
+<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
+
 ---
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant - Intern**)
 <div style="text-align:justify"><p>Shandra, originally from Maryland, received her B.S. in Biology from Frostburg State University. During her undergraduate studies, she held multiple positions on various leadership boards and made the Dean's list numerous times. She has spent a considerable amount of time working in clinical environments, such as the Emergency Department and volunteering at the University of Maryland Medical Center, Shock Trauma. Though she enjoys the clinical environment, she is excited to venture into scientific research allowing her curiosity of how the human body works and is affected. She recently graduated from the M.S. in Biomedical Science program at Larkin University and plans to continue working and volunteering in the healthcare field to help uplift the community and make changes where and when it’s possible. Her goal is to attend Medical School in the future.</p></div>  
@@ -70,7 +72,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Summer Pellechio"></a>***Summer Pellechio*** (**Research Assistant, beginning on March 2019**)
 <div style="text-align:justify"><p>Summer recently graduated from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. She has clinical experience with patients, working as an EMT in the city of Rochester, NY and for RIT’s collegiate EMS agency, where she’s served as the Training Director. She’s also a certified phlebotomist. Her undergraduate lab work focused on the frequencies of anergic gene polymorphisms associated with innate and adaptive immune responses in sickle cell disease populations. She feels fortunate that her strong work ethic and curiosity have led her to join the RIPL Effect Research Team.</p></div> 
 
-<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/Summer_CV_01302019.pdf" target="_blank">Click here</a> to view Sumnmer's CV.
+<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/Summer_CV_01302019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
 
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
