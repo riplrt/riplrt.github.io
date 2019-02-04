@@ -26,7 +26,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
 
-<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_FE_RiveraMariani.pdf" target="_blank">Click here</a> to view Dr. Rivera-Mariani's C.V.
+<a href="https://www.riplrt.com/cv/CV_FE_RiveraMariani.pdf" target="_blank">Click here</a> to view Dr. Rivera-Mariani's C.V.
 
 ---
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Ariel Stateman"></a>***Ariel Stateman*** (**Research Assistant - Intern**)
