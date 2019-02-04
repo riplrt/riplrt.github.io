@@ -42,7 +42,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
 
-<a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf">
+<a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf" target="_blank">Click here</a> to view Hayat's C.V.
 
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Joshua Baguley"></a>***Joshua Baguley*** (**Research Assistant - Intern**)  
