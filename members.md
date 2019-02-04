@@ -42,7 +42,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
 
-<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_HS_Redacted.pdf">
+<a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf">
 
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Joshua Baguley"></a>***Joshua Baguley*** (**Research Assistant - Intern**)  
@@ -60,7 +60,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
 
-<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
+<a href="https://www.riplrt.com/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
 
 ---
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Shandra Bellinger"></a>***Shandra Bellinger*** (**Research Assistant - Intern**)
@@ -70,13 +70,13 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Shandra Bellinger) to view Shandra's interview.
 
-<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/Shandra_CV_2019.pdf" target="_blank">Click here</a> to view Shandra's C.V.
+<a href="https://www.riplrt.com/cv/Shandra_CV_2019.pdf" target="_blank">Click here</a> to view Shandra's C.V.
 
 ---
 <img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Summer Pellechio"></a>***Summer Pellechio*** (**Research Assistant, beginning on March 2019**)
 <div style="text-align:justify"><p>Summer recently graduated from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. She has clinical experience with patients, working as an EMT in the city of Rochester, NY and for RIT’s collegiate EMS agency, where she’s served as the Training Director. She’s also a certified phlebotomist. Her undergraduate lab work focused on the frequencies of anergic gene polymorphisms associated with innate and adaptive immune responses in sickle cell disease populations. She feels fortunate that her strong work ethic and curiosity have led her to join the RIPL Effect Research Team.</p></div> 
 
-<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/Summer_CV_01302019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
+<a href="https://www.riplrt.com/cv/Summer_CV_01302019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
 
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
