@@ -42,6 +42,8 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
 
+<a href="https://github.com/riplrt/riplrt.github.io/blob/master/cv/CV_HS_Redacted.pdf">
+
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> <a name="Joshua Baguley"></a>***Joshua Baguley*** (**Research Assistant - Intern**)  
 <div style="text-align:justify"><p>Josh grew up in Indonesia and then moved to Waco, Texas where he attended Baylor University to complete a B.S. in Biochemistry. He spent the majority of his time at Baylor working as an undergraduate researcher, specializing in DNA manipulation and protein purification. His work in the lab mainly focused on the functions and effects of replication factors MCM8, MCM9, Dpo1, and Dpo4 on the DNA replisome. Joshua was also a member of the Baylor Volleyball club team. Joshua is also a recent graduate of the M.S. in Biomedical Sciences program at Larkin University.</p></div>
