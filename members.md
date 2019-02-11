@@ -10,6 +10,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 - [Ariel Stateman](#Ariel Stateman)
+- [Bhavikkumar Patel](#Bhavikkumar Patel)
 - [Hayat Srour](#Hayat Srour)
 - [Joshua Baguley](#Joshua Baguley)
 - [Ruslan Fomenko](#Ruslan Fomenko)
@@ -33,6 +34,10 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <div style="text-align:justify"><p>Ariel recently graduated from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, Ariel earned a B.S. in Molecular and Cellular Biology from the University of Illinois at Urbana-Champaign. There, she participated in scientific research- studying the sensing in lean and obese individuals through rats. She has an extensive experience in clinical observations from her internships at Carle Foundation Hospital in Urbana, IL. Among her prospective professional plans, she hopes to earn her doctorate degree.</p></div>
 
 <div style="text-align:justify"><p>Ariel's trayectory in the RIPLRT dates back to the very beginnings of the RIPLRT (back then the RIPLRG) just after Dr. Rivera-Mariani joined the Larkin University community. While being a graduate student at the College of Biomedical Sciences at Larkin University, together with Josh (refer to Josh bio), she was the co-leader of the our research group (now the RIPL_Effect Research Team).</p></div>
+
+---
+<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Bhavikkumar Patel"></a>***Bhavikkumar Patel*** (**Graduatee Student**)
+<div style="text-align:justify"><p>Bhavik grew up in Anaheim, California, where he attended University of California, Irvine. After completing his Bachelor’s degree in History and Premedicinee, he worked at United Healthcare/Optum Rx in the Specialty Pharmacy Department. He has also worked at the Remedy Pharm compounding pharmacy, specializing in hormone replacement therapy. He is currently enrolled in the Masters Program at Larkin School of Biomedical Sciences and has volunteered at various community centers such as UCI Medical Center, Lestonnac Free Clinic and Miami Rescue Missions Clinic. He truly believes in serving the underserved communities and uplifting their lives through various types of aid. His goal is to attend Medical School in the future and wants to provide medical aid in the underserved parts of our nation. Apart from academics, he enjoys running, sports, reading, and playing music.</p></div>
 
 ---
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Hayat Srour"></a>***Hayat Srour*** (**Research Assistant and Lab Manager**)
