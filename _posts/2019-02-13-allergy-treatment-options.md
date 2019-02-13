@@ -72,7 +72,9 @@ There are several options that are available to you these days so allergies will
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="left" style="width: 15%; height: 15%; margin:8px">
 <p><i>About the author -- Joshua Baguley is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Josh is also a Research Assistant - Intern in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani. He was recently hired as a Research Assistant in the Department of Genetic Medicine at the MD Anderson Cancer Center in Houston, Texas. Also, Josh recently published as first and co-author in the Journal of Allergy and Clinical Immunology in the following publications listed:</i></p>
 
-- As first author: <a href="https://www.jacionline.org/article/S0091-6749(18)32438-2/fulltext" target="_blank">"Gender differences in dendritic cell population in nasal and oral cavity between allergic and non-allergic subjects."</a>
+- As first author: 
+	+ <a href="https://www.jacionline.org/article/S0091-6749(18)32438-2/fulltext" target="_blank">"Gender differences in dendritic cell population in nasal and oral cavity between allergic and non-allergic subjects."</a>
+	
 - as co-author:
 	+ <a href="https://www.jacionline.org/article/S0091-6749(18)32560-0/fulltext" target="_blank">Evaluating differences in prevalence of food allergies between two geographic regions: Australia and US.</a>
 	+ <a href="https://www.jacionline.org/article/S0091-6749(18)32659-9/fulltext" target="_blank">Relationship of serological reactivity to cytoplasmic extracts from spores of Ganoderma applanatum and commercial extracts of indoor, mitosporic fungi, and farm animal allergens among Puerto Rican subjects.</a>
