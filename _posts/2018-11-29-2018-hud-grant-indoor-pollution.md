@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-subtitle:
+title: Another Grant to the RIPLRT! 
+subtitle: In collaboration with UT-Austin, RIPLRT will address the respiratory health of children in Texas
 ---
 
 
