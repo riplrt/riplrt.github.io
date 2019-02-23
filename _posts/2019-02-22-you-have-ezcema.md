@@ -8,7 +8,6 @@ subtitle: Read about how your immune system affects your skin
 
 When I think of eczema, I think about our skin, the protective shield, fighting itself. The irony in this statement must be addressed. More commonly people may think that eczema is just dry itchy skin but this skin disorder has a little more to it. This blog’s main goal is to present information on eczema. 
 
-ezcema.png
 <img src="/img/ezcema.png" alt="Areas Commonly Affected by Ezcema" class="inline"/>
 
 *Source: https://www.ncbi.nlm.nih.gov/books/NBK279399/*
