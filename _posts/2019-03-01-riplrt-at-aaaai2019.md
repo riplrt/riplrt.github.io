@@ -4,7 +4,7 @@ title: RIPLRT at the 2019 AAAAI Conference
 subtitle: Interview with the RIPLRT after the conference
 ---
 
-*By Hayat Srour, Ruslan Fomenko, Shandra Bellinger, Ariel Stateman, Josh Baguleym, and Dr. Felix E. Rivera-Mariani*
+*By Hayat Srour, Ruslan Fomenko, Shandra Bellinger, Ariel Stateman, Josh Baguley, and Dr. Felix E. Rivera-Mariani*
 
 In this special edition of the RIPLRT blog, we interview the members of the Respiratory and Immunology Project Laboratory (at Larkin University) research team about their experience during a recent scientific conference. Let hear their accounts of why they attended the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology, and what they learned from this experience. It is worth mentioning that this conference, frequently attended by Dr. Rivera-Mariani, brings experts from around the globe on different topics of allergies, asthma, immunology, and other respiratory diseases. This is the first scientific conference, of many more to come, that the RIPLRT attend together! 
 
