@@ -15,7 +15,7 @@ In this special edition of the RIPLRT blog, we interview the members of the Resp
 
 <img src="/img/HayatAAAAI9_1.png" alt="Hayat Srour at AAAAI2019" class="inline"/>
 
-*Hayat Srour, Lab Manager at the RIPLRT, presenting at the AAAAI2019 on the relationship of atopic dermatitis, air pollution, and meteorological variables.*
+*Hayat Srour presenting her poster on the relationship of atopic dermatitis, air pollution, and meteorological variables.*
 
 - **Interviewer**: "What did you learned at the conference?"
 - **Hayat**: "This conference was a chance to expand the excitement I have for bettering the world through medicine and network with people who are interested in the same goal. 
@@ -23,7 +23,7 @@ After each day, I was exhausted (most from the walking the hilly streets of San 
 
 <img src="/img/HayatAAAAI9_2.png" alt="Hayat and Shandra at AAAAI2019" class="inline"/>
 
-*Hayat, together with Shandra Bellinger (Research Assistant - Intern), relaxing after breaking the ice presenting her poster.*
+*Hayat, together with Shandra Bellinger (Research Assistant - Intern), relaxing after presenting their poster. They acknowledge they were nervous at the beginning!*
 
 So with that I have to share my favorite learning experience, which I think can relate to the very reason RIPL has created a blog. That is communicating what you know to an audience. Immunology and respiratory diseases can be complex, involving processes that may be difficult to convey but they can affect people and readers all around." 
 
@@ -35,7 +35,7 @@ So with that I have to share my favorite learning experience, which I think can 
 
 <img src="/img/Shandra_AAAAI2019.png" alt="Shandra at AAAAI2019" class="inline"/>
 
-*Shandra, presenting her poster on food allergy prevalence in US and Australia. The topic of food allergies was the main theme of the conference.*
+*Shandra presenting her poster on food allergy prevalence in US and Australia. The topic of food allergies was the main theme of the conference.*
 
 - **Interviewer**: "What did you learned at the conference?"
 - **Shandra**: "Often in the science field, you hear about how often and ever evolving science is, and that couldn’t be clearer when attending the conference. Whether it was learning new possible mechanisms for allergen immunotherapy or about new disease contributors, it exemplified how much is known and unknown within the world of science. As someone who is interested in nutrition and a promoter of healthy eating, I enjoyed learning about how the role of a diet rich in short chain fatty acids in early childhood could help to reduce allergic sensitization."
