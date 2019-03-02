@@ -39,6 +39,8 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Bhavikkumar Patel"></a>***Bhavikkumar Patel*** (**Graduatee Student**)
 <div style="text-align:justify"><p>Bhavik grew up in Anaheim, California, where he attended University of California, Irvine. After completing his Bachelor’s degree in History and Premedicinee, he worked at United Healthcare/Optum Rx in the Specialty Pharmacy Department. He has also worked at the Remedy Pharm compounding pharmacy, specializing in hormone replacement therapy. He is currently enrolled in the Masters Program at Larkin School of Biomedical Sciences and has volunteered at various community centers such as UCI Medical Center, Lestonnac Free Clinic and Miami Rescue Missions Clinic. He truly believes in serving the underserved communities and uplifting their lives through various types of aid. His goal is to attend Medical School in the future and wants to provide medical aid in the underserved parts of our nation. Apart from academics, he enjoys running, sports, reading, and playing music.</p></div>
 
+[Click here](#With Bhavik Patel) to view Ruslan's interview. 
+
 ---
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Hayat Srour"></a>***Hayat Srour*** (**Research Assistant and Lab Manager**)
 <div style="text-align:justify"><p>Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality.</p></div>
@@ -108,6 +110,9 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 <i><b><a name="With Summer Pellechio"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4V-L2QB6ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i><b><a name="With Bhavik Patel"></a></b></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mK_1wRr39A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 **To contact the RIPL_Effect Research Team**, 
