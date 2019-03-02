@@ -81,6 +81,8 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Summer Pellechio"></a>***Summer Pellechio*** (**Research Assistant, beginning on March 2019**)
 <div style="text-align:justify"><p>Summer recently graduated from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. She has clinical experience with patients, working as an EMT in the city of Rochester, NY and for RIT’s collegiate EMS agency, where she’s served as the Training Director. She’s also a certified phlebotomist. Her undergraduate lab work focused on the frequencies of anergic gene polymorphisms associated with innate and adaptive immune responses in sickle cell disease populations. She feels fortunate that her strong work ethic and curiosity have led her to join the RIPL Effect Research Team.</p></div> 
 
+[Click here](#With Summer Pellechio) to view Summer's interview. 
+
 <a href="https://www.riplrt.com/cv/Summer_CV_01302019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
 
 ---
@@ -103,6 +105,9 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 <i><b><a name="With Shandra Bellinger"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72P1H5ioGrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<i><b><a name="With Summer Pellechio"></a></b></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w4V-L2QB6ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 **To contact the RIPL_Effect Research Team**, 
