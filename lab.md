@@ -17,7 +17,7 @@ As described in [our mission](https://www.riplrt.com/mission/), our main scienti
 
 ---
 <img src="/img/human-immunotoxicology.png" alt="Human-Based Immunotoxicology" align="left" style="width: 40%; height: 40%; margin:8px"> <a name="Human-Based Immunotoxicology"></a>
-<div style="text-align:justify"><p><u><b>Human-Based Immunotoxicology</b></u>. To align our findings of biomarker profiles in response fo environmental pollutants, we employ human-based immunological approaches (see the red arrow in the image). Our PI and mentor (Dr. Rivera-Mariani) has a long track of expanding the utility of immunological approaches into new areas of research as evidenced <a href="https://lushprize.org/awards/young-researcher-prize/" target="_blank">here (refer to the bottom of the page of this link)</a>. </p></div>
+<div style="text-align:justify"><p><u><b>Human-Based Immunotoxicology</b></u>. To align our findings of biomarker profiles in response to environmental pollutants, we employ human-based immunological approaches (see the red arrow in the image). Our PI and mentor (Dr. Rivera-Mariani) has a long track of expanding the utility of immunological approaches into new areas of research as evidenced <a href="https://lushprize.org/awards/young-researcher-prize/" target="_blank">here (refer to the bottom of the page of this link)</a>. </p></div>
 
 ---
 <img src="/img/epicycles-of-datascience.jpg" alt="Computational Data Science" align="right" style="width: 30%; height: 30%; margin:8px"> <a name="Computational Data Science"></a>
