@@ -5,6 +5,26 @@ subtitle: Find here peer-reviewed articles and abstracts by RIPLRT
 ---
 
 <ul>
+<li><div style="text-align:justify"><p>Rivera-Mariani, F. E., H. Srour, R. Fomenko, J. P. Maestre, K. Kinney, F. Godoy-Vitorino, B. Bolaños-Rosero, and H. Cavallin. 2019. “Pro-Inflammatory Potential of Indoor Dust Collected from Households in San Juan, Puerto Rico in the Aftermath of Hurricane Maria.” presented at the Society of Toxicology 2019, Late-Breaking Abstract Session (Abstract 3323), Baltimore, MD, March 14.</p></div></li> 
+</ul>
+
+<ul>
+<li><div style="text-align:justify"><p>Baguley, Joshua K., Shandra V. Bellinger, Hayat H. Srour, Ariel J. Stateman, and Felix E. Rivera-Mariani. 2019. “Gender Differences in Dendritic Cell Population in Nasal and Oral Cavity between Allergic and Non-Allergic Subjects.” The Journal of Allergy and Clinical Immunology 143 (2): AB228. (<a href="https://www.jacionline.org/article/S0091-6749(18)32438-2/fulltext" target="_blank">click here to access the abstract</a>).</p></div></li> 
+</ul>
+
+<ul>
+<li><div style="text-align:justify"><p>Bellinger, Shandra V., Ariel J. Stateman, Hayat H. Srour, Joshua K. Baguley, and Felix E. Rivera-Mariani. 2019. “Evaluating Differences in Prevalence of Food Allergies between Two Geographic Regions: Australia and US.” The Journal of Allergy and Clinical Immunology 143 (2): AB268. (<a href="https://www.jacionline.org/article/S0091-6749(18)32560-0/fulltext" target="_blank">click here to access the abstract</a>).</p></div></li> 
+</ul>
+
+<ul>
+<li><div style="text-align:justify"><p>Srour, Hayat H., Joshua K. Baguley, Shandra V. Bellinger, Ariel J. Stateman, and Felix E. Rivera-Mariani. 2019. “Comparing the Magnitude of Meteorological Variables and Air Pollutants as Contributing Factors Atopic Dermatitis Symptoms.” The Journal of Allergy and Clinical Immunology 143 (2): AB235. (<a href="https://www.jacionline.org/article/S0091-6749(18)32457-6/fulltext" target="_blank">click here to access the abstract</a>).</p></div></li> 
+</ul>
+
+<ul>
+<li><div style="text-align:justify"><p>Stateman, Ariel J., Hayat H. Srour, Joshua K. Baguley, Shandra V. Bellinger, and Felix E. Rivera-Mariani. 2019. “Comparison between PM2.5 Levels on East Coast and State of California in Relationship to Asthma.” The Journal of Allergy and Clinical Immunology 143 (2): AB24. (<a href="https://www.jacionline.org/article/S0091-6749(18)31817-7/fulltext" target="_blank">click here to access the abstract</a>).</p></div></li> 
+</ul>
+
+<ul>
 <li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, Rivera-Mariani FE. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. [version 1; referees: awaiting peer review]. 2018. 7: 1232 (doi: <a href="http://dx.doi.org/10.12688/f1000research.15839.1" target="_blank">10.12688/f1000research.15839.1</a>).</p></div></li> 
 </ul>
 
