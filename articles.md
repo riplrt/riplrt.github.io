@@ -25,7 +25,7 @@ subtitle: Find here peer-reviewed articles and abstracts by RIPLRT
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, Rivera-Mariani FE. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. [version 1; referees: awaiting peer review]. 2018. 7: 1232 (doi: <a href="http://dx.doi.org/10.12688/f1000research.15839.1" target="_blank">10.12688/f1000research.15839.1</a>).</p></div></li> 
+<li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, Rivera-Mariani FE. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. [version 1; referees: awaiting peer review]. 2018. 7: 1232 (doi: <a href="https://doi.org/10.12688/f1000research.15839.2" target="_blank">10.12688/f1000research.15839.1</a>).</p></div></li> 
 </ul>
 
 <ul>
