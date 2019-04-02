@@ -15,7 +15,7 @@ There are several theories as to why the prevalence of hay fever has been increa
 
 
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="left" style="width: 15%; height: 15%; margin:8px">
-<p><i>About the author -- Ariel Stateman is a recent graduate of the M.S. in Biomedical Sciences at the Larkin University College of Biomedical Sciences. Ariel is also a Research Assistant - Intern in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani. Ariel is one of the foundes of the RIPL_Effect Research Team, and during her time as a graduate student at the Larkin University College of Biomedical Sciences, she was one of the Co-Leaders with the group (together with <a href="https://www.riplrt.com/members/#Joshua%20Baguley" target="_blank"> Josh Baguley</a>) </i></p>.
+<p><i>About the author -- Ariel Stateman is a recent graduate of the M.S. in Biomedical Sciences at the Larkin University College of Biomedical Sciences. Ariel is also a Research Assistant - Intern in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani. Ariel is one of the founders of the RIPL_Effect Research Team, and during her time as a graduate student at the Larkin University College of Biomedical Sciences, she was one of the Co-Leaders with the group (together with <a href="https://www.riplrt.com/members/#Joshua%20Baguley" target="_blank"> Josh Baguley</a>) </i></p>.
 
 
 **References:**
