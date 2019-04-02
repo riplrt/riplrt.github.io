@@ -6,7 +6,7 @@ subtitle: When adults develop seasonal allergies for the first time
 
 *By Ariel Stateman*
 
-<img src="/img/seasonal-allergies.png" alt="Seasonal Allergies" align="left" style="width: 30%; height: 20%; margin:8px">
+<img src="/img/seasonal-allergies.png" alt="Seasonal Allergies" align="right" style="width: 40%; height: 30%; margin:8px">
 Seasonal allergies (also known as “Hay Fever” or seasonal allergic rhinitis) can occur at any age. Most adults, including myself, are shocked when they go their entire life without any seasonal allergies and then they get them. But the truth is that anyone can develop seasonal allergies, at any age. Adult-onset allergies usually occurs in a persons’ 20s or 30s but that doesn’t mean an 87-year-old man couldn’t develop them. Researchers still aren’t sure what triggers a person to develop allergies. They know that the body identifies a specific substance (like pollen) as harmful by mistake. Then the body will produce antibodies called immunoglobulin E (IgE) that attaches to particular cells and causes the release of histamine. Histamine, in turn, causes inflammation and the classic seasonal allergy symptoms (i.e. watery eyes, redness, and itching). 
 
 <img src="/img/seasonal-allergies2.png" alt="Pollen triggers immune reaction" class="inline"/>
