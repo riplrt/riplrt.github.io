@@ -11,7 +11,7 @@ Seasonal allergies (also known as “Hay Fever” or seasonal allergic rhinitis)
 
 <img src="/img/seasonal-allergies2.png" alt="Pollen triggers immune reaction" class="inline"/>
 
-There are several theories as to why the prevalence of hay fever has been increasing throughout the United States and around the world. One theory is due to less exposure to bacteria. Many people these days are so cleanliness conscious that they are actually suppressing the natural development of their immune system. Another theory is due to higher concentrations of airborne pollutants, sedentary lifestyles, poor ventilation in homes and office buildings, and an increase in dust mite population. Regardless, it is very important to take care of yourself. If you are suffering from allergy symptoms, look into different <a href="https://www.riplrt.com/2019-02-13-allergy-treatment-options/" target="_blank"> treatment options</a>. 
+There are several theories as to why the prevalence of hay fever has been increasing throughout the United States and around the world. One theory is due to less exposure to bacteria and other microbes. Many people these days are so cleanliness-conscious that they are actually suppressing the natural development of their immune system. Another theory is due to higher concentrations of airborne pollutants, sedentary lifestyles, poor ventilation in homes and office buildings, and an increase in dust mite population. Regardless, it is very important to take care of yourself. If you are suffering from allergy symptoms, look into different <a href="https://www.riplrt.com/2019-02-13-allergy-treatment-options/" target="_blank"> treatment options</a>. 
 
 
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="left" style="width: 15%; height: 15%; margin:8px">
