@@ -8,7 +8,7 @@ subtitle: Cells in your body react every time that you inhale smoke
 
 You’ve added heat to an object. It is burning and there is smoke. Whether this object is a cigarette, joint, or a piece of wood; the material’s chemicals have rearranged and created smoke filled with toxins, irritants, and carcinogens.
 
-Things that you breathe in travels to the lungs through a pipe, the trachea. Cells that line the trachea are topped with sea anemones, cilia, and some of the cells make mucus. The mucus fly-traps unwelcome small particles, including smoke, and the sea anemones sweep the dirty mucus up and out. Any exposure to smoke will temporarily slow or stop the sweeping activity, so that mucus stagnates and particles sit or sneak by.
+Things that you breathe in travel to the lungs through a pipe, the trachea. Cells that line the trachea are topped with sea anemones, cilia, and some of the cells make mucus. The mucus fly-traps unwelcome small particles, including smoke, and the sea anemones sweep the dirty mucus up and out. Any exposure to smoke will temporarily slow or stop the sweeping activity, so that mucus stagnates and particles sit or sneak by.
 
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/NegativeUglyAmethystsunbird' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/negativeuglyamethystsunbird">via Gfycat</a></p>
