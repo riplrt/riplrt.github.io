@@ -32,7 +32,7 @@ The most persistent allergies are most likely due to dust mites. Dust mites are 
 It seems that the best way to ensure that dust mites and mold don’t thrive in our homes is to remove the existing carpet and replace it with tiles or hardwood flooring. This may be expensive and if this is not possible, then regular carpet cleaning should be done to ensure the removal of dust mites and other allergens that live in our homes. 
 
 <img src="/img/BPatel.jpg" alt="Bhavik Patel" align="left" style="width: 15%; height: 15%; margin:8px">
-<p><i>About the author -- Bhavik Patel is a graduate student in the College of Biomedical Sciences at Larkin University. Prior to enrolling in Larkin University and joining the RIPLRT, Bhavik completed a Bachelor’s degree in History and Premedicinee, he worked at United Healthcare/Optum Rx in the Specialty Pharmacy Department. He has also worked at the Remedy Pharm compounding pharmacy, specializing in hormone replacement therapy. This is Bhavik's first blog with the RIPLRT</i></p>.
+<p><i>About the author -- Bhavik Patel is a graduate student in the College of Biomedical Sciences at Larkin University. Prior to enrolling in Larkin University and joining the RIPLRT, Bhavik completed a Bachelor’s degree in History and Premedicine, he worked at United Healthcare/Optum Rx in the Specialty Pharmacy Department. He has also worked at the Remedy Pharm compounding pharmacy, specializing in hormone replacement therapy. This is Bhavik's first blog with the RIPLRT</i></p>.
 
 
 References: 
