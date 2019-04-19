@@ -8,13 +8,13 @@ subtitle: What would be the result of listing air pollution as a cause of death?
 
 We’ve all heard of how damaging air pollution is and the many health diseases it’s been linked to, for instance heart disease, strokes, respiratory illnesses, premature births and dementia (see my prior blog post entitled, “How does air pollution affect your body”). However, even with these known associations, globally, all governments have not been enacting precautions to help regulate the production of air pollution. Take for instance, in Britain; they have approximately 40,000 premature deaths per year due to air pollution. 
 
-<img src="/img/airpollutionpyramid.png" alt="Hayat Srour at AAAAI2019" class="inline"/>
+<img src="/img/airpollutionpyramid.png" alt="Air pollution pyramid" class="inline"/>
 
 *Source: https://www.epa.gov/benmap/how-benmap-ce-estimates-health-and-economic-effects-air-pollution*
 
 Europe as a whole has worse air pollution than the US in part due to the continued embrace of diesel cars and failure to enforce pollution rules, amongst other factors. 
 
-<img src="/img/europepollution.png" alt="Hayat Srour at AAAAI2019" class="inline"/>
+<img src="/img/europepollution.png" alt="Air poluttion in Europe" class="inline"/>
 
 *Source: https://www.who.int/airpollution/infographics/en/*
 
