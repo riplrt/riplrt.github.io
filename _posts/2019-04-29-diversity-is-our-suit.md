@@ -10,7 +10,7 @@ subtitle: How diversity made RIPL_Effect Research Team and science stronger!
 
 *Source: https://lf4he.blog/2018/01/18/diversity-are-universities-sincerely-up-for-change/*
 
-This week’s blog is meant to shine light on the importance of diversity in the workplace. What I have appreciated in the RIPL group is our diversity in knowledge and upbringing, which is why chose to reflect on its importance.   
+This week’s blog is meant to shine light on the importance of diversity in the workplace. What I have appreciated in the RIPL (a.k.a. Respiratory and Immunology Project at Larkin) group is our diversity in knowledge and upbringing, which is why chose to reflect on its importance.   
 
 Diversity in the workplace comes with different members of religious, ethnic, geographic locations, gender, or racial backgrounds. How does this benefit the realm of research? Our different backgrounds allow us to approach publications, data, and new information in a holistic manner. A big fraction of our time is focused on understanding the prevalence of asthma in the Puerto Rican population. Before my pre-RIPL days, I had no idea that asthma affected Puerto Ricans. Thanks to Dr. Rivera, who is a proud Puerto Rican, we learned from his experiences and studies and sure enough we are apart of a movement focused on understanding this health disparity. 
 
