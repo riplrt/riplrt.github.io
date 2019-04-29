@@ -9,8 +9,6 @@ subtitle: Every sneeze has a cause!
 Even though Halloween is still many months away, this may be enough to send a chill down our spines. There are many ways we can get allergic reactions. They may come from food, insect stings, medications, pollen, mold, animal dander, or even the carpet. Having carpet in the home can make it look stylish and feel comfortable. It is a safe option for flooring because it reduces slips and often aids in softening falls – especially for the elderly and the infants. Carpet can also improve acoustics because it absorbs the noise, rather than bouncing it around the room and creating an echo. Also, installing carpet in the home can save on heating bills, because it conserves energy by keeping the room warmer. But, great ambience can come at a price -- "Carpet
 Allergies."
 
-carpet-allergies.png
-
 <img src="/img/carpet-allergies.png" alt="Carpet Allergies" class="inline"/>
 
 *Source: https://www.myheavensbest.com/blog/are-carpets-bad-for-people-with-allergies/*
