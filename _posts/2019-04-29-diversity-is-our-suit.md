@@ -2,6 +2,7 @@
 layout: post
 title: Diversity is Our Strong Suit
 Subtitle: How diversity made RIPL_Effect Research Team and science stronger!
+---
 
 *By Hayat Srour*
 
