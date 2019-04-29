@@ -20,3 +20,6 @@ Culture plays a major role in behavior, which leads to practices in a population
 
 At first glance science may seem like the universal language of knowledge because its mere existence depends on facts that are proven by numbers, data, or even disease but the human body is a complete structure that reacts to mind and spirit. Within RIPLRT there is not a member who identifies the same but how does that affect our work? It makes us stronger. 
 
+<img src="/img/Hayat.jpg" alt="Hayat Srour" align="left" style="width: 15%; height: 15%; margin:8px">
+<p><i>About the author -- Hayat Srour is a recent graduate of the M.S. in Biomedical Sciences at Larkin University College of Biomedical Sciences. Hayat is also a Research Assistant and Lab Manager in the RIPL_Effect Research Team under the mentorship of principal investigator, Dr. Félix E. Rivera-Mariani. Also, Hayat is involved in one of our primary projects, in which we are addressing the respiratory health of Puerto Ricans in the aftermath of Hurricane Maria (<a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9663312&icde=44394109&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=" target="_blank">click here for more information</a>)</i></p>.
+
