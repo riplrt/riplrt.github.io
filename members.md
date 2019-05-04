@@ -85,7 +85,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 [Click here](#With Summer Pellechio) to view Summer's interview. 
 
-<a href="https://www.riplrt.com/cv/Summer_CV_01302019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
+<a href="https://www.riplrt.com/cv/Summer_CV_05042019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
 
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
