@@ -39,7 +39,9 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> <a name="Bhavikkumar Patel"></a>***Bhavikkumar Patel*** (**Graduatee Student**)
 <div style="text-align:justify"><p>Bhavik grew up in Anaheim, California, where he attended University of California, Irvine. After completing his Bachelor’s degree in History and Premedicine, he worked at United Healthcare/Optum Rx in the Specialty Pharmacy Department. He has also worked at the Remedy Pharm compounding pharmacy, specializing in hormone replacement therapy. He is currently enrolled in the Masters Program at Larkin School of Biomedical Sciences and has volunteered at various community centers such as UCI Medical Center, Lestonnac Free Clinic and Miami Rescue Missions Clinic. He truly believes in serving the underserved communities and uplifting their lives through various types of aid. His goal is to attend Medical School in the future and wants to provide medical aid in the underserved parts of our nation. Apart from academics, he enjoys running, sports, reading, and playing music.</p></div>
 
-[Click here](#With Bhavik Patel) to view Ruslan's interview. 
+[Click here](#With Bhavik Patel) to view Bhaviks's interview. 
+
+<a href="https://www.riplrt.com/cv/Bhavik_CV.pdf" target="_blank">Click here</a> to view Bhavik's C.V.
 
 ---
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px"> <a name="Hayat Srour"></a>***Hayat Srour*** (**Research Assistant and Lab Manager**)
