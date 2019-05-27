@@ -11,8 +11,8 @@ The RIPL_Effect Research Team (RIPLRT) takes pride in act of mentoring, starting
 Among the areas the RIPLRT address in mentoring include, but are not limited to:
 
 - [Experimental Techniques](#Experimental Techniques)
-- [Experimental Documentation](#Experimental Documentation)
 - [Experimental Planning and Design](#Experimental Planning and Design)
+- [Experimental Documentation](#Experimental Documentation)
 - [Project Planning and Management](#Project Planning and Management)
 - [Budget and Inventory Management](#Budget and Inventory Management)
 - [Scientific Writing](#Scientific Writing)
@@ -25,17 +25,17 @@ Among the areas the RIPLRT address in mentoring include, but are not limited to:
 - [Leadership](#Leadership)
 - [Career Planning](#Career Planning)
 
-<a name="Experimental Techniques"></a>***Experimental Techniques***: 
-<div style="text-align:justify"><p>In the laboratory setting, scientific researchn employs a pletora of laboratory techniques. These techniques include routine (e.g. pipetting, preparation of solutions, environmental sample collectiona and extractions, collection of human samples, etc.) and non-routine (e.g. ELISA, Western blots, DNA and protein extractions, flow cytometry, "omics" technologies, human whole blood pyrogen assay, etc.). The RIPLRT maintains Standard Operational Procedures (SOPs), and mastering these techniques and approaches are key to weekly and project-specific activities we emply. Also, veteran members (not only the PI) in the RIPLRT are eager mentoring in routine and innovative techniques. </p></div>
+<a name="Experimental Techniques"></a>***Experimental Techniques***.<div style="text-align:justify"><p>In the laboratory setting, scientific researchn employs a pletora of laboratory techniques. These techniques include routine (e.g. pipetting, preparation of solutions, environmental sample collectiona and extractions, collection of human samples, etc.) and non-routine (e.g. ELISA, Western blots, DNA and protein extractions, flow cytometry, "omics" technologies, human whole blood pyrogen assay, etc.). The RIPLRT maintains Standard Operational Procedures (SOPs), and mastering these techniques and approaches are key to weekly and project-specific activities we emply. Also, veteran members (not only the PI) in the RIPLRT are eager mentoring in routine and innovative techniques. </p></div>
 
 ---
 
-<a name="Experimental Planning and Design"></a>***Experimental Planning and Design***:
-Do to the many experiments and projects we participate throuhgout the year, planning and designing of experiments is essential. Different projects, even if they involve similar experimental techniques, needs to be planned and designed. *The experimental planning* includes, but is not limited to identifying the availability of resources (i.e. inventory control), creating sample maps (for storage and microplate location), identifying timeslots to carryout experiments, among others. The *experimental design* includes, but is not limited to identifying techniques suitable to address the experimental question, calculating sample sizes, determining necessary statistical methods, among others. Planning and designing experiments not only benefits time management but also helps assign tasks, intra-lab resources, and contributes to the project management (discussed below) to deliver experimental outcomes in a timely and reproducible manner. 
+<a name="Experimental Planning and Design"></a>***Experimental Planning and Design***.
+<div style="text-align:justify"><p>Do to the many experiments and projects we participate throuhgout the year, planning and designing of experiments is essential. Different projects, even if they involve similar experimental techniques, need to be planned and designed. *The experimental planning* includes, but is not limited to identifying the availability of resources (i.e. inventory control), creating sample maps (for storage and microplate location), identifying timeslots to carryout experiments, among others. The *experimental design* includes, but is not limited to identifying techniques suitable to address the experimental question, calculating sample sizes, determining necessary statistical methods, among others. Planning and designing experiments not only benefits time management but also helps assign tasks, intra-lab resources, and contributes to the project management (discussed below) to deliver experimental outcomes in a timely and reproducible manner.</p></div>
 
 ---
 
 <a name="Experimental Documentation"></a>***Experimental Documentation***:
+<div style="text-align:justify"><p>To yield reproducibility, documentation throughout the different stages of an experiment is fundamental. </p></div> 
 
 ---
 
