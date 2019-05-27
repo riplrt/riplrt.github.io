@@ -4,7 +4,25 @@ title: Mentoring in RIPLRT
 subtitle: Our strategies to mentor our RIPLRT members
 ---
 
-***Under Construction***
+As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="_blank">Ruslan Fomenko</a> in a <a href="https://www.riplrt.com/2019-05-02-mentors-unsung-heroes/" target="_blank">mentoring blog</a>, *"A mentor is someone who allows you to see the hope inside yourself" (by Oprah Winfrey).* 
+
+The RIPL_Effect Research Team (RIPLRT) takes pride in act of mentoring, starting from our <a href="https://www.riplrt.com/members/#Dr.%20F%C3%A9lix%20E.%20Rivera-Mariani" target="_blank">Principal Investigator (Dr. Rivera-Mariani)</a>, lab mananger, research assistants, and event undergraduate interns. Everyone in the RIPLRT engages in mentoring!
+
+Among the areas the RIPLRT address in mentoring include, but are not limited to:
+
+- experimental techniques
+- experimental planning and design
+- project planning and management
+- scientific writing
+- writing for non-scientific audience
+- peer-review
+- grant writing
+- team work
+- career planning
+- intra-laboratory communication
+- leadership
+
+
 
 
 ---
