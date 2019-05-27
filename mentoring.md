@@ -4,7 +4,13 @@ title: Mentoring in RIPLRT
 subtitle: Our strategies to mentor our RIPLRT members
 ---
 
-As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="_blank">Ruslan Fomenko</a> in a <a href="https://www.riplrt.com/2019-05-02-mentors-unsung-heroes/" target="_blank">mentoring blog</a>, *"A mentor is someone who allows you to see the hope inside yourself" (by Oprah Winfrey).* Also, <a href="https://www.riplrt.com/members/#Shandra%20Bellinger" target="_blank">Shandra Bellinger</a> further elaborates that there are <a href="https://www.riplrt.com/2019-05-17-mentors/" target="_blank">different types of mentors</a> (and different circumstances merit different mentoring styles), and mentoring is also a two-way street. Not only mentees but also mentors need to understand this inter-engaging relationship.
+As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="_blank">Ruslan Fomenko</a> in a <a href="https://www.riplrt.com/2019-05-02-mentors-unsung-heroes/" target="_blank">mentoring blog</a>, *"A mentor is someone who allows you to see the hope inside yourself" (by Oprah Winfrey).* <a href="https://www.riplrt.com/members/#Shandra%20Bellinger" target="_blank">Shandra Bellinger</a> further elaborates that there are <a href="https://www.riplrt.com/2019-05-17-mentors/" target="_blank">different types of mentors</a> (and different circumstances merit different mentoring styles), and mentoring is also a two-way street. Not only mentees but also mentors need to understand this inter-engaging relationship.
+
+<img src="/img/mentors1.png" alt="Mentoring" class="inline"/>
+
+<img src="/img/mentors_sb.png" alt="Different Type of" class="inline"/>
+
+
 
 The RIPL_Effect Research Team (RIPLRT) takes pride in act of mentoring, starting from our <a href="https://www.riplrt.com/members/#Dr.%20F%C3%A9lix%20E.%20Rivera-Mariani" target="_blank">Principal Investigator (Dr. Rivera-Mariani)</a>, lab mananger, research assistants, and event undergraduate interns. Everyone in the RIPLRT engages in mentoring!
 
