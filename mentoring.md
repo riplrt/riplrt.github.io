@@ -29,58 +29,45 @@ Among the areas the RIPLRT address in mentoring include, but are not limited to:
 <div style="text-align:justify"><p>In the laboratory setting, scientific researchn employs a pletora of laboratory techniques. These techniques include routine (e.g. pipetting, preparation of solutions, environmental sample collectiona and extractions, collection of human samples, etc.) and non-routine (e.g. ELISA, Western blots, DNA and protein extractions, flow cytometry, "omics" technologies, human whole blood pyrogen assay, etc.). The RIPLRT maintains Standard Operational Procedures (SOPs), and mastering these techniques and approaches are key to weekly and project-specific activities we emply. Also, veteran members (not only the PI) in the RIPLRT are eager mentoring in routine and innovative techniques. </p></div>
 
 ---
-
 <a name="Experimental Planning and Design"></a>***Experimental Planning and Design***
-<div style="text-align:justify"><p>Do to the many experiments and projects we participate throuhgout the year, planning and designing of experiments is essential. Different projects, even if they involve similar experimental techniques, need to be planned and designed. *The experimental planning* includes, but is not limited to identifying the availability of resources (i.e. inventory control), creating sample maps (for storage and microplate location), identifying timeslots to carryout experiments, among others. The *experimental design* includes, but is not limited to identifying techniques suitable to address the experimental question, calculating sample sizes, determining necessary statistical methods, among others. Planning and designing experiments not only benefits time management but also helps assign tasks, intra-lab resources, and contributes to the project management (discussed below) to deliver experimental outcomes in a timely and reproducible manner.</p></div>
+<div style="text-align:justify"><p>Do to the many experiments and projects we participate throuhgout the year, planning and designing of experiments is essential. Different projects, even if they involve similar experimental techniques, need to be planned and designed. <i>The experimental planning</i> includes, but is not limited to identifying the availability of resources (i.e. inventory control), creating sample maps (for storage and microplate location), identifying timeslots to carryout experiments, among others. The <i>experimental design*</i> includes, but is not limited to identifying techniques suitable to address the experimental question, calculating sample sizes, determining necessary statistical methods, among others. Planning and designing experiments not only benefits time management but also helps assign tasks, intra-lab resources, and contributes to the project management (discussed below) to deliver experimental outcomes in a timely and reproducible manner.</p></div>
 
 ---
-
 <a name="Experimental Documentation"></a>***Experimental Documentation***:
 <div style="text-align:justify"><p>To yield reproducibility, documentation throughout the different stages of an experiment is fundamental. In the RIPLRT, we have deveveloped approaches to implement rigorous and transparent experimental documentation, including electrobic notebooks, cloud storage, among others. We also implement internal audits to monitor and improve our documentation. </p></div> 
 
 ---
-
-<a name="Project Planning and Management"></a>***Project Planning and Management***:
+<a name="Project Planning and Management"></a>***Project Planning and Management***
+In the vast majority of cases, the experiments we implement in RIPLRT are linked to a project. Within a project, there are different epicycles that vary in duration, efforts, and resources. Here is were project planning and management comes into play to remain on track with time, efforts, and resources we imput into a project. When a new projects is to be launched, we come together to plan, for example, which tasks are needed, allocate personnel and material resources, and determine the duration and sequence of the tasks. Unless otherwise stated, in RIPLRT we practice with hard deadlines for each tasks. This skillset comes handy when concurrent projects are occuring in our working place. 
 
 ---
-
 <a name="Budget and Inventory Management"></a>***Budget and Inventory Management***:
 
 ---
-
 <a name="Scientific Writing"></a>***Scientific Writing***:
 
 ---
-
 <a name="Grant Writing"></a>***Grant Writing***:
 
 ---
-
-
 <a name="Data Science"></a>***Data Science***:
 
 ---
-
 <a name="Writing for Non-scientific Audience"></a>***Writing for Non-scientific Audience***:
 
 ---
-
 <a name="Peer-Review"></a>***Peer-Review***:
 
 ---
-
 <a name="Team Work"></a>***Team Work***:
 
 ---
-
 <a name="Communication"></a>***Communication***:
 
 ---
-
 <a name="Leadership"></a>***Leadership***:
 
 ---
-
 <a name="Career Planning"></a>***Career Planning***:
 
 
