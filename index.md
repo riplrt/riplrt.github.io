@@ -25,7 +25,7 @@ In the RIPL_Effect Research Team, in addition to addressing the respiratory heal
 
 ### *New RIPLRT recruited @ a Recent Conference*
 
-Summer Pellecio, recent graduate from the Rochester Institute of Technology (Rochester, NY), was recently recruited after networking with Dr. Rivera-Mariani during the Annual Biomedical Research Conference for Minority Students in Indianapolis, Indiana (November 14-17, 2018). 
+Summer Pellechio, recent graduate from the Rochester Institute of Technology (Rochester, NY), was recently recruited after networking with Dr. Rivera-Mariani during the Annual Biomedical Research Conference for Minority Students in Indianapolis, Indiana (November 14-17, 2018). 
 
 <b><a href="https://www.riplrt.com/2018-11-30-new-riplrt-from-abrcms/" class="list-filter">Read more here!</a></b>
 
@@ -38,7 +38,7 @@ Together with scientists from the University of Texas-Austin, Dr. Rivera-Mariani
 
 ### *Our Funding Campaign!*
 
-Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor the future generations of scientists and healthcare workforce.
+Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor future generations of scientists and healthcare workforce.
 
 There is no such thing as a small donation: any small change can have a huge impact! <a href="https://www.gofundme.com/advocate-for-the-ripleffect?sharetype=teams&member=275308&rcid=r01-153687396981-61436b19e158485d&pc=ot_co_campmgmt_w" target="_blank">Click here to make a charitable donation to the RIPL_Effect Research Team</a>.
 

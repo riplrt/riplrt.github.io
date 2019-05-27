@@ -9,12 +9,12 @@ Our main scientific goal is to provide further insight into the immuno-physiolog
 The RIPL Effect research team also serves as a venue for the core of the team, <strong>our researchers (current and former graduate students)</strong>, to carry out high-quality scientific research and exemplify:
 
 
-- **Inclusiveness** (everyone’s voice count)
-- **Multi-disciplinary** focus (integrate different disciplines into our reach goals)
+- **Inclusiveness** (everyone’s voice counts)
+- **Multi-disciplinary** focus (integrate different disciplines into our research goals)
 - **Diversity** (value and respect differences in perspectives and opinions)
 - **Integrity** (follow strict institutional, scientific, and ethical guidelines)
 - **Productivity** (input our highest efforts to reach our goals)
-- **Innovation** (remain open-minded, and will learn from both successes and failures)
+- **Innovation** (remain open-minded, and learn from both successes and failures)
 - **Excellence** (target the highest quality of scientific research)
 - **Collaboration** (what is done in isolation is often accomplished better in partnership)
 - **Leadership** (nourish from a culture of intra and inter-motivation and inspiration)
