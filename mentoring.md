@@ -38,37 +38,46 @@ Among the areas the RIPLRT address in mentoring include, but are not limited to:
 
 ---
 <a name="Project Planning and Management"></a>***Project Planning and Management***
-In the vast majority of cases, the experiments we implement in RIPLRT are linked to a project. Within a project, there are different epicycles that vary in duration, efforts, and resources. Here is were project planning and management comes into play to remain on track with time, efforts, and resources we imput into a project. When a new projects is to be launched, we come together to plan, for example, which tasks are needed, allocate personnel and material resources, and determine the duration and sequence of the tasks. Unless otherwise stated, in RIPLRT we practice with hard deadlines for each tasks. This skillset comes handy when concurrent projects are occuring in our working place. 
+<div style="text-align:justify"><p>In the vast majority of cases, the experiments we implement in RIPLRT are linked to a project. Within a project, there are different epicycles that vary in duration, efforts, and resources. Here is were project planning and management comes into play to remain on track with time, efforts, and resources we imput into a project. When a new projects is to be launched, we come together to plan, for example, which tasks are needed, allocate personnel and material resources, and determine the duration and sequence of the tasks. Unless otherwise stated, in RIPLRT we practice with hard deadlines for each tasks. This skillset comes handy when concurrent projects are occuring in our working place.</p></div>
 
 ---
 <a name="Budget and Inventory Management"></a>***Budget and Inventory Management***:
+<div style="text-align:justify"><p>How much a project will cost and impementing strategies to control how much we spend is another benefit of project planning and management (discussed above). As scientists, as pretty much in daily lives, understanding how needs to be spent (without under or overspending) is extremely important to carry out projects in the lab. Also, experimental planning and design helps control the inventory of consumables and specific reagents. In RIPLRT, we are cautious with how much needs to me spend for an experiment or project, and to take care of our man-hours and material resources.</p></div>
 
 ---
 <a name="Scientific Writing"></a>***Scientific Writing***:
+<div style="text-align:justify"><p>A scientific finding that is not communicated, or informed incorrectly, is a finding not discovered. Therefore, in the RIPLRT we constantly seek to find opportunities to communincate our scientific fidings, and taking care to place these findings in public health and societal benefits. The scientific writing also benefits from the project planning and management (discussed above), and from the intra-collaboration (see team work below) within the RIPLRT. Becoming a good and efficient scientific writer takes a lot of work, effort, and patience.</p></div>
 
 ---
 <a name="Grant Writing"></a>***Grant Writing***:
+<div style="text-align:justify"><p></p></div>
 
 ---
 <a name="Data Science"></a>***Data Science***:
+<div style="text-align:justify"><p></p></div>
 
 ---
 <a name="Writing for Non-scientific Audience"></a>***Writing for Non-scientific Audience***:
 
 ---
 <a name="Peer-Review"></a>***Peer-Review***:
+<div style="text-align:justify"><p></p></div>
 
 ---
 <a name="Team Work"></a>***Team Work***:
+<div style="text-align:justify"><p></p></div>
 
 ---
 <a name="Communication"></a>***Communication***:
+<div style="text-align:justify"><p></p></div>
 
 ---
 <a name="Leadership"></a>***Leadership***:
+<div style="text-align:justify"><p></p></div>
 
 ---
 <a name="Career Planning"></a>***Career Planning***:
+<div style="text-align:justify"><p></p></div>
 
 
 
