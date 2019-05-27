@@ -50,7 +50,7 @@ Among the areas the RIPLRT address in mentoring include, but are not limited to:
 
 ---
 <a name="Grant Writing"></a>***Grant Writing***:
-<div style="text-align:justify"><p></p></div>
+<div style="text-align:justify"><p>Among the challenging skillsets as scientists is to become competitive in writing grants. The scientific aspect of grant writing involved many different phases and epicycles, including (but not limited to), 1) identifying an innovative and relevant idea, 2) match this idea to approprite experimental methods, 3) elaborate how expected outcomes will benefit society, 4) what will be future directions after a proposed project is completed, 6) and convince peers that your proposed project should be the one funded and that your team (or group of collabortators) is fit to carry out the project. In addition to communicate all of the above in a scientific-concise manner, budget, project planning, and other aspects (some already discussed above) come into play. Therefore, in the RIPLRT we continuously seek to identify grant opportunities and ideas that fit these funding opportunities.</p></div>
 
 ---
 <a name="Data Science"></a>***Data Science***:
