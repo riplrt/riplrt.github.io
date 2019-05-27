@@ -58,15 +58,15 @@ Among the areas the RIPLRT address in mentoring include, but are not limited to:
 <div style="text-align:justify"><p><a name="Team Work"></a><i><b>Team Work</b></i>. Science is not an individual sport, and every scientists needs to either have, be involved, or collaborate witha  research team. Nowdays funding agencies and non-profit organization rarely fund scientific projects in which one person is involved. From the beginning of the RIPLRT, we have been involved in collaborative projects, including projects addressing the <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9663312&icde=44809288&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=" target="_blank">respiratory health in the aftermath of Hurricane Maria</a>. As mentioned above in <a href="https://www.riplrt.com/mentoring/#Project%20Planning%20and%20Management">project planning and management</a>, different resources of man-power within the RIPLRT are integrated into different tasks. Also, we have created an environment within RIPLRT in which collaborating is one of the key assets to be a part of our research team (<a href="https://bookdown.org/friveram/labmanualriplrt/" target="_blank">click here</a> to learn more about the team work requirements within RIPLRT). </p></div>
 
 ---
-<div style="text-align:justify"><p><a name="Communication"></a><i><b>Communication</b></i>.
-</p></div>
+<div style="text-align:justify"><p><a name="Communication"></a><i><b>Communication</b></i>. Transparency with ourselves and within the RIPLRT are among the priority of the group (click for the <a href="https://bookdown.org/friveram/labmanualriplrt/general-policies.html#communication" target="_blank">communication section</a> in our lab manual). For this reason, we take great pride in the RIPLRT to have excellent lines of communication, even in today's technological area.</p></div>
 
 ---
-<div style="text-align:justify"><p><a name="Leadership"></a><i><b>Leadership</b></i>.</p></div>
+<div style="text-align:justify"><p><a name="Leadership"></a><i><b>Leadership</b></i>. In the RIPLRT, our principal investigator (Dr Rivera-Mariani) is not the only leader --  everyone is given the opportunity to showcase and polish their leadership skills. That's why among our <a href="https://www.riplrt.com/mission/" target="_blank">core values</a> in the RIPLRT are is to "nourish from a culture of intra and inter motivation and inspiration." Also, the RIPLRT always encourage to follow the corresponding channels of communication, not only in the research team but also within our institution and elsewhere.</p></div>
 
 ---
-<div style="text-align:justify"><p><a name="Career Planning"></a><i><b>Career Planning</b></i>. </p></div>
+<div style="text-align:justify"><p><a name="Career Planning"></a><i><b>Career Planning</b></i>. To move forward in our professional and personal (yes, we must have personal) goals, we must plan the steps we take to reach those goals. Also, our principal investigator and mentor (Dr. Rivera-Mariani) has among his priority to see each person who goes through RIPLRT, and takes advantage of the many learning and growth opportunities presented, to excellent in their professional and personal endeavours. Dr. Rivera-Marian establishes periodic meetings each members to follow upon previous discussion on career planning and to identify areas and skillsets to master. Also, within the RIPLRT we exchange experiences that could contribute to the career of others in the research team. </p></div>
 
+In summary, you <b><i>mentoring</i></b> is among our priorities and we take great pride in doing so in the RIPLRT.  
 
 
 ---
