@@ -31,6 +31,7 @@ Among the areas the RIPLRT address in mentoring include, but are not limited to:
 ---
 
 <a name="Experimental Planning and Design"></a>***Experimental Planning and Design***:
+Do to the many experiments and projects we participate throuhgout the year, planning and designing of experiments is essential. Different projects, even if they involve similar experimental techniques, needs to be planned and designed. *The experimental planning* includes, but is not limited to identifying the availability of resources (i.e. inventory control), creating sample maps (for storage and microplate location), identifying timeslots to carryout experiments, among others. The *experimental design* includes, but is not limited to identifying techniques suitable to address the experimental question, calculating sample sizes, determining necessary statistical methods, among others. Planning and designing experiments not only benefits time management but also helps assign tasks, intra-lab resources, and contributes to the project management (discussed below) to deliver experimental outcomes in a timely and reproducible manner. 
 
 ---
 
@@ -59,7 +60,7 @@ Among the areas the RIPLRT address in mentoring include, but are not limited to:
 
 ---
 
-<a name="Writing for Non-scientific Audience">***Writing for Non-scientific Audience***:
+<a name="Writing for Non-scientific Audience"></a>***Writing for Non-scientific Audience***:
 
 ---
 
