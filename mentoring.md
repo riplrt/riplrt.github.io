@@ -8,10 +8,8 @@ As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="
 
 <img src="/img/mentors1.png" alt="Mentoring" class="inline"/>
 
-<img src="/img/mentors_sb.png" alt="Different Type of" class="inline"/>
-
-
 The RIPL_Effect Research Team (RIPLRT) takes pride in act of mentoring, starting from our <a href="https://www.riplrt.com/members/#Dr.%20F%C3%A9lix%20E.%20Rivera-Mariani" target="_blank">Principal Investigator (Dr. Rivera-Mariani)</a>, lab mananger, research assistants,  undergraduate interns, and every member who joins the RIPLRT. <i><b>Everyone in the RIPLRT engages in mentoring</b></i>!
+Find below the areas in which the members of the RIPLRT are mentored. 
 
 Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limited to:
 
