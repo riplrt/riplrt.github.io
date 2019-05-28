@@ -45,7 +45,7 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 
 ---
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px">
-<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour*** (**Research Assistant and Lab Manager)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality.</p></div>
+<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality.</p></div>
 
 <div style="text-align:justify"><p>Hayat's leadership dates back to the beginnigs of the RIPLRT (back then the RIPLRG). When the group was created, Hayat was assigned the task of being the spokesperson of the group. Her leadership was also employed as a student representative in the Advisory Committee of the M.S. in Biomedical Sciences program at Larkin University. Therefore, it is no surprise that her peers fully support her as the Lab Manager of the RIPLRT. </p></div>
 
