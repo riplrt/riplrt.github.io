@@ -34,4 +34,4 @@ Visit our [Wiki Page](https://wiki.riplrt.com), to learn more about the guidelin
 
 ---
 
-<font size="1">&#169; 2018 RIPL_Effect Research Team<i>. The contents of this github repository reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the contents found in this repo</i>.</font>
+<font size="1">&#169; 2019 RIPL_Effect Research Team<i>. The contents of this github repository reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the contents found in this repo</i>.</font>

@@ -82,4 +82,4 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
   <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>
 </a>
 
-<font size="1">&#169; 2018 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
+<font size="1">&#169; 2019 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
