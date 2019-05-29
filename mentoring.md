@@ -56,7 +56,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 
 <figure>
   <img src="/img/Research-lifecycle-main-t1-blowout-1x.png" alt="Budget and Inventory Management" style="width:80%" class="center">
-  <figcaption><font size="2"><b>How budget touches every stage of a scientific research project</b>. Although the illustratino above describes a scientific project in general, it does highlights the importance of budget in each stage, including in its planning. <i>Source <a href="https://www.washington.edu/research/" target="_blank">https://www.washington.edu/research/</a></i></font>.</figcaption>
+  <figcaption><font size="2"><b>How budget touches every stage of a scientific research project</b>. Although the illustratino above describes a scientific project in general, it does highlights the importance of budget in each stage, including in its planning. <i>Source <a href="https://www.washington.edu/research/" target="_blank">https://www.washington.edu/research/`1</a></i></font>.</figcaption>
 </figure>
 
 ---
@@ -86,20 +86,46 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 ---
 <div style="text-align:justify"><p><a name="Writing for Non-scientific Audience"></a><i><b>Writing for Non-scientific Audience</b></i>. You'll be impressed with the increasing interest of society (often the one funding research through taxes) in scientific findings. However, we (as scientists) often fail in how to properly downgrading the tone and terminology to help the non-scientific audience understand the benefits and meaning of the science we do. For this reason, mentoring in RIPLRT include writing blogs for non-scientists audience in topics that are relevent to public health and which can provide insights on how to improve human health.</p></div>
 
+<figure>
+  <img src="/img/science_communication.jpg" alt="Science Communication" style="width:60%" class="center">
+  <figcaption><font size="2">Science has to be communicated to society--otherwise, there its impact is worthless. <i>Source <a href="http://www.bu.edu/com/science-communication/" target="_blank">http://www.bu.edu/com/science-communication/</a></i></font>.</figcaption>
+</figure>
+
 ---
 <div style="text-align:justify"><p><a name="Peer-Review"></a><i><b>Peer-Review</b></i>. The <a href="https://www.publisso.de/en/advice/publishing-advice-faqs/peer-review/" target="_blank">peer-review</a> process in scientific research is extremely important for the following reason: subjects scholarly work and research to scrutiny of other experts to reassure its validity and suitability for publication. Although this is one of the areas of scientific research for which scientists are less rewarded, it is extremely important to move science forward. In RIPLRT, whenever the PI gets invited or identifies a peer-review opportunity, he invites members of the research team to practice peer-reviewing manuscripts and other scholarly work submitted by others.</p></div>
+
+<figure>
+  <img src="/img/PeerReviewProcess1.jpg" alt="Peer Review" style="width:60%" class="center">
+  <figcaption><font size="2">The Peer-Review process. <i>Source <a href="https://ucsd.libguides.com/mmw13/peerreview" target="_blank">https://ucsd.libguides.com/mmw13/peerreview</a></i></font>.</figcaption>
+</figure>
 
 ---
 <div style="text-align:justify"><p><a name="Team Work"></a><i><b>Team Work</b></i>. Science is not an individual sport, and every scientists needs to either have, be involved, or collaborate with a research team. Nowdays funding agencies and non-profit organization rarely fund scientific projects in which only one person is involved. From the beginning of the RIPLRT, we have been involved in collaborative projects, including projects addressing the <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9663312&icde=44809288&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=" target="_blank">respiratory health in the aftermath of Hurricane Maria</a>. As mentioned above in <a href="https://www.riplrt.com/mentoring/#Project%20Planning%20and%20Management">project planning and management</a>, different resources of man-power within the RIPLRT are integrated into different tasks. Also, we have created an environment within RIPLRT in which collaborating is one of the key assets to be part of our research team (<a href="https://bookdown.org/friveram/labmanualriplrt/" target="_blank">click here</a> to learn more about the team work requirements within RIPLRT). </p></div>
 
+<figure>
+  <img src="/img/team_work.jpg" alt="Team Work" style="width:60%" class="center">
+  <figcaption><font size="2">Team work is essential in an research lab. <i>Source <a href="https://www.utoronto.ca/news/space-force-can-design-research-space-facilitate-collaboration" target="_blank">https://www.utoronto.ca/news/space-force-can-design-research-space-facilitate-collaboration</a></i></font>.</figcaption>
+</figure>
+
 ---
 <div style="text-align:justify"><p><a name="Communication"></a><i><b>Communication</b></i>. Transparency with ourselves and within the RIPLRT are among the priority of the group (click for the <a href="https://bookdown.org/friveram/labmanualriplrt/general-policies.html#communication" target="_blank">communication section</a> in our lab manual). For this reason, we take great pride to have excellent lines of communication, even in today's technological area. Everyone in the RIPLRT knonws what everyone is doign, and lines of communication are open within the RIPLRT. </p></div>
+
+<img src="/img/Effective-team-communication-1-1.jpg" alt="Team Work" style="width:60%" class="center">
 
 ---
 <div style="text-align:justify"><p><a name="Leadership"></a><i><b>Leadership</b></i>. In the RIPLRT, our principal investigator (Dr Rivera-Mariani) is not the only leader --  everyone is given the opportunity to showcase and polish their leadership skills. That's why among our <a href="https://www.riplrt.com/mission/" target="_blank">core values</a> in the RIPLRT are to "nourish from a culture of intra and inter motivation and inspiration." </p></div>
 
+<img src="/img/leadership-skills-to-accelerate-performance-infographic-ccl-center-for-creative-leadership" alt="Team Work" style="width:60%" class="center">
+
 ---
 <div style="text-align:justify"><p><a name="Career Planning"></a><i><b>Career Planning</b></i>. To move forward in our professional and personal (yes, we must have personal) goals, we must plan the steps we take to reach those milestones. Also, our principal investigator and mentor (Dr. Rivera-Mariani) has among his priority to see each person who goes through RIPLRT, and takes advantage of the many learning and growth opportunities presented, to triump in their professional and personal endeavours. Dr. Rivera-Marian establishes periodic meetings with each member to follow upon previous discussion on career planning and to identify areas and skillsets to master. Also, within the RIPLRT we exchange experiences that could contribute to the careers of others in the research team. </p></div>
+
+<figure>
+  <img src="/img/career-planning-for-stem-postdocs-and-phd-students-12-638.jpg" alt="Career Planning" style="width:60%" class="center">
+  <figcaption><font size="2">It also takes effort to plan our careers. <i>Source <a href="https://leadership-skills-to-accelerate-performance-infographic-ccl-center-for-creative-leadership" target="_blank">leadership-skills-to-accelerate-performance-infographic-ccl-center-for-creative-leadership</a></i></font>.</figcaption>
+</figure>
+
+
 
 <i>In summary, <b><i>mentoring</i></b> is among our priorities and we take great pride in doing so in the RIPLRT.</i>  
 
