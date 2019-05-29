@@ -37,7 +37,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 
 <figure>
   <img src="/img/experimental_design.png" alt="Experimental Planning, Design, and Execution" style="width:60%" class="center">
-  <figcaption><font size="2">Pathways of planning, designing, and deplying an experiment. <i>Source <a href="http://umich.edu/~essen/html/07chap/html/05prof2.htm" target="_blank">http://umich.edu/~essen/html/07chap/html/05prof2.htm</a></i></font>.</figcaption>
+  <figcaption><font size="2">Pathways of planning, designing, and deploying an experiment. <i>Source <a href="http://umich.edu/~essen/html/07chap/html/05prof2.htm" target="_blank">http://umich.edu/~essen/html/07chap/html/05prof2.htm</a></i></font>.</figcaption>
 </figure>
 
 ---
