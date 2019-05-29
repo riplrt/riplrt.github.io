@@ -50,7 +50,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 
 <figure>
   <img src="/img/grant_writing.JPG" alt="Grant Writing" style="width:70%">
-  <figcaption>Grant writing pipeline. <i>Source <a href="https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/" target="_blank">https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/</a></i>.</figcaption>
+  <figcaption><font size="2">Grant writing pipeline. <i>Source <a href="https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/" target="_blank">https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/</a></i>.</figcaption>
 </figure>
 
 ---
