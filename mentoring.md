@@ -50,18 +50,14 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 ---
 <div style="text-align:justify"><p><a name="Grant Writing"></a><i><b>Grant Writing</b></i>. Among the challenging skillsets as scientists is to become competitive in writing grants. The scientific aspect of grant writing involved many different phases and epicycles (see the figure below), including (but not limited to) 1) identifying an innovative and relevant idea, 2) matching this idea to approprite experimental methods, 3) elaborating how expected outcomes will benefit society, 4) discussing what will be future directions after a proposed project is completed, 5) and convince peers that your proposed project should be the one funded and that your team (or group of collabortators) is fit to carry out the project. In addition to communicate all of the above in a scientific-concise manner, budget, project planning, and other aspects (some already discussed above) come into play. Therefore, in the RIPLRT we continuously seek to identify grant opportunities and ideas that fit these funding opportunities to deploy our scientific and mentoring efforts.</p></div>
 
-<figure>
-  <img src="/img/grant_writing.JPG" alt="Grant Writing" class="center">
-  <figcaption><font size="2">Grant writing pipeline. <i>Source <a href="https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/" target="_blank">https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/</a></i></font>.</figcaption>
-</figure>
+<img src="/img/grant_writing.JPG" alt="Grant Writing" class="center">
+
+<font size="2">Grant writing pipeline. <i>Source <a href="https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/" target="_blank">https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/</a></i></font>.
 
 ---
 <div style="text-align:justify"><p><a name="Data Science"></a><i><b>Data Science</b></i>. In recent years, there has been an increase scrutiny on the statistics behind scientific findings. Furthermore, many peer-reviewed journals and funding organization (both goverment and private-non-profit) seek that the statistical methods be reproducible. These two requirements benefit from implementation of computational approaches to handle, analyze, and extract meaning from datasets. In the RIPLRT, we have <a href="https://www.riplrt.com/members/#Dr.%20F%C3%A9lix%20E.%20Rivera-Mariani" target="_blank">extensive expertise</a> in data management and analysis, including in integrating the <a href="https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html" target="_blank">epicycles of data sciences (see the epicycles below)</a>. Given that this skillsets has a steep learning curve, mentoring in this area takes planning and lots of patience -- an mentees to not be affraid of errors when writing computational codes.</p></div>
 
-<figure>
-  <img src="/img/epicycles-of-datascience.jpg" alt="Epicycles of Data Science" style="width:60%" class="center">
-  <figcaption><font size="2">Epicycles of Data Science. <i>Source <a href="https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html" target="_blank">https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html</a></i></font>.</figcaption>
-</figure>
+<img src="/img/epicycles-of-datascience.jpg" alt="Epicycles of Data Science" style="width:60%" class="center">
 
 ---
 <div style="text-align:justify"><p><a name="Writing for Non-scientific Audience"></a><i><b>Writing for Non-scientific Audience</b></i>. You'll be impressed with the increasing interest of society (often the one funding research through taxes) in scientific findings. However, we (as scientists) often fail in how to properly downgrading the tone and terminology to help the non-scientific audience understand the benefits and meaning of the science we do. For this reason, mentoring in RIPLRT include writing blogs for non-scientists audience in topics that are relevent to public health and which can provide insights on how to improve human health.</p></div>
