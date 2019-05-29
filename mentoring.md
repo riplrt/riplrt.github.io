@@ -47,7 +47,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 <div style="text-align:justify"><p><a name="Project Planning and Management"></a><i><b>Project Planning and Management</b></i>. In the vast majority of cases, the experiments we implement in RIPLRT are linked to a project. Within a project, there are different tasks' epicycles (see figure below) that vary in duration, efforts, and resources. Here is were project planning and management comes into play to remain on track with deadlines, efforts, and resources we imput into a project. When a new projects is to be launched, we come together to plan, for example, which tasks are needed, allocate personnel and material resources, and determine the duration and sequence of the tasks. Unless otherwise stated, in RIPLRT we practice with hard deadlines for each tasks. As as a project moves forward, we need to keep in check that every tasks is being performed as planned, or close to planned, initially. Thereore, the project planning anad management skillset comes handy when concurrent projects are occuring in our working place and different deadlines are in agenda.</p></div>
 
 <figure>
-  <img src="/img/demystifying-the-5-phases2.jpg" alt="Experimental Planning and Design" style="width:80%" class="center">
+  <img src="/img/demystifying-the-5-phases2.jpg" alt="Project Management" style="width:80%" class="center">
   <figcaption><font size="2">Phases of Project Planning and Management. <i>Source <a href="https://www.smartsheet.com/blog/demystifying-5-phases-project-management" target="_blank">https://www.smartsheet.com/blog/demystifying-5-phases-project-management</a></i></font>.</figcaption>
 </figure>
 
@@ -56,6 +56,12 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 
 ---
 <div style="text-align:justify"><p><a name="Scientific Writing"></a><i><b>Scientific Writing</b></i>. A scientific finding that is not communicated, or informed incorrectly, is a finding not discovered and one that missed the opportunity to contribute to society. In the RIPLRT, we constantly seek to find opportunities to communincate our scientific fidings (e.g. manuscripts, poster presentations at conferences, blogs, etc), and taking care to align  these findings with regards to how they benefit public health and society as a whole. The scientific writing also benefits from the project planning and management (discussed above), and from the intra-collaboration (see team work below) within the RIPLRT. Becoming a good and efficient scientific writer takes a lot of work, effort, and patience -- it is rewarding when we become skillfull at communicating our science.</p></div>
+
+scientific_writing.png
+<figure>
+  <img src="/img/scientific_writing.png" alt="Scientific Writing" style="width:80%" class="center">
+  <figcaption><font size="2">Tips for Structured Scientific Writing. <i>Source <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619" target="_blank">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619</a></i></font>.</figcaption>
+</figure>
 
 ---
 <div style="text-align:justify"><p><a name="Grant Writing"></a><i><b>Grant Writing</b></i>. Among the challenging skillsets as scientists is to become competitive in writing grants. The scientific aspect of grant writing involved many different phases and epicycles (see the figure below), including (but not limited to) 1) identifying an innovative and relevant idea, 2) matching this idea to approprite experimental methods, 3) elaborating how expected outcomes will benefit society, 4) discussing what will be future directions after a proposed project is completed, 5) and convince peers that your proposed project should be the one funded and that your team (or group of collabortators) is fit to carry out the project. In addition to communicate all of the above in a scientific-concise manner, budget, project planning, and other aspects (some already discussed above) come into play. Therefore, in the RIPLRT we continuously seek to identify grant opportunities and ideas that fit these funding opportunities to deploy our scientific and mentoring efforts.</p></div>
