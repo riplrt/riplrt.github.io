@@ -57,9 +57,8 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 ---
 <div style="text-align:justify"><p><a name="Scientific Writing"></a><i><b>Scientific Writing</b></i>. A scientific finding that is not communicated, or informed incorrectly, is a finding not discovered and one that missed the opportunity to contribute to society. In the RIPLRT, we constantly seek to find opportunities to communincate our scientific fidings (e.g. manuscripts, poster presentations at conferences, blogs, etc), and taking care to align  these findings with regards to how they benefit public health and society as a whole. The scientific writing also benefits from the project planning and management (discussed above), and from the intra-collaboration (see team work below) within the RIPLRT. Becoming a good and efficient scientific writer takes a lot of work, effort, and patience -- it is rewarding when we become skillfull at communicating our science.</p></div>
 
-scientific_writing.png
 <figure>
-  <img src="/img/scientific_writing.png" alt="Scientific Writing" style="width:80%" class="center">
+  <img src="/img/scientific_writing.png" alt="Scientific Writing" style="width:50%" class="center">
   <figcaption><font size="2">Tips for Structured Scientific Writing. <i>Source <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619" target="_blank">https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619</a></i></font>.</figcaption>
 </figure>
 
