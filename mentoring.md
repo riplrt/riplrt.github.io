@@ -47,7 +47,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 <div style="text-align:justify"><p><a name="Project Planning and Management"></a><i><b>Project Planning and Management</b></i>. In the vast majority of cases, the experiments we implement in RIPLRT are linked to a project. Within a project, there are different tasks' epicycles (see figure below) that vary in duration, efforts, and resources. Here is were project planning and management comes into play to remain on track with deadlines, efforts, and resources we imput into a project. When a new projects is to be launched, we come together to plan, for example, which tasks are needed, allocate personnel and material resources, and determine the duration and sequence of the tasks. Unless otherwise stated, in RIPLRT we practice with hard deadlines for each tasks. As as a project moves forward, we need to keep in check that every tasks is being performed as planned, or close to planned, initially. Thereore, the project planning anad management skillset comes handy when concurrent projects are occuring in our working place and different deadlines are in agenda.</p></div>
 
 <figure>
-  <img src="/img/demystifying-the-5-phases2.jpg" alt="Experimental Planning and Design" style="width:60%" class="center">
+  <img src="/img/demystifying-the-5-phases2.jpg" alt="Experimental Planning and Design" style="width:80%" class="center">
   <figcaption><font size="2">Phases of Project Planning and Management. <i>Source <a href="https://www.smartsheet.com/blog/demystifying-5-phases-project-management" target="_blank">https://www.smartsheet.com/blog/demystifying-5-phases-project-management</a></i></font>.</figcaption>
 </figure>
 
