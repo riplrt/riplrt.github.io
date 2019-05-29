@@ -6,7 +6,7 @@ subtitle: Our strategies to mentor our RIPLRT members
 
 As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="_blank">Ruslan Fomenko</a> in a <a href="https://www.riplrt.com/2019-05-02-mentors-unsung-heroes/" target="_blank">mentoring blog</a>, *"A mentor is someone who allows you to see the hope inside yourself" (by Oprah Winfrey).* <a href="https://www.riplrt.com/members/#Shandra%20Bellinger" target="_blank">Shandra Bellinger</a> further elaborates that there are <a href="https://www.riplrt.com/2019-05-17-mentors/" target="_blank">different types of mentors</a> (and different circumstances merit different mentoring styles), and mentoring is also a two-way street. Not only mentees but also mentors need to understand this inter-engaging relationship for mentoring to be effective and successful.
 
-<img src="/img/mentors1.png" alt="Mentoring" style="width:70%" class="inline"/>
+<img src="/img/mentors1.png" alt="Mentoring" class="inline"/>
 
 The RIPL_Effect Research Team (RIPLRT) takes pride in act of mentoring, starting from our <a href="https://www.riplrt.com/members/#Dr.%20F%C3%A9lix%20E.%20Rivera-Mariani" target="_blank">Principal Investigator (Dr. Rivera-Mariani)</a>, lab mananger, research assistants,  undergraduate interns, and every member who joins the RIPLRT. <i><b>Everyone in the RIPLRT engages in mentoring</b></i>!
 Find below the areas in which the members of the RIPLRT are mentored. 
@@ -49,8 +49,8 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 <div style="text-align:justify"><p><a name="Grant Writing"></a><i><b>Grant Writing</b></i>. Among the challenging skillsets as scientists is to become competitive in writing grants. The scientific aspect of grant writing involved many different phases and epicycles (see the figure below), including (but not limited to) 1) identifying an innovative and relevant idea, 2) matching this idea to approprite experimental methods, 3) elaborating how expected outcomes will benefit society, 4) discussing what will be future directions after a proposed project is completed, 5) and convince peers that your proposed project should be the one funded and that your team (or group of collabortators) is fit to carry out the project. In addition to communicate all of the above in a scientific-concise manner, budget, project planning, and other aspects (some already discussed above) come into play. Therefore, in the RIPLRT we continuously seek to identify grant opportunities and ideas that fit these funding opportunities to deploy our scientific and mentoring efforts.</p></div>
 
 <figure>
-  <img src="/img/grant_writing.JPG" alt="Grant Writing" style="width:70%" class="inline"/>
-  <figcaption><font size="2">Grant writing pipeline. <i>Source <a href="https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/" target="_blank">https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/</a></i>.</figcaption>
+  <img src="/img/grant_writing.JPG" alt="Grant Writing" class="inline"/>
+  <figcaption><font size="2">Grant writing pipeline. <i>Source <a href="https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/" target="_blank">https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/</a></i></font>.</figcaption>
 </figure>
 
 ---
