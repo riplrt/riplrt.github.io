@@ -49,7 +49,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 <div style="text-align:justify"><p><a name="Grant Writing"></a><i><b>Grant Writing</b></i>. Among the challenging skillsets as scientists is to become competitive in writing grants. The scientific aspect of grant writing involved many different phases and epicycles (see the figure below), including (but not limited to) 1) identifying an innovative and relevant idea, 2) matching this idea to approprite experimental methods, 3) elaborating how expected outcomes will benefit society, 4) discussing what will be future directions after a proposed project is completed, 5) and convince peers that your proposed project should be the one funded and that your team (or group of collabortators) is fit to carry out the project. In addition to communicate all of the above in a scientific-concise manner, budget, project planning, and other aspects (some already discussed above) come into play. Therefore, in the RIPLRT we continuously seek to identify grant opportunities and ideas that fit these funding opportunities to deploy our scientific and mentoring efforts.</p></div>
 
 <figure>
-  <img src="/img/grant_writing.JPG" alt="Grant Writing" style="width:80%">
+  <img src="/img/grant_writing.JPG" alt="Grant Writing" style="width:70%">
   <figcaption>Grant writing pipeline. <i>Source <a href="https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/" target="_blank">https://writingcenter.unc.edu/tips-and-tools/grant-proposals-or-give-me-the-money/</a></i>.</figcaption>
 </figure>
 
