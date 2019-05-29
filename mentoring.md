@@ -115,7 +115,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 ---
 <div style="text-align:justify"><p><a name="Leadership"></a><i><b>Leadership</b></i>. In the RIPLRT, our principal investigator (Dr Rivera-Mariani) is not the only leader --  everyone is given the opportunity to showcase and polish their leadership skills. That's why among our <a href="https://www.riplrt.com/mission/" target="_blank">core values</a> in the RIPLRT are to "nourish from a culture of intra and inter motivation and inspiration." </p></div>
 
-<img src="/img/leadership-skills-to-accelerate-performance-infographic-ccl-center-for-creative-leadership" alt="Team Work" style="width:60%" class="center">
+<img src="/img/leadership-skills.png" alt="Leadership" style="width:60%" class="center">
 
 ---
 <div style="text-align:justify"><p><a name="Career Planning"></a><i><b>Career Planning</b></i>. To move forward in our professional and personal (yes, we must have personal) goals, we must plan the steps we take to reach those milestones. Also, our principal investigator and mentor (Dr. Rivera-Mariani) has among his priority to see each person who goes through RIPLRT, and takes advantage of the many learning and growth opportunities presented, to triump in their professional and personal endeavours. Dr. Rivera-Marian establishes periodic meetings with each member to follow upon previous discussion on career planning and to identify areas and skillsets to master. Also, within the RIPLRT we exchange experiences that could contribute to the careers of others in the research team. </p></div>
