@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mentoring in RIPLRT
-subtitle: Our strategies to mentor our RIPLRT members
+subtitle: The strategies to mentor our RIPLRT members
 ---
 
 As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="_blank">Ruslan Fomenko</a> in a <a href="https://www.riplrt.com/2019-05-02-mentors-unsung-heroes/" target="_blank">mentoring blog</a>, *"A mentor is someone who allows you to see the hope inside yourself" (by Oprah Winfrey).* <a href="https://www.riplrt.com/members/#Shandra%20Bellinger" target="_blank">Shandra Bellinger</a> further elaborates that there are <a href="https://www.riplrt.com/2019-05-17-mentors/" target="_blank">different types of mentors</a> (and different circumstances merit different mentoring styles), and mentoring is also a two-way street. Not only mentees but also mentors need to understand this inter-engaging relationship for mentoring to be effective and successful.
@@ -53,6 +53,11 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 
 ---
 <div style="text-align:justify"><p><a name="Budget and Inventory Management"></a><i><b>Budget and Inventory Management</b></i>. How much a project will cost and impementing strategies to control how much we spend is another benefit of project planning and management (discussed above). As scientists, and pretty much in our daily lives, understanding how much needs to be spent (without under or overspending) is extremely important to carry out projects in the lab. Also, experimental planning and design helps control the inventory of consumables and specific reagents thus different areas in which we mentored benefit the handling of budgets and inventories. In RIPLRT, we are cautious with how much needs to me spend for an experiment or project, and take care of our man-hours and material resources needed without interfering with our work-life balance.</p></div>
+
+<figure>
+  <img src="/img/Research-lifecycle-main-t1-blowout-1x.png" alt="Budget and Inventory Management" style="width:80%" class="center">
+  <figcaption><font size="2"><b>How budget touches every stage of a scientific research project</b>. Although the illustratino above describes a scientific project in general, it does highlights the importance of budget in each stage, including in its planning. <i>Source <a href="https://www.washington.edu/research/" target="_blank">https://www.washington.edu/research/</a></i></font>.</figcaption>
+</figure>
 
 ---
 <div style="text-align:justify"><p><a name="Scientific Writing"></a><i><b>Scientific Writing</b></i>. A scientific finding that is not communicated, or informed incorrectly, is a finding not discovered and one that missed the opportunity to contribute to society. In the RIPLRT, we constantly seek to find opportunities to communincate our scientific fidings (e.g. manuscripts, poster presentations at conferences, blogs, etc), and taking care to align  these findings with regards to how they benefit public health and society as a whole. The scientific writing also benefits from the project planning and management (discussed above), and from the intra-collaboration (see team work below) within the RIPLRT. Becoming a good and efficient scientific writer takes a lot of work, effort, and patience -- it is rewarding when we become skillfull at communicating our science.</p></div>
