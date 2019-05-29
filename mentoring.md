@@ -58,7 +58,7 @@ Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limi
 
 <figure>
   <img src="/img/epicycles-of-datascience.jpg" alt="Epicycles of Data Science" style="width:60%">
-  <figcaption><font size="2">Grant writing pipeline. <i>Source <a href="https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html" target="_blank">https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html</a></i></font>.</figcaption>
+  <figcaption><font size="2">Epicycles of Data Science. <i>Source <a href="https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html" target="_blank">https://bookdown.org/rdpeng/artofdatascience/epicycles-of-analysis.html</a></i></font>.</figcaption>
 </figure>
 
 ---
