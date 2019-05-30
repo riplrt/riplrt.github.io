@@ -17,6 +17,12 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 - [Shandra Bellinger](#Shandra Bellinger)
 - [Summer Pellechio](#Summer Pellechio)
 
+***Interns***
+
+- [Lorraine Torres-Vélez](#Lorraine Torres-Vélez)
+- [Naziba Nuha](#)
+- [Tahna Rahman](#)
+
 
 <img src="/img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Dr. Félix E. Rivera-Mariani"></a><i><b>Dr. Félix E. Rivera-Mariani(Principal Investigator).</b></i>. Dr. Rivera-Mariani, Assistant Professor and Academic Coordinator in the <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>, is an expert immunologist, microbiologist, aerobiologist, and computational biologist. Dr. Rivera-Mariani, in addition to carrying out scientific research, teaches biochemistry, immunology, and molecular genetics. Among the academic credentials of Dr. Rivera-Mariani include a B.S. in Biology with a minor in Chemistry (Southeastern Louisiana University under an athletic scholarship), Ph.D. in Microbiology and Medical Zoology (School of Medicine of the University of Puerto Rico - Medical Sciences Campus), post-doctoral fellowship in Environmental Health Sciences (the Bloomberg School of Public Health of the Johns Hopkins University), and Science Teaching Fellowship (American Society for Microbiology).</p></div>
@@ -90,7 +96,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 <a href="https://www.riplrt.com/cv/Summer_CV_05042019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
 
 ---
-<a name="Interns"><***Interns in the RIPLRT***
+<a name="Interns in the RIPLRT">***Interns in the RIPLRT***
 
 <img src="/img/Lorraine.jpeg" alt="Lorraine Torres-Vélez" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus)</b></i>
