@@ -20,8 +20,8 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 ***Interns***
 
 - [Lorraine Torres-Vélez](#Lorraine Torres-Vélez)
-- [Naziba Nuha](#)
-- [Tahna Rahman](#)
+- [Naziba Nuha](#Naziba Nuha)
+- [Tanha Rahman](#Tanha Rahman)
 
 
 <img src="/img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> 
@@ -51,7 +51,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 ---
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px">
-<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality.</p></div>
+<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality. She is making good strides in this direction by also currently working as a Physician Assistant Scribe. </p></div>
 
 <div style="text-align:justify"><p>Hayat's leadership dates back to the beginnigs of the RIPLRT (back then the RIPLRG). When the group was created, Hayat was assigned the task of being the spokesperson of the group. Her leadership was also employed as a student representative in the Advisory Committee of the M.S. in Biomedical Sciences program at Larkin University. Therefore, it is no surprise that her peers fully support her as the Lab Manager of the RIPLRT. </p></div>
 
@@ -99,12 +99,29 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 <a name="Interns in the RIPLRT">***Interns in the RIPLRT***
 
 <img src="/img/Lorraine.jpeg" alt="Lorraine Torres-Vélez" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus)</b></i>
+<div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
 Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and Medical Zoology at the University of Puerto Rico, Medical Sciences Campus. She earned her master’s degree in Public Health with concentration in Epidemiology in 2015, identifying the risk factors affecting the quality of life of residents in Yabucoa, Puerto Rico. In 2014 she received a double major in Industrial Microbiology and Biology at the University of Puerto Rico, Mayagüez Campus. During her undergraduate education, she worked in the Symbiosis Laboratory of Dr. Cafaro investigating the antifungal capacity of Actinobacteria associated to the exoskeleton of the termite Nasutitermes costalis. She’s currently working in her research thesis at the Mycology Laboratory of Dr. Bolaños, studying the effect of Hurricane María in the indoor concentration of fungi and the health outcomes of the habitants.</p></div>
 
 <div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
 
 <div style="text-align:justify"><p>In the RIPLRT, Lorraine looks forward to train on the different human-based immunological approaches we implement in environmental health studies. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learn with the RIPLRT.</p></div> 
+
+<div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern).</b></i> Naziba is currently an undegradute student (Sophmore) at Nova Southeastern University (NSU), where she is enrolled in the Bacherlos in Science with major in Biology and minor in Chemistry. She is also a Physician Assistant Scribe. Interestingly, it was in this role as a scribe that she learned about the RIPLRT after approaching <a href="https://www.riplrt.com/members/#Hayat%20Srour">Hayat</a> (our lab mananger, who is also a Scribe). 
+
+At NSU, Naziba has earned numerous awards and has been involved in different extracurricular activities. She earned the NSU, she earned the Dean's Schoarship and the Shark Legacy Scholarship. In the winter of 2018, she made the Dean's list. Among her extracurricular activities include being the president of the NSU Book Club, underclassman senator of NSU undergraduate Student Goverment Association, and secretary of the Society for Mentors. <a href="https://www.riplrt.com/cv/CV_Naziba.pdf" target="_blank">Click here</a> to learn more about Naziba's credentials.
+
+In the RIPLRT, Naziba looks forward to get immerse into the different epicycles of science, including learning the different laboratory techniques we employ as well as being guided in the different areas we <a href="https://www.riplrt.com/mentoring/" target="_blank">mentor</a>.
+
+<a href="https://www.riplrt.com/cv/CV_Naziba.pdf" target="_blank">Click here</a> to view Naziba's C.V.
+
+<div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern).</b></i> Similar to Naziba, Tanha is also a undergraduate student (Junio) at NSU enrolled in B.S. in Business Management and in Biology pre-medicine track. She is also enrolled in a minor in International Studies.
+
+Tanha has previous research experience as well as been in involved in numerous extracurricular activities. In 2016, she was involved in studing the effects of insecticide Naled, which was one of the chemical interventions to address a Zika outbreak in Wyndwood and Miami Beach, Florida. As result on her effort in this project, she was awarded 1st place in the Environmental Science Magnet Research Symposium. Tanha extracurricular credentials include Global Health Fellowship Program, Debbie's Dream Foundation, NSU-COM Medical Explorers Program, among many others. <a href="https://www.riplrt.com/cv/CV_Tanha.pdf" target="_blank">Click here</a> to learn more about Tanha's credentials.
+
+In the RIPLRT, Tanha looks forward to expand her previous research experience, and be involved with our effots to address the respiratory health among minority groups and sections of society with high prevalence of respiratory conditions.
+
+<a href="https://www.riplrt.com/cv/CV_Tanha.pdf" target="_blank">Click here</a> to view Tanha's C.V.
+
 
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
