@@ -104,6 +104,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
 
+<div style="text-align:justify"><p>In the RIPLRT, Lorraine looks forward to train on the different human-based immunological approaches we implement in environmental health studies. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learn with the RIPLRT.</p></div> 
+
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
 
