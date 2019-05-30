@@ -4,7 +4,7 @@ title: RIPLRT Team Members
 subtitle: Who are the RIPLRT?
 ---
 
-Find here pictures and bios of current members of the RIPLRT, pictures of [past members](#Past members of the RIPL_Effect), and [interviews](#Interviews with current and past members of the RIPL_Effect) with current and past members, as well as with our PI Dr. Rivera-Mariani. 
+Find here pictures and bios of current members, [interns](#Interns in the RIPLRT),  and [past members](#Past members of the RIPL_Effect), as well as [interviews](#Interviews with current and past members of the RIPL_Effect) with current and past members of the RIPLRT. 
 
 ***Current members of the RIPLRT***
 
@@ -88,6 +88,15 @@ Find here pictures and bios of current members of the RIPLRT, pictures of [past 
 [Click here](#With Summer Pellechio) to view Summer's interview. 
 
 <a href="https://www.riplrt.com/cv/Summer_CV_05042019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
+
+---
+<a name="Interns"><***Interns in the RIPLRT***
+
+<img src="/img/Lorraine.jpeg" alt="Lorraine Torres-Vélez" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus)</b></i>
+Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and Medical Zoology at the University of Puerto Rico, Medical Sciences Campus. She earned her master’s degree in Public Health with concentration in Epidemiology in 2015, identifying the risk factors affecting the quality of life of residents in Yabucoa, Puerto Rico. In 2014 she received a double major in Industrial Microbiology and Biology at the University of Puerto Rico, Mayagüez Campus. During her undergraduate education, she worked in the Symbiosis Laboratory of Dr. Cafaro investigating the antifungal capacity of Actinobacteria associated to the exoskeleton of the termite Nasutitermes costalis. She’s currently working in her research thesis at the Mycology Laboratory of Dr. Bolaños, studying the effect of Hurricane María in the indoor concentration of fungi and the health outcomes of the habitants.</p></div>. 
+
+<div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
 
 ---
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
