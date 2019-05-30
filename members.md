@@ -124,14 +124,23 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a href="https://www.riplrt.com/cv/CV_Tanha.pdf" target="_blank">Click here</a> to view Tanha's C.V.
 
+<br>
+
 ---
+<br>
+
 <a name="Past members of the RIPL_Effect"></a><i><b>Past members of the RIPLRT</b></i>
+
+<br>
 
 <img src="/img/PastMembers.jpg" alt="Past members of the RIPL_Effect" class="inline"/>
 
----
+<br>
 
-<a name="Interviews with current and past members of the RIPL_Effect"></a></a><i><b>Interviews with current and past members of the RIPL_Effect</b></i>
+---
+<br>
+
+<a name="Interviews with current and past members of the RIPL_Effect"></a><i><b>Interviews with current and past members of the RIPL_Effect</b></i>
 
 <i><b><a name="With Dr. Félix E. Rivera-Mariani"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7H_Q4WBYfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -151,7 +160,10 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <i><b><a name="With Bhavik Patel"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1mK_1wRr39A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+
 ---
+<br>
 **To contact the RIPL_Effect Research Team**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
