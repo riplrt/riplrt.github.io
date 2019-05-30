@@ -106,6 +106,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <div style="text-align:justify"><p>In the RIPLRT, Lorraine looks forward to train on the different human-based immunological approaches we implement in environmental health studies. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learn with the RIPLRT.</p></div> 
 
+---
+
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern).</b></i> Naziba is currently an undegradute student (Sophmore) at Nova Southeastern University (NSU), where she is enrolled in the Bacherlos in Science with major in Biology and minor in Chemistry. She is also a Physician Assistant Scribe. Interestingly, it was in this role as a scribe that she learned about the RIPLRT after approaching <a href="https://www.riplrt.com/members/#Hayat%20Srour">Hayat</a> (our lab mananger, who is also a Scribe).</p></div> 
 
 <div style="text-align:justify"><p>At NSU, Naziba has earned numerous awards and has been involved in different extracurricular activities. She earned the NSU, she earned the Dean's Schoarship and the Shark Legacy Scholarship. In the winter of 2018, she made the Dean's list. Among her extracurricular activities include being the president of the NSU Book Club, underclassman senator of NSU undergraduate Student Goverment Association, and secretary of the Society for Mentors. <a href="https://www.riplrt.com/cv/CV_Naziba.pdf" target="_blank">Click here</a> to learn more about Naziba's credentials.</p></div>
@@ -122,8 +124,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a href="https://www.riplrt.com/cv/CV_Tanha.pdf" target="_blank">Click here</a> to view Tanha's C.V.
 
-
 ---
+
 <a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
 
 <img src="/img/PastMembers.jpg" alt="Past members of the RIPL_Effect" class="inline"/>
