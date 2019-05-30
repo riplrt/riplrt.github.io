@@ -107,7 +107,6 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <div style="text-align:justify"><p>In the RIPLRT, Lorraine looks forward to train on the different human-based immunological approaches we implement in environmental health studies. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learn with the RIPLRT.</p></div> 
 
 ---
-
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern).</b></i> Naziba is currently an undegradute student (Sophmore) at Nova Southeastern University (NSU), where she is enrolled in the Bacherlos in Science with major in Biology and minor in Chemistry. She is also a Physician Assistant Scribe. Interestingly, it was in this role as a scribe that she learned about the RIPLRT after approaching <a href="https://www.riplrt.com/members/#Hayat%20Srour">Hayat</a> (our lab mananger, who is also a Scribe).</p></div> 
 
 <div style="text-align:justify"><p>At NSU, Naziba has earned numerous awards and has been involved in different extracurricular activities. She earned the NSU, she earned the Dean's Schoarship and the Shark Legacy Scholarship. In the winter of 2018, she made the Dean's list. Among her extracurricular activities include being the president of the NSU Book Club, underclassman senator of NSU undergraduate Student Goverment Association, and secretary of the Society for Mentors. <a href="https://www.riplrt.com/cv/CV_Naziba.pdf" target="_blank">Click here</a> to learn more about Naziba's credentials.</p></div>
@@ -116,6 +115,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a href="https://www.riplrt.com/cv/CV_Naziba.pdf" target="_blank">Click here</a> to view Naziba's C.V.
 
+---
 <div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern).</b></i> Similar to Naziba, Tanha is also a undergraduate student (Junio) at NSU enrolled in B.S. in Business Management and in Biology pre-medicine track. She is also enrolled in a minor in International Studies.
 
 <div style="text-align:justify"><p>Tanha has previous research experience as well as been in involved in numerous extracurricular activities. In 2016, she was involved in studing the effects of insecticide Naled, which was one of the chemical interventions to address a Zika outbreak in Wyndwood and Miami Beach, Florida. As result on her effort in this project, she was awarded 1st place in the Environmental Science Magnet Research Symposium. Tanha extracurricular credentials include Global Health Fellowship Program, Debbie's Dream Foundation, NSU-COM Medical Explorers Program, among many others. <a href="https://www.riplrt.com/cv/CV_Tanha.pdf" target="_blank">Click here</a> to learn more about Tanha's credentials.</p></div>
@@ -125,14 +125,13 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <a href="https://www.riplrt.com/cv/CV_Tanha.pdf" target="_blank">Click here</a> to view Tanha's C.V.
 
 ---
-
-<a name="Past members of the RIPL_Effect"></a>***Past members of the RIPLRT***
+<a name="Past members of the RIPL_Effect"></a><i><b>Past members of the RIPLRT</b></i>
 
 <img src="/img/PastMembers.jpg" alt="Past members of the RIPL_Effect" class="inline"/>
 
 ---
 
-<a name="Interviews with current and past members of the RIPL_Effect"></a>***Interviews with current and past members of the RIPL_Effect***
+<a name="Interviews with current and past members of the RIPL_Effect"></a></a><i><b>Interviews with current and past members of the RIPL_Effect</b></i>
 
 <i><b><a name="With Dr. Félix E. Rivera-Mariani"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7H_Q4WBYfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
