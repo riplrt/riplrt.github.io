@@ -118,7 +118,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 ---
 <img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern).</b></i> Similar to Naziba, Tanha is also a undergraduate student (Junio) at NSU enrolled in B.S. in Business Management and in Biology pre-medicine track. She is also enrolled in a minor in International Studies.
+<div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern).</b></i> Similar to Naziba, Tanha is also a undergraduate student (junior) at NSU enrolled in B.S. in Business Management and in Biology pre-medicine track. She is also enrolled in a minor in International Studies.
 
 <div style="text-align:justify"><p>Tanha has previous research experience as well as been in involved in numerous extracurricular activities. In 2016, she was involved in studing the effects of insecticide Naled, which was one of the chemical interventions to address a Zika outbreak in Wyndwood and Miami Beach, Florida. As result on her effort in this project, she was awarded 1st place in the Environmental Science Magnet Research Symposium. Tanha extracurricular credentials include Global Health Fellowship Program, Debbie's Dream Foundation, NSU-COM Medical Explorers Program, among many others. <a href="https://www.riplrt.com/cv/CV_Tanha.pdf" target="_blank">Click here</a> to learn more about Tanha's credentials.</p></div>
 
