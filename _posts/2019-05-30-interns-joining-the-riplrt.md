@@ -13,10 +13,10 @@ In line with recent blogs <a href="https://www.riplrt.com/2019-05-02-mentors-uns
 <a href="https://www.riplrt.com/members/#Lorraine%20Torres-V%C3%A9lez" target="_blank"> Lorraine Vélez-Torres</a>, Ph.D. candidate, Department of Microbiology, School of Medicine of the University of Puerto Rico - Medican Sciences Campus
 
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<a href="https://www.riplrt.com/members/#Naziba%20Nuha" target="_blank"> Naziba Nuha, undergraduate student (sophmore) enrolled in the B.S. in Biology and Mathematics with minor in Chemistry at Nova Southeastern University (NSU)
+<a href="https://www.riplrt.com/members/#Naziba%20Nuha" target="_blank"> Naziba Nuha</a>, undergraduate student (sophmore) enrolled in the B.S. in Biology and Mathematics with minor in Chemistry at Nova Southeastern University (NSU)
 
 <img src="/img/Tanha.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<a href="https://www.riplrt.com/members/#Tanha%20Rahman" target="_blank">Tanha Rahman, undergradaute student (junior) enrolled in B.S. in Business Management and Biology (pre-med tract) at Nova Southeastern University (NSU)
+<a href="https://www.riplrt.com/members/#Tanha%20Rahman" target="_blank">Tanha Rahman</a>, undergradaute student (junior) enrolled in B.S. in Business Management and Biology (pre-med tract) at Nova Southeastern University (NSU)
 
 Lorraine, mentored by <a href="https://md.rcm.upr.edu/micro/dt_team/dr-benjamin-bolanos/" target="_blank">Dr. Benjamin Bolañsos-Rosero</a> (former PhD thesis mentor of Dr. Rivera-Mariani), is a 3rd-year graduate student looking forward to learning the human-based immunological approaches the team of Dr. Rivera-Mariani implements in environmental health studies. She also seeks training in the experimental design and planning, as well as the project planning and management the RIPLRT implements in studies addressing the respiratory health effects from human exposure to air pollution of different contaminating origins. 
 
