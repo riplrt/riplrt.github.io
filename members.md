@@ -169,7 +169,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <hr>
 
 <br>
-**To contact the RIPL_Effect Research Team**, 
+<b>To contact the RIPL_Effect Research Team</b>, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">
