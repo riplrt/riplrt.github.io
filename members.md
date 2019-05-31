@@ -127,6 +127,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <br>
 
 ---
+
 <br>
 
 <a name="Past members of the RIPL_Effect"></a><i><b>Past members of the RIPLRT</b></i>
@@ -138,6 +139,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <br>
 
 ---
+
 <br>
 
 <a name="Interviews with current and past members of the RIPL_Effect"></a><i><b>Interviews with current and past members of the RIPL_Effect</b></i>
@@ -163,6 +165,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <br>
 
 ---
+
 <br>
 **To contact the RIPL_Effect Research Team**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
