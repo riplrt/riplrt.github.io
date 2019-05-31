@@ -23,11 +23,11 @@ In the RIPL_Effect Research Team--in addition to addressing the respiratory heal
 ---
 # Recent News @RIPLRT!!!
 
-### *New RIPLRT recruited @ a Recent Conference*
+### *Summer interns in the RIPLRT*
 
-Summer Pellechio, recent graduate from the Rochester Institute of Technology (Rochester, NY), was recently recruited after networking with Dr. Rivera-Mariani during the Annual Biomedical Research Conference for Minority Students in Indianapolis, Indiana (November 14-17, 2018). 
+Now that the academic year has ended for many students around the nation, the RIPLRT keeps busy with his research and mentoring missions. This is exemplified with the three interns joining the RIPLRT this summer: Ph.D. candidate from the University of Puerto Rico - Medical Sciences Campus <a href="https://www.riplrt.com/members/#Lorraine%20Torres-V%C3%A9lez" target="_blank">Lorraine Vélez-Torres</a>, and Nova Southeastern University undergraduates <a href="https://www.riplrt.com/members/#Naziba%20Nuha" target="_blank">Naziba Nuha</a> and <a href="https://www.riplrt.com/members/#Tanha%20Rahman" target="_blank">Tanha Rahman</a>.
 
-<b><a href="https://www.riplrt.com/2018-11-30-new-riplrt-from-abrcms/" class="list-filter">Read more here!</a></b>
+<b><a href="https://www.riplrt.com/2019-05-30-interns-joining-the-riplrt/" class="list-filter">Read more here!</a></b>
 
 ### *Recent research grant for the RIPLRT!*
 
