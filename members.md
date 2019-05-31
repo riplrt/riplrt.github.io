@@ -126,7 +126,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
----
+<hr>
 
 <br>
 
@@ -138,11 +138,13 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
----
+<hr>
 
 <br>
 
 <a name="Interviews with current and past members of the RIPL_Effect"></a><i><b>Interviews with current and past members of the RIPL_Effect</b></i>
+
+<br>
 
 <i><b><a name="With Dr. Félix E. Rivera-Mariani"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7H_Q4WBYfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -164,7 +166,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
----
+<hr>
 
 <br>
 **To contact the RIPL_Effect Research Team**, 
