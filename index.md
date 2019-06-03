@@ -7,15 +7,15 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 We are the <b><i>RIPLRT</i></b>, which stands for Respiratory and Immunology Project and Laboratory Research Team, within the 
 <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>.
 
-In the RIPL_Effect Research Team--in addition to addressing the respiratory health of the population through immunological, exposure science, and computational approaches--values inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership.
+In the RIPL_Research Team--in addition to addressing the respiratory health of the population through immunological, exposure science, and computational approaches--values inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership.
 
 <b><a href="mission" class="list-filter">Read more about our mission!</a></b>
 
 ---
-# RIPL_Effect Research Team Members
+# RIPLRT Research Team Members
 
 <a href="https://www.riplrt.com/members/">
-  <img src="/img/RIPL_EffectRT3.png" alt="RIPL_Effect Research Team" class="inline"/>
+  <img src="/img/RIPLRTRT3.png" alt="RIPLRT Research Team" class="inline"/>
 </a>
 
 [**Read more about the Team Members**](https://www.riplrt.com/members)!
@@ -40,20 +40,20 @@ Together with scientists from the University of Texas-Austin, Dr. Rivera-Mariani
 
 Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor future generations of scientists and healthcare workforce.
 
-There is no such thing as a small donation: any small change can have a huge impact! <a href="https://www.gofundme.com/advocate-for-the-ripleffect?sharetype=teams&member=275308&rcid=r01-153687396981-61436b19e158485d&pc=ot_co_campmgmt_w" target="_blank">Click here to make a charitable donation to the RIPL_Effect Research Team</a>.
+There is no such thing as a small donation: any small change can have a huge impact! <a href="https://www.gofundme.com/advocate-for-the-ripleffect?sharetype=teams&member=275308&rcid=r01-153687396981-61436b19e158485d&pc=ot_co_campmgmt_w" target="_blank">Click here to make a charitable donation to the RIPLRT Research Team</a>.
 
 See the list of previous donors [here](https://www.riplrt.com/donors).
 
 
 ---
-**To contact the RIPL_Effect Research Team**, 
+**To contact the RIPLRT Research Team**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">
   <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>
 </a>
 
-<font size="1">&#169; 2019 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
+<font size="1">&#169; 2019 RIPLRT . <i>The content of this website is authored by the RIPLRT, and is revised and edited by the RIPLRT. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
 
 
 

@@ -26,9 +26,9 @@ As described in [our mission](https://www.riplrt.com/mission/), our main scienti
 
 
 ---
-**To contact the RIPL_Effect Research Team**, 
+**To contact the RIPLRT**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 
 
-<font size="1">&#169; 2019 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
+<font size="1">&#169; 2019 RIPLRT. <i>The content of this website is authored by the RIPLRT, and is revised and edited by the RIPLRT. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>

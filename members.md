@@ -4,7 +4,7 @@ title: RIPLRT Team Members
 subtitle: Who are the RIPLRT?
 ---
 
-Find here pictures and bios of current members, [interns](#Interns in the RIPLRT),  and [past members](#Past members of the RIPL_Effect), as well as [interviews](#Interviews with current and past members of the RIPL_Effect) with current and past members of the RIPLRT. 
+Find here pictures and bios of current members, [interns](#Interns in the RIPLRT),  and [past members](#Past members of the RIPLRT), as well as [interviews](#Interviews with current and past members of the RIPLRT) with current and past members of the RIPLRT. 
 
 ***Current members of the RIPLRT***
 
@@ -29,7 +29,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 <div style="text-align:justify"><p>Dr. Rivera-Mariani is also a strong supporter of reproducibility in sciences and thus has gained specializations in Data Science, Genomic Data Sciences, Executive Data Science, Software Development (Johns Hopkins University), Systems Biology (Icahn School of Medicine at Mt. Sinai), and Bioinformatics (University of California at San Diego). Through these specializations, Dr. Rivera-Mariani has developed an extensive expertise as a programmer in the R, Python, and Matlab computer languages.</p></div> 
 
-<div style="text-align:justify"><p>At Larkin University, Dr. Rivera-Mariani seeks to mentor students and young researchers in the different pipelines and epicycles of scientific research, and through the RIPL Effect research team (RIPLRT) by providing further insight into the immunotoxicology of airborne pollutants of different chemical origins. He has published extensively in this line of research (<a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications" target="_blank">click here for additional information</a>).</p></div>
+<div style="text-align:justify"><p>At Larkin University, Dr. Rivera-Mariani seeks to mentor students and young researchers in the different pipelines and epicycles of scientific research, and through the Respiratory and Immunology Project and Laboratory Research Team (RIPLRT) by providing further insight into the immunotoxicology of airborne pollutants of different chemical origins. He has published extensively in this line of research (<a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications" target="_blank">click here for additional information</a>).</p></div>
 
 [Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
 
@@ -39,7 +39,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman (Research Assistant - Intern)</b></i>.Ariel recently graduated from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, Ariel earned a B.S. in Molecular and Cellular Biology from the University of Illinois at Urbana-Champaign. There, she participated in scientific research  studying the sensing in lean and obese individuals through rats. She has an extensive experience in clinical observations from her internships at Carle Foundation Hospital in Urbana, IL. Among her prospective professional plans, she hopes to earn her doctorate degree.</p></div>
 
-<div style="text-align:justify"><p>Ariel's trajectory in the RIPLRT dates back to the very beginnings of the RIPLRT (back then the RIPLRG) just after Dr. Rivera-Mariani joined the Larkin University community. As a graduate student in the College of Biomedical Sciences at Larkin University, she was a co-leader with Josh (refer to Josh's bio) of our research group (now the RIPL_Effect Research Team).</p></div>
+<div style="text-align:justify"><p>Ariel's trajectory in the RIPLRT dates back to the very beginnings of the RIPLRT (back then the RIPLRG) just after Dr. Rivera-Mariani joined the Larkin University community. As a graduate student in the College of Biomedical Sciences at Larkin University, she was a co-leader with Josh (refer to Josh's bio) of our research group (now the Respiratory and Immunology Project and Laboratory Research Team).</p></div>
 
 ---
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> 
@@ -89,7 +89,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 ---
 <img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio (Research Assistant)</b></i>. Summer recently graduated from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. She has clinical experience with patients from working as an EMT in the city of Rochester and for RIT’s collegiate EMS agency, where she’s served as the Training Director. She’s also a certified phlebotomist. Her undergraduate lab work focused on the frequencies of anergic gene polymorphisms associated with innate and adaptive immune responses in sickle cell disease populations. She feels fortunate that her strong work ethic and curiosity have led her to join the RIPL Effect Research Team.</p></div> 
+<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio (Research Assistant)</b></i>. Summer recently graduated from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. She has clinical experience with patients from working as an EMT in the city of Rochester and for RIT’s collegiate EMS agency, where she’s served as the Training Director. She’s also a certified phlebotomist. Her undergraduate lab work focused on the frequencies of anergic gene polymorphisms associated with innate and adaptive immune responses in sickle cell disease populations. She feels fortunate that her strong work ethic and curiosity have led her to join the RIPLRT.</p></div> 
 
 [Click here](#With Summer Pellechio) to view Summer's interview. 
 
@@ -130,11 +130,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
-<a name="Past members of the RIPL_Effect"></a><i><b>Past members of the RIPLRT</b></i>
+<a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
 
 <br>
 
-<img src="/img/PastMembers.jpg" alt="Past members of the RIPL_Effect" class="inline"/>
+<img src="/img/PastMembers.jpg" alt="Past members of the RIPLRT" class="inline"/>
 
 <br>
 
@@ -142,7 +142,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
-<a name="Interviews with current and past members of the RIPL_Effect"></a><i><b>Interviews with current and past members of the RIPL_Effect</b></i>
+<a name="Interviews with current and past members of the RIPLRT"></a><i><b>Interviews with current and past members of the RIPLRT</b></i>
 
 <br>
 
@@ -169,11 +169,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <hr>
 
 <br>
-<b>To contact the RIPL_Effect Research Team</b>, 
+<b>To contact the RIPLRT</b>, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">
   <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>
 </a>
 
-<font size="1">&#169; 2019 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
+<font size="1">&#169; 2019 RIPLRT. <i>The content of this website is authored by the RIPLRT, and is revised and edited by the RIPLRT. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>

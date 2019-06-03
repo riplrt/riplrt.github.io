@@ -10,7 +10,7 @@ As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="
 
 ---
 
-The RIPL_Effect Research Team (RIPLRT) takes pride in act of mentoring, starting from our <a href="https://www.riplrt.com/members/#Dr.%20F%C3%A9lix%20E.%20Rivera-Mariani" target="_blank">Principal Investigator (Dr. Rivera-Mariani)</a>, lab mananger, research assistants,  undergraduate interns, and every member who joins the RIPLRT. <i><b>Everyone in the RIPLRT engages in mentoring</b></i>!
+The Respiratory and Immunology Project and Laboratory Research Team (RIPLRT) takes pride in act of mentoring, starting from our <a href="https://www.riplrt.com/members/#Dr.%20F%C3%A9lix%20E.%20Rivera-Mariani" target="_blank">Principal Investigator (Dr. Rivera-Mariani)</a>, lab mananger, research assistants,  undergraduate interns, and every member who joins the RIPLRT. <i><b>Everyone in the RIPLRT engages in mentoring</b></i>!
 Find below the areas in which the members of the RIPLRT are mentored. 
 
 Among the <b>areas the RIPLRT address</b> in mentoring include, but are not limited to:
@@ -142,11 +142,11 @@ lab_documentation.jpeg
 
 
 ---
-**To contact the RIPL_Effect Research Team**, 
+**To contact the RIPLRT**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">
   <img src="/img/LU-Biomed-Logo-Horizontal-1.png" alt="College of Biomedical Sciences at Larkin University" align="right" style="width: 25%; height: 25%; margin:8px"/>
 </a>
 
-<font size="1">&#169; 2019 RIPL_Effect Research Team. <i>The content of this website is authored by the RIPL_Effect Research Team, and is revised and edited by the RIPL_Effect Research Team. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>
+<font size="1">&#169; 2019 RIPLRT. <i>The content of this website is authored by the RIPLRT, and is revised and edited by the RIPLRTs. The content of this website reflect the views of the authors and is not a publication of Larkin University, which bears no responsibility for the content found in this website</i>.</font>

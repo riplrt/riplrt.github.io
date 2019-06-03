@@ -81,9 +81,9 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Copyrights RIPL_Effect Research Team 
+  name: Copyrights the RIPLRT 
   email: "contactus@riplrt.com"
-  facebook: RIPLEffectRT
+  facebook: RIPLRT
   github: riplrt
   twitter: riplrt
   instagram: ripleffectrt
@@ -95,7 +95,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "contactus@riplrt.com"
-  facebook: RIPLEffectRT
+  facebook: RIPLRT
   github: riplrt
   twitter: riplrt
   instagram: ripleffectrt
@@ -105,6 +105,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
+  
   google: false
   linkedin: true
 
