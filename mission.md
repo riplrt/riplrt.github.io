@@ -6,7 +6,7 @@ subtitle: The RIPLRT's research and educational missions
 
 Our main scientific goal is to provide further insight into the immuno-physiological health effects that airborne pollutants of different chemical origins induce once they cross the human respiratory barrier among susceptible individuals (e.g. people suffering from asthma, respiratory allergies, and other chronic respiratory conditions). We seek to address our scientific questions by integrating human-based immuno-physiological approaches, molecular biology, and computational biology.
  
-The Respiratory and Immunology Project and Laboratory Research Team (RIPLRTs) also serves as a venue for the core of the team, <strong>our researchers (current and former graduate students)</strong>, to carry out high-quality scientific research and exemplify:
+The Respiratory and Immunology Project and Laboratory Research Team (RIPLRT) also serves as a venue for the core of the team, <strong>our researchers (current and former graduate students)</strong>, to carry out high-quality scientific research and exemplify:
 
 
 - **Inclusiveness** (everyone’s voice counts)
