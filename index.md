@@ -1,11 +1,11 @@
 ---
 layout: page
 title: The RIPL Effect Research Team (RIPLRT)
-subtitle: Respiratory and Immunology Project at Larkin University
+subtitle: Respiratory and Immunology Project and Laboratory Research Team
 ---
 
-We are the RIPL_Effect Research Team (*@RIPLRT*), which stands for Respiratory and Immunology Project at Larkin University, within the 
-<a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences</a>.
+We are the RIPL_Effect Research Team (*@RIPLRT*), which stands for Respiratory and Immunology Project and Laboratory Research Team, within the 
+<a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>.
 
 In the RIPL_Effect Research Team--in addition to addressing the respiratory health of the population through immunological, exposure science, and computational approaches--values inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership.
 
