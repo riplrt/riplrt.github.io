@@ -41,6 +41,8 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 <div style="text-align:justify"><p>Ariel's trajectory in the RIPLRT dates back to the very beginnings of the RIPLRT (back then the RIPLRG) just after Dr. Rivera-Mariani joined the Larkin University community. As a graduate student in the College of Biomedical Sciences at Larkin University, she was a co-leader with Josh (refer to Josh's bio) of our research group (now the Respiratory and Immunology Project and Laboratory Research Team).</p></div>
 
+<a href="https://www.riplrt.com/cv/CV_Ariel.pdf" target="_blank">Click here</a> to view Arie's C.V.
+
 ---
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel (Graduatee Research Assistant)</b></i>. Bhavik grew up in Anaheim, California, where he attended University of California, Irvine. After completing his Bachelor’s degree in History and Pre-medicine, he worked at United Healthcare/Optum Rx in the Specialty Pharmacy Department. He has also worked at the Remedy Pharm compounding pharmacy, specializing in hormone replacement therapy. He is currently enrolled in the Masters Program at Larkin School of Biomedical Sciences and has volunteered at various community centers such as UCI Medical Center, Lestonnac Free Clinic and Miami Rescue Missions Clinic. He truly believes in serving the underserved communities and uplifting their lives through various types of aid. His goal is to attend Medical School in the future and wants to provide medical aid in the underserved parts of our nation. Apart from academics, he enjoys running, sports, reading, and playing music.</p></div>
