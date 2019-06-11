@@ -27,22 +27,21 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 Now that the academic year has ended for many students around the nation, the RIPLRT keeps busy with his research and mentoring missions. This is exemplified with the three interns joining the RIPLRT this summer: Ph.D. candidate from the University of Puerto Rico - Medical Sciences Campus <a href="https://www.riplrt.com/members/#Lorraine%20Torres-V%C3%A9lez" target="_blank">Lorraine Vélez-Torres</a>, and Nova Southeastern University undergraduates <a href="https://www.riplrt.com/members/#Naziba%20Nuha" target="_blank">Naziba Nuha</a> and <a href="https://www.riplrt.com/members/#Tanha%20Rahman" target="_blank">Tanha Rahman</a>.
 
-.png
 <a href="https://www.riplrt.com/2019-05-30-interns-joining-the-riplrt/">
   <img src="/img/interns.png" alt="Summer Interns" class="inline"/>
 </a>
 
-<br>
 
 <b><a href="https://www.riplrt.com/2019-05-30-interns-joining-the-riplrt/" class="list-filter">Read more here!</a></b>
 
+---
 ### *Recent research grant for the RIPLRT!*
 
 Together with scientists from the University of Texas-Austin, Dr. Rivera-Mariani and the RIPLRT will be collaborating in a project recently funded by the US Housing and Urban Development (under the Lead and Healthy Homes Technical Studies Grant Program) to identify relationships between biological and non-biological indoor contaminants and children's respiratory health. 
 
 <b><a href="https://www.riplrt.com/2018-11-29-hud-grant-indoor-pollution/" class="list-filter">Read more here!</a></b>
 
-
+---
 ### *Our Funding Campaign!*
 
 Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor future generations of scientists and healthcare workforce.
