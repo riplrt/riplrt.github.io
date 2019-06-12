@@ -12,7 +12,7 @@ Access here our post, news, and updates we share with the Facebook community. In
 - Health information
 - Reflections: **don't miss our Friday's Reflections!**
 
-<div class="fb-page" data-href="https://www.facebook.com/RIPLRT/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RIPLRT/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RIPLRT/">RIPLRT: Respiratory and Immunology Project and Laboratory Research Team</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/RIPLRT/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RIPLRT/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RIPLRT/">RIPLRT: Respiratory and Immunology Project and Laboratory</a></blockquote></div>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
