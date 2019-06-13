@@ -114,6 +114,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients. In the Winter semester Naziba also held a role as Supplemental Instruction Leader at NSU through which she facilitated collaborative learning sessions in support of student academic courses in courses such as Biology and Organic Chemistry. She is also a Physician Assistant Scribe. Interestingly, it was in this role as a scribe that she learned about the RIPLRT after approaching <a href="https://www.riplrt.com/members/#Hayat%20Srour">Hayat</a> (our lab mananger, who is also a Scribe).</p></div> 
 
+[Click here](#With Naziba Nuha) to view Naziba's interview.
+
 <div style="text-align:justify"><p>At NSU, Naziba has earned numerous awards comprising of the NSU Dean’s List Distinction for both Winter 2018 and Fall 2018 which subsequently led her to be inducted into the Tribeta National Biological honors Society. She has also been highly involved in campus activities serving her role as the President of NSU Book Club WYRD, Treasurer of Tribeta Biological Honors Society, Secretary of Society of Mentors and Underclassmen Senator for NSU Undergraduate Student Government Association. Outside academics, Naziba enjoys singing, dancing, exploring and learning different languages. <a href="https://www.riplrt.com/cv/CV_Naziba.pdf" target="_blank">Click here</a> to learn more about Naziba's credentials.</p></div>
 
 <div style="text-align:justify"><p>Through the RIPLRT research team, Naziba looks forward to immersing into the different epicycles of science and exploring healthcare through the scientific lens. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement in order to promote respiratory health among minority groups and sections of society with high prevalence of respiratory conditions. She also looks forward to being mentored on the different laboratory techniques we employ as well as being guided in the different areas we <a href="https://www.riplrt.com/mentoring/" target="_blank">mentor</a>.</p></div>
@@ -167,6 +169,9 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <i><b><a name="With Bhavik Patel"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1mK_1wRr39A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i><b><a name="With Naziba Nuha"></a></b></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OA2bJ_FN54Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
