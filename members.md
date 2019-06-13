@@ -110,6 +110,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a href="https://www.riplrt.com/cv/CV_Lorraine_Redacted.pdf" target="_blank">Click here</a> to view Lorraine's C.V.
 
+[Click here](#With Lorraine Vélez-Torres) to view Naziba's interview.
+
 ---
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients. In the Winter semester Naziba also held a role as Supplemental Instruction Leader at NSU through which she facilitated collaborative learning sessions in support of student academic courses in courses such as Biology and Organic Chemistry. She is also a Physician Assistant Scribe. Interestingly, it was in this role as a scribe that she learned about the RIPLRT after approaching <a href="https://www.riplrt.com/members/#Hayat%20Srour">Hayat</a> (our lab mananger, who is also a Scribe).</p></div> 
@@ -172,6 +174,9 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <i><b><a name="With Bhavik Patel"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1mK_1wRr39A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i><b><a name="With Lorraine Vélez-Torres"></a></b></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4EWnhrc4UCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <i><b><a name="With Naziba Nuha"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OA2bJ_FN54Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
