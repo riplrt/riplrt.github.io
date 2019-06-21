@@ -6,7 +6,7 @@ subtitle: How to identify and make the best out of research opportunities as sum
 
 *Co-authored by summer interns Naziba Nuha and Tanha Rahman*
 
-In this Q&A-type blog, summer interns <a href="https://www.riplrt.com/members/#Naziba%20Nuha" target="_blank"> Naziba Nuha</a> and <a href="https://www.riplrt.com/members/#Tanha%20Rahman" target="_blank">Tanha Rahman</a> share their thoughts about being summer interns in a research lab, how to identify such opportunities, and the midset to employ in summer research opportunities. 
+In this Q&A-type blog, summer interns <a href="https://www.riplrt.com/members/#Naziba%20Nuha" target="_blank"> Naziba Nuha</a> and <a href="https://www.riplrt.com/members/#Tanha%20Rahman" target="_blank">Tanha Rahman</a> share their thoughts about being summer interns in a research lab, how to identify such opportunities, and the mindset to employ during summer research interships. 
 
 <b><i>How can I find research experience?</i></b>
  
