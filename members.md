@@ -134,6 +134,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <i><b>Other Past Members of the RIPLRT</b></i>
 
+<img src="/img/PastMembers.jpg" alt="Other Past Members of the RIPLRT" class="inline"/>
+
 <br>
 
 <hr>
