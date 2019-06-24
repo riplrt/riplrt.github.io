@@ -4,7 +4,7 @@ title: RIPLRT Team Members
 subtitle: Who are the RIPLRT?
 ---
 
-Find here pictures and bios of current members, [interns](#Interns in the RIPLRT),  and [past members](#Past members of the RIPLRT), as well as [interviews](#Interviews with current and past members of the RIPLRT) with current and past members of the RIPLRT. 
+Find here pictures and bios of current members, [interns](#Interns in the RIPLRT),  and [past members](#Past members of the RIPLRT), as well as [interviews](#Interviews with current of the RIPLRT) with current and past members of the RIPLRT. 
 
 ---
 ***Current members of the RIPLRT***
@@ -140,7 +140,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
-<a name="Interviews with current and past members of the RIPLRT"></a><i><b>Interviews with current and past members of the RIPLRT</b></i>
+<a name="Interviews with current of the RIPLRT"></a><i><b>Interviews with current of the RIPLRT</b></i>
 
 <br>
 
