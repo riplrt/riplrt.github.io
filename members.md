@@ -25,7 +25,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 
 ---
-<a name="Current members of the RIPLRT"></a><i><b>Current members of the RIPLRt</b></i>
+<a name="Current members of the RIPLRT"></a><i><b>Current members of the RIPLRT</b></i>
 
 <img src="/img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Dr. Félix E. Rivera-Mariani"></a><i><b>Dr. Félix E. Rivera-Mariani(Principal Investigator).</b></i>. Dr. Rivera-Mariani, Assistant Professor and Academic Coordinator in the <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>, is an expert immunologist, microbiologist, aerobiologist, and computational biologist. Dr. Rivera-Mariani, in addition to carrying out scientific research, teaches biochemistry, immunology, and molecular genetics. Among the academic credentials of Dr. Rivera-Mariani include a B.S. in Biology with a minor in Chemistry (Southeastern Louisiana University under an athletic scholarship), Ph.D. in Microbiology and Medical Zoology (School of Medicine of the University of Puerto Rico - Medical Sciences Campus), post-doctoral fellowship in Environmental Health Sciences (the Bloomberg School of Public Health of the Johns Hopkins University), and Science Teaching Fellowship (American Society for Microbiology).</p></div>
