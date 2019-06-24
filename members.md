@@ -76,7 +76,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 <a href="https://www.riplrt.com/cv/Summer_CV_05042019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
 
 ---
-<a name="Interns in the RIPLRT">***Interns in the RIPLRT***
+<a name="Interns in the RIPLRT"></a><i><b>Interns in the RIPLRT</b></i>
 
 
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
