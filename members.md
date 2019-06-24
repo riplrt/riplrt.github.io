@@ -18,7 +18,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 ***[Past members of the RIPLRT](#Past members of the RIPLRT)***
 
 ---
-***Interns***
+***[Interns](Interns in the RIPLRT)***
 
 - [Naziba Nuha](#Naziba Nuha)
 - [Tanha Rahman](#Tanha Rahman)
