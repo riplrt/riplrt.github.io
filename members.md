@@ -103,11 +103,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 <hr>
 
-<br>
-
 <a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
-
-<br>
 
 <img src="/img/Lorraine.jpeg" alt="Lorraine Torres-Vélez" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
@@ -115,7 +111,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
 
-<div style="text-align:justify"><p>In the RIPLRT, Lorraine looks forward to train on the different human-based immunological approaches we implement in environmental health studies. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learn with the RIPLRT.</p></div> 
+<div style="text-align:justify"><p> Because Dr. Rivera-Mariani is a member of the thesis committee of Lorraine, she was invited for and completed a one-week training with the RIPLRT to learn the different human-based immunological approaches we implement in environmental health studies. Also, she trained on the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learned with the RIPLRT.</p></div> 
 
 <a href="https://www.riplrt.com/cv/CV_Lorraine_Redacted.pdf" target="_blank">Click here</a> to view Lorraine's C.V.
 
@@ -151,14 +147,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <i><b><a name="With Dr. Félix E. Rivera-Mariani"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T7H_Q4WBYfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<i><b><a name="With Angel and Josh Baguley"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IUdQuzNDHQM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 <i><b><a name="With Ruslan Fomenko and Hayat Srour"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zty6LdeTwbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<i><b><a name="With Shandra Bellinger"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72P1H5ioGrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <i><b><a name="With Summer Pellechio"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4V-L2QB6ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
