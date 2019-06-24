@@ -6,23 +6,26 @@ subtitle: Who are the RIPLRT?
 
 Find here pictures and bios of current members, [interns](#Interns in the RIPLRT),  and [past members](#Past members of the RIPLRT), as well as [interviews](#Interviews with current and past members of the RIPLRT) with current and past members of the RIPLRT. 
 
+---
 ***Current members of the RIPLRT***
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 - [Ariel Stateman](#Ariel Stateman)
 - [Bhavikkumar Patel](#Bhavikkumar Patel)
 - [Hayat Srour](#Hayat Srour)
-- [Joshua Baguley](#Joshua Baguley)
 - [Ruslan Fomenko](#Ruslan Fomenko)
-- [Shandra Bellinger](#Shandra Bellinger)
 - [Summer Pellechio](#Summer Pellechio)
 
+---
 ***Interns***
 
 - [Lorraine Torres-Vélez](#Lorraine Torres-Vélez)
 - [Naziba Nuha](#Naziba Nuha)
 - [Tanha Rahman](#Tanha Rahman)
 
+---
+
+- [Past Members of the RIPLRT](Past Members of the RIPLRT)
 
 <img src="/img/RiveraMariani-Photo.JPG" alt="Dr. Rivera-Mariani" align="right" style="width: 30%; height: 30%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Dr. Félix E. Rivera-Mariani"></a><i><b>Dr. Félix E. Rivera-Mariani(Principal Investigator).</b></i>. Dr. Rivera-Mariani, Assistant Professor and Academic Coordinator in the <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>, is an expert immunologist, microbiologist, aerobiologist, and computational biologist. Dr. Rivera-Mariani, in addition to carrying out scientific research, teaches biochemistry, immunology, and molecular genetics. Among the academic credentials of Dr. Rivera-Mariani include a B.S. in Biology with a minor in Chemistry (Southeastern Louisiana University under an athletic scholarship), Ph.D. in Microbiology and Medical Zoology (School of Medicine of the University of Puerto Rico - Medical Sciences Campus), post-doctoral fellowship in Environmental Health Sciences (the Bloomberg School of Public Health of the Johns Hopkins University), and Science Teaching Fellowship (American Society for Microbiology).</p></div>
@@ -34,14 +37,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 [Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
 
 <a href="https://www.riplrt.com/cv/CV_FE_RiveraMariani.pdf" target="_blank">Click here</a> to view Dr. Rivera-Mariani's C.V.
-
----
-<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman (Research Assistant - Intern)</b></i>.Ariel recently graduated from the M.S. in Biomedical Sciences program at Larkin University. Before joining Larkin, Ariel earned a B.S. in Molecular and Cellular Biology from the University of Illinois at Urbana-Champaign. There, she participated in scientific research  studying the sensing in lean and obese individuals through rats. She has an extensive experience in clinical observations from her internships at Carle Foundation Hospital in Urbana, IL. Among her prospective professional plans, she hopes to earn her doctorate degree.</p></div>
-
-<div style="text-align:justify"><p>Ariel's trajectory in the RIPLRT dates back to the very beginnings of the RIPLRT (back then the RIPLRG) just after Dr. Rivera-Mariani joined the Larkin University community. As a graduate student in the College of Biomedical Sciences at Larkin University, she was a co-leader with Josh (refer to Josh's bio) of our research group (now the Respiratory and Immunology Project and Laboratory Research Team).</p></div>
-
-<a href="https://www.riplrt.com/cv/CV_Ariel.pdf" target="_blank">Click here</a> to view Arie's C.V.
 
 ---
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> 
@@ -62,14 +57,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 <a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf" target="_blank">Click here</a> to view Hayat's C.V.
 
 ---
-<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley (Research Assistant - Intern)</b></i>.  Josh grew up in Indonesia and then moved to Waco, Texas where he attended Baylor University to complete a B.S. in Biochemistry. He spent the majority of his time at Baylor working as an undergraduate researcher, specializing in DNA manipulation and protein purification. His work in the lab mainly focused on the functions and effects of replication factors MCM8, MCM9, Dpo1, and Dpo4 on the DNA replisome. Joshua was also a member of the Baylor Volleyball club team. He is now a recent graduate of the M.S. in Biomedical Sciences program at Larkin University.</p></div>
-
-<div style="text-align:justify"><p>Josh, as mentioned in Ariel's bio, was the other co-leader of the group. His leadership was evident from the beginning (even before launching the research group), as well as when addressing different challenging situations within the group. We are proud of Josh new position (well, not so new anymore) in the Genomics Department at MD Anderson Cancer Center, in Houston Texas. Nevertheless, his scientific heart is still linked to the RIPLRT.</p></div>
-
-[Click here](#With Angel and Josh Baguley) to view Josh's interview. 
-
----
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants.</p></div>  
 
@@ -79,15 +66,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 <a href="https://www.riplrt.com/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
 
----
-<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger (Research Assistant - Intern)</b></i>. Shandra, originally from Maryland, received her B.S. in Biology from Frostburg State University. During her undergraduate studies, she held multiple positions on various leadership boards and made the Dean's list numerous times. She has spent a considerable amount of time working in clinical environments, such as the Emergency Department and volunteering at the University of Maryland Medical Center, Shock Trauma. Though she enjoys the clinical environment, she is excited to venture into scientific research because of her curiosity about how the human body works and is affected. She recently graduated from the M.S. in Biomedical Science program at Larkin University and plans to continue working and volunteering in the healthcare field to help uplift the community and make changes where and when it’s possible. Her goal is to attend Medical School in the future.</p></div>  
-
-<div style="text-align:justify"><p>Shandra's attention to detail is one of her many contributions to the RIPLRT. For this reason, when we were the RIPLRG, Shandra was assigned the task of being the Lead Editor. This role included revising reports, our websites, among other publications from our research group. Not least important are her leadership and maturity, which  served as examples to many students at Larkin University.</p></div>  
-
-[Click here](#With Shandra Bellinger) to view Shandra's interview.
-
-<a href="https://www.riplrt.com/cv/Shandra_CV_2019.pdf" target="_blank">Click here</a> to view Shandra's C.V.
 
 ---
 <img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> 
@@ -145,7 +123,16 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
-<img src="/img/PastMembers.jpg" alt="Past members of the RIPLRT" class="inline"/>
+<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduate from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Prospective med-school student.</p></div>
+
+<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley: </b></i> graduent from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-intern (2018 - 2019) of the RIPLRT. Currently working as a Research Assistant in the Department of Genomcis at MD Anderson Center (Houston, TX). Prospective med-school student.</p></div>
+
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Enrolled as a med student at St. Georges University.</p></div>  
+
+<i><b>Other Past Members of the RIPLRT</b></i>
 
 <br>
 
