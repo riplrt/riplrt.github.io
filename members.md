@@ -10,7 +10,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 ***Current members of the RIPLRT***
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
-- [Ariel Stateman](#Ariel Stateman)
 - [Bhavikkumar Patel](#Bhavikkumar Patel)
 - [Hayat Srour](#Hayat Srour)
 - [Ruslan Fomenko](#Ruslan Fomenko)
@@ -19,7 +18,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 ---
 ***Interns***
 
-- [Lorraine Torres-Vélez](#Lorraine Torres-Vélez)
 - [Naziba Nuha](#Naziba Nuha)
 - [Tanha Rahman](#Tanha Rahman)
 
@@ -78,19 +76,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 ---
 <a name="Interns in the RIPLRT">***Interns in the RIPLRT***
 
-<img src="/img/Lorraine.jpeg" alt="Lorraine Torres-Vélez" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
-Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and Medical Zoology at the University of Puerto Rico, Medical Sciences Campus. She earned her master’s degree in Public Health with concentration in Epidemiology in 2015, identifying the risk factors affecting the quality of life of residents in Yabucoa, Puerto Rico. In 2014 she received a double major in Industrial Microbiology and Biology at the University of Puerto Rico, Mayagüez Campus. During her undergraduate education, she worked in the Symbiosis Laboratory of Dr. Cafaro investigating the antifungal capacity of Actinobacteria associated to the exoskeleton of the termite Nasutitermes costalis. She’s currently working in her research thesis at the Mycology Laboratory of Dr. Bolaños, studying the effect of Hurricane María in the indoor concentration of fungi and the health outcomes of the habitants.</p></div>
 
-<div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
-
-<div style="text-align:justify"><p>In the RIPLRT, Lorraine looks forward to train on the different human-based immunological approaches we implement in environmental health studies. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learn with the RIPLRT.</p></div> 
-
-<a href="https://www.riplrt.com/cv/CV_Lorraine_Redacted.pdf" target="_blank">Click here</a> to view Lorraine's C.V.
-
-[Click here](#With Lorraine Vélez-Torres) to view Naziba's interview.
-
----
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients. In the Winter semester Naziba also held a role as Supplemental Instruction Leader at NSU through which she facilitated collaborative learning sessions in support of student academic courses in courses such as Biology and Organic Chemistry. She is also a Physician Assistant Scribe. Interestingly, it was in this role as a scribe that she learned about the RIPLRT after approaching <a href="https://www.riplrt.com/members/#Hayat%20Srour">Hayat</a> (our lab mananger, who is also a Scribe).</p></div> 
 
@@ -123,12 +109,28 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <br>
 
+<img src="/img/Lorraine.jpeg" alt="Lorraine Torres-Vélez" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
+Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and Medical Zoology at the University of Puerto Rico, Medical Sciences Campus. She earned her master’s degree in Public Health with concentration in Epidemiology in 2015, identifying the risk factors affecting the quality of life of residents in Yabucoa, Puerto Rico. In 2014 she received a double major in Industrial Microbiology and Biology at the University of Puerto Rico, Mayagüez Campus. During her undergraduate education, she worked in the Symbiosis Laboratory of Dr. Cafaro investigating the antifungal capacity of Actinobacteria associated to the exoskeleton of the termite Nasutitermes costalis. She’s currently working in her research thesis at the Mycology Laboratory of Dr. Bolaños, studying the effect of Hurricane María in the indoor concentration of fungi and the health outcomes of the habitants.</p></div>
+
+<div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
+
+<div style="text-align:justify"><p>In the RIPLRT, Lorraine looks forward to train on the different human-based immunological approaches we implement in environmental health studies. Also, she looks forward to learning the experimental planning and design, project management and execution, as well as data management and analysis we implement when deploying human-based immunological approaches to study the respiratory health risks resulting from human exposures to air pollution. Lorraine will be implementing in her thesis studies the skill sets she will learn with the RIPLRT.</p></div> 
+
+<a href="https://www.riplrt.com/cv/CV_Lorraine_Redacted.pdf" target="_blank">Click here</a> to view Lorraine's C.V.
+
+[Click here](#With Lorraine Vélez-Torres) to view Naziba's interview.
+
+---
+
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduate from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Prospective med-school student.</p></div>
 
+---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley: </b></i> graduent from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-intern (2018 - 2019) of the RIPLRT. Currently working as a Research Assistant in the Department of Genomcis at MD Anderson Center (Houston, TX). Prospective med-school student.</p></div>
 
+---
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Enrolled as a med student at St. Georges University.</p></div>  
 
