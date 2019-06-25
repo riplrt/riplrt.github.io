@@ -23,16 +23,17 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 ---
 # Recent News @RIPLRT!!!
 
-### *Summer interns in the RIPLRT*
+### *A Puerto Rican joins the RIPLRT*
 
-Now that the academic year has ended for many students around the nation, the RIPLRT keeps busy with his research and mentoring missions. This is exemplified with the three interns joining the RIPLRT this summer: Ph.D. candidate from the University of Puerto Rico - Medical Sciences Campus <a href="https://www.riplrt.com/members/#Lorraine%20Torres-V%C3%A9lez" target="_blank">Lorraine Vélez-Torres</a>, and Nova Southeastern University undergraduates <a href="https://www.riplrt.com/members/#Naziba%20Nuha" target="_blank">Naziba Nuha</a> and <a href="https://www.riplrt.com/members/#Tanha%20Rahman" target="_blank">Tanha Rahman</a>.
+Sukeina Nasser, 2nd year pharmacy students at Larkin University, joins the Respiratory and Immunology Project and Laboratory. Sukie, as we call her, similar to Dr. Felix E. Rivera Mariani, has Puerto Rican heritage -- her mom is from San Juan, Puerto Rico. Although Sukie's mom moved to the US to study University of Michigan (English and Biochemistry), all her mom family still live in Puerto Rico. Also, her family in Puerto Rico experienced 1st hand the effects of Hurricane Maria. Therefore, Sukie greatly values the environmental health work the RIPLRT is doing with the Universities of Puerto Rico and Texas. 
 
-<a href="https://www.riplrt.com/2019-05-30-interns-joining-the-riplrt/">
-  <img src="/img/interns.png" alt="Summer Interns" class="inline"/>
+
+<a href="https://www.riplrt.com/2019-06-24-puertorican-in-riplrt/">
+  <img src="/img/Sukeina.png" alt="RIPLRT Research Team" class="inline"/>
 </a>
 
 
-<b><a href="https://www.riplrt.com/2019-05-30-interns-joining-the-riplrt/" class="list-filter">Read more here!</a></b>
+<b><a href="https://www.riplrt.com/2019-06-24-puertorican-in-riplrt/" class="list-filter">Read more here!</a></b>
 
 ---
 ### *Recent research grant for the RIPLRT!*
