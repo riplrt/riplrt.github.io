@@ -12,7 +12,7 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 <b><a href="mission" class="list-filter">Read more about our mission!</a></b>
 
 ---
-# RIPLRT Research Team Members
+# RIPLRT Members
 
 <a href="https://www.riplrt.com/members/">
   <img src="/img/RIPL_EffectRT4.png" alt="RIPLRT Research Team" class="inline"/>
