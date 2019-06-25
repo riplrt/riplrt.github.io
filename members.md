@@ -13,6 +13,7 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 - [Bhavikkumar Patel](#Bhavikkumar Patel)
 - [Hayat Srour](#Hayat Srour)
 - [Ruslan Fomenko](#Ruslan Fomenko)
+- [Sukeina Nasser](#Sukeina Nasser)
 - [Summer Pellechio](#Summer Pellechio)
 
 ***[Past members of the RIPLRT](#Past members of the RIPLRT)***
@@ -66,6 +67,11 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 <a href="https://www.riplrt.com/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
 
+---
+<img src="/img/Sukeina.jpg" alt="Sukeina Nasser" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Sukeina (we know her as Sukie) is from Detroit, MI and is a 2nd year student at Larkin University College of Pharmacy. Her interest in drug research development, specifically in ways to create less addictive and more effective medications, is what lead her to pursue a career in pharmacy. Although her passion remains in pharmacy, she is also dedicated to the opportunity to work with the RIPL research team. Having family who live in Puerto Rico, and we’re affected first hand by the destruction of Hurricane Maria, she has sincere interest in the work that RIPL conducts regarding respiratory immunology issues that are being felt by so many individuals from the aftermath of Maria. Sukeina hopes to gain knowledge and experience from a Biomedical standpoint, while also hoping to offer some insight from a pharmacy background. She is excited to learn and grow alongside the RIPL team. </p></div> 
+
+<a href="https://www.riplrt.com/cv/Sukeina_CV.pdf" target="_blank">Click here</a> to view Sukeina's C.V.
 
 ---
 <img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> 
