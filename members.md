@@ -71,6 +71,8 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 <img src="/img/Sukeina.png" alt="Sukeina Nasser" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Sukeina Nasser"></a><i><b>Sukeina Nasser (we know her as Sukie)</b></i> is from Detroit, MI and is a 2nd year student at Larkin University College of Pharmacy. Her interest in drug research development, specifically in ways to create less addictive and more effective medications, is what lead her to pursue a career in pharmacy. Although her passion remains in pharmacy, she is also dedicated to the opportunity to work with the RIPL research team. Having family who live in Puerto Rico, and we’re affected first hand by the destruction of Hurricane Maria, she has sincere interest in the work that RIPL conducts regarding respiratory immunology issues that are being felt by so many individuals from the aftermath of Maria. Sukeina hopes to gain knowledge and experience from a Biomedical standpoint, while also hoping to offer some insight from a pharmacy background. She is excited to learn and grow alongside the RIPL team. </p></div> 
 
+[Click here](#With Sukeina Nasser) to view Sukie's interview. 
+
 <a href="https://www.riplrt.com/cv/Sukeina_CV.pdf" target="_blank">Click here</a> to view Sukeina's C.V.
 
 ---
@@ -169,6 +171,9 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <i><b><a name="With Naziba Nuha"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OA2bJ_FN54Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i><b><a name="With Sukeina Nasser"></a></b></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M-Wa6AblfWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <i><b><a name="With Tanha Rahman"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m_PqOLcG7IA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
