@@ -6,7 +6,7 @@ subtitle: Follow our posts in Social Media
 
 # In Facebook
 
-<div class="fb-page" data-href="https://www.facebook.com/RIPLRT/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RIPLRT/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RIPLRT/">Respiratory and Immunology Project and Laboratory</a></blockquote></div>
+<div class="fb-page" data-href="https://www.facebook.com/RIPLRT/" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/RIPLRT/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RIPLRT/">Respiratory and Immunology Project and Laboratory Researth Team</a></blockquote></div>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
