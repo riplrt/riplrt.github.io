@@ -115,8 +115,8 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 <a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
 
-<img src="/img/Lorraine.jpeg" alt="Lorraine Torres-Vélez" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Lorraine Torres-Vélez"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
+<img src="/img/Lorraine.jpeg" alt="Lorraine Vélez-Torres" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Lorraine Vélez-Torres"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
 Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and Medical Zoology at the University of Puerto Rico, Medical Sciences Campus. She earned her master’s degree in Public Health with concentration in Epidemiology in 2015, identifying the risk factors affecting the quality of life of residents in Yabucoa, Puerto Rico. In 2014 she received a double major in Industrial Microbiology and Biology at the University of Puerto Rico, Mayagüez Campus. During her undergraduate education, she worked in the Symbiosis Laboratory of Dr. Cafaro investigating the antifungal capacity of Actinobacteria associated to the exoskeleton of the termite Nasutitermes costalis. She’s currently working in her research thesis at the Mycology Laboratory of Dr. Bolaños, studying the effect of Hurricane María in the indoor concentration of fungi and the health outcomes of the habitants.</p></div>
 
 <div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
