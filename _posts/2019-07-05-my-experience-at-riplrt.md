@@ -14,10 +14,10 @@ How has the experience and the skills learned during the week with Dr. Rivera-Ma
 <img src="/img/Lorraine.jpeg" alt="Lorraine N. Vélez-Torres" align="left" style="width: 15%; height: 15%; margin:8px">
 The experience and skills learned during the week I worked at RIPLRT was highly enriching. I was very surprised of the great number of things I learned during this week. I had the opportunity to see and worked in every aspect of research at RIPLRT, from project planning to data analysis. I really liked that Dr. Rivera-Mariani was very attentive and he make sure I understand every step of the new techniques I learned. Something that impacted my scientific mind is that Dr. Rivera-Mariani and his lab team are extremely aware of the importance of scientific communication and visibility in social media settings. They make this possible through their lab webpage, Facebook page, Instagram page and LinkedIn. For me, this is very important because by showing what we scientists do to the community we can empower them.  
 
-<img src="/img/Lorraine.jpeg" alt="RIPLRT" align="left" style="width: 15%; height: 15%; margin:8px">
+<img src="/img/RIPL_EffectRT2.png" alt="RIPLRT" align="left" style="width: 15%; height: 15%; margin:8px">
 Will you implement these techniques in your future work, and if so how?
 
-<img src="/img/RIPL_EffectRT2.png" alt="Lorraine N. Vélez-Torres" align="left" style="width: 15%; height: 15%; margin:8px">
+<img src="/img/Lorraine.jpeg" alt="Lorraine N. Vélez-Torres" align="left" style="width: 15%; height: 15%; margin:8px">
 I will definitely apply the techniques learned during my short visit at the lab in my future work and life as a scientist. First, I will be using the in-vitro technique called human whole blood Monocyte Activation Test in my research thesis. I planned to use it to measure the immune response that results after exposure of fungal spores. Also, I learned lots of skills about project planning and management that I’m already using in my career as a scientist. These skills include calculations of materials, working hours, budget and possible troubleshooting plans. Something that I learned and liked greatly was that RIPLRT is environment conscious since is a paperless lab. Dr. Rivera-Mariani showed me how to use different apps and programs used in his lab to have everything electronically documented and not rely in paper. This is something I hope to apply in the lab I work back in Puerto Rico. 
 
 <img src="/img/RIPL_EffectRT2.png" alt="RIPLRT" align="left" style="width: 15%; height: 15%; margin:8px">
@@ -38,6 +38,7 @@ How likely are you to participate in a similar experience in the future?
 <img src="/img/Lorraine.jpeg" alt="Lorraine N. Vélez-Torres" align="left" style="width: 15%; height: 15%; margin:8px">
 I would love to participate in a similar experience in the future. This is something I recommend doing even at an undergrad level. It’s a very fulfilling experience, you gain knowledge about lab techniques and research panning but also get to know a new place, another university and people that share the same love for research as you do. I didn’t have an opportunity like this as an undergraduate student and I’m really grateful for Dr. Rivera-Mariani’s invitation and for all the help that he and his research team provided. I hope that we keep collaborating in the future! 
 
+---
 Who is Lorraine Vélez-Torres?
 
 <img src="/img/Lorraine.jpeg" alt="Lorraine N. Vélez-Torres" align="left" style="width: 15%; height: 15%; margin:8px">
