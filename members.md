@@ -10,7 +10,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
-- [Bhavikkumar Patel](#Bhavikkumar Patel)
 - [Hayat Srour](#Hayat Srour)
 - [Ruslan Fomenko](#Ruslan Fomenko)
 - [Sukeina Nasser](#Sukeina Nasser)
@@ -38,14 +37,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 [Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
 
 <a href="https://www.riplrt.com/cv/CV_FE_RiveraMariani.pdf" target="_blank">Click here</a> to view Dr. Rivera-Mariani's C.V.
-
----
-<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel (Graduatee Research Assistant)</b></i>. Bhavik grew up in Anaheim, California, where he attended University of California, Irvine. After completing his Bachelor’s degree in History and Pre-medicine, he worked at United Healthcare/Optum Rx in the Specialty Pharmacy Department. He has also worked at the Remedy Pharm compounding pharmacy, specializing in hormone replacement therapy. He is currently enrolled in the Masters Program at Larkin School of Biomedical Sciences and has volunteered at various community centers such as UCI Medical Center, Lestonnac Free Clinic and Miami Rescue Missions Clinic. He truly believes in serving the underserved communities and uplifting their lives through various types of aid. His goal is to attend Medical School in the future and wants to provide medical aid in the underserved parts of our nation. Apart from academics, he enjoys running, sports, reading, and playing music.</p></div>
-
-[Click here](#With Bhavik Patel) to view Bhaviks's interview. 
-
-<a href="https://www.riplrt.com/cv/Bhavik_CV.pdf" target="_blank">Click here</a> to view Bhavik's C.V.
 
 ---
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px">
@@ -130,7 +121,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduate from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Prospective med-school student.</p></div>
+<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Prospective med-school student.</p></div>
+
+---
+<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019).</p></div>
 
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> 
