@@ -125,10 +125,10 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 ---
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019).</p></div>
+<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
 
 ---
-<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 25%; height: 25%; margin:8px"> 
+<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 20%; height: 20%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley: </b></i> graduent from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-intern (2018 - 2019) of the RIPLRT. Currently working as a Research Assistant in the Department of Genomcis at MD Anderson Center (Houston, TX). Prospective med-school student.</p></div>
 
 ---
