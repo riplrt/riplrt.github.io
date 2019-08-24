@@ -124,7 +124,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Prospective med-school student.</p></div>
 
 ---
-<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 18%; height: 18%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
 
 ---
