@@ -11,6 +11,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 - [Hayat Srour](#Hayat Srour)
+- [Joshua Baguley](#Joshua Baguley)
 - [Ruslan Fomenko](#Ruslan Fomenko)
 - [Sukeina Nasser](#Sukeina Nasser)
 - [Summer Pellechio](#Summer Pellechio)
