@@ -106,11 +106,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 ---
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients.</p></div>
+<div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients.</p></div>
 
 ---
 <img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern).</b></i> Similar to Naziba, Tanha is also an undergraduate (third-year) student at Nova Southeastern University. She is pursuing her Bachelor of Science in Business Management and Biology (pre-medicine track) with a minor in International Studies.</p></div>
+<div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern - 2019).</b></i> Similar to Naziba, Tanha is also an undergraduate (third-year) student at Nova Southeastern University. She is pursuing her Bachelor of Science in Business Management and Biology (pre-medicine track) with a minor in International Studies.</p></div>
 
 
 <i><b>Other Past Members of the RIPLRT</b></i>
