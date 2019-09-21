@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Peer-Reviewed Publications
+title: Publications
 subtitle: Find here peer-reviewed articles and abstracts by RIPLRT
 ---
 
