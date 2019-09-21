@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Our Mission
-subtitle: The RIPLRT's research and educational missions
+title: Our Vision and Mission
+subtitle: RIPLRT's vision and mission in science and with our members
 ---
 
-Our main scientific goal is to provide further insight into the immuno-physiological health effects that airborne pollutants of different chemical origins induce once they cross the human respiratory barrier among susceptible individuals (e.g. people suffering from asthma, respiratory allergies, and other chronic respiratory conditions). We seek to address our scientific questions by integrating human-based immuno-physiological approaches, molecular biology, and computational biology.
+# Our Vision
+To provide further insight into the immuno-physiological health effects that airborne pollutants of different chemical origins induce once they cross the human respiratory barrier among susceptible individuals such as people suffering from asthma, respiratory allergies, and other chronic respiratory conditions). We also seek to foster an environment that leads to enrichment in the professional, personal, and academic aspects of the RIPLRT members and interns. 
+
+# Our Mission
+We seek to address our scientific questions by integrating human-based immuno-physiological approaches, molecular biology, and computational biology. Also, we will identify opportunities to collaborate, employ and enhance our expertise in respiratory health, immunology, and data analytics.  Lastly, implementing our Core Values, for example inclusiveness, inclusiveness, diversity, and integrity will be essential in following upon our Vision and Mission.
  
-The Respiratory and Immunology Project and Laboratory Research Team (RIPLRT) also serves as a venue for the core of the team, <strong>our researchers (current and former graduate students)</strong>, to carry out high-quality scientific research and exemplify:
+The Respiratory and Immunology Project and Laboratory Research Team (RIPLRT) also serves as a venue for the core of the team, <strong>our researchers (current and former graduate students)</strong>, to carry out high-quality scientific research and serve as examples of:
 
 
 - **Inclusiveness** (everyone’s voice counts)

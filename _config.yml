@@ -26,7 +26,7 @@ description: Respiratory and Immunology Project and Laboratory Research Team
 navbar-links:
   Home: ""
   About Us: 
-    - Our Mission: "mission"
+    - Our Vision/Mission: "mission"
     - Team Members: "members"
     - In the Lab: "lab"
     - Mentoring: "mentoring"
