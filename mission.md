@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Vision and Mission
+title: Vision and Mission
 subtitle: RIPLRT's vision and mission in science and with our members
 ---
 
