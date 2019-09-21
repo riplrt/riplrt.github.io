@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RIPLRT Team Members
+title: Team Members
 subtitle: Who are the RIPLRT?
 ---
 
