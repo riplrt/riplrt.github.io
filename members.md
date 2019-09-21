@@ -4,7 +4,7 @@ title: RIPLRT Team Members
 subtitle: Who are the RIPLRT?
 ---
 
-Find here pictures and bios of current members, [interns](#Interns in the RIPLRT),  and [past members](#Past members of the RIPLRT), as well as [interviews](#Interviews with current members of the RIPLRT) with current and past members of the RIPLRT. 
+Find here pictures and bios of [current members](#Current members of the RIPLRT) and [past members](#Past members of the RIPLRT), as well as [interviews](#Interviews with current members of the RIPLRT) with current and past members of the RIPLRT. 
 
 ---
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
@@ -105,7 +105,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients.</p></div>
 
 ---
-<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 10%; margin:8px"> 
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 12%; height: 12%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Shandra is currently enrolled as a med student at St. Georges University.</p></div>  
 
 ---
