@@ -23,6 +23,8 @@ The Respiratory and Immunology Project and Laboratory Research Team (RIPLRT) als
 - **Collaboration** (what is done in isolation is often accomplished better in partnership)
 - **Leadership** (nourish from a culture of intra and inter-motivation and inspiration)
 
+Also refer to our <a href="https://www.riplrt.com/mentoring/" >mentoring</a> to know more about the different learning opportunities with the RIPLRT.
+
 ---
 **To contact the RIPLRT**, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>

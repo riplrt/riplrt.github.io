@@ -1,7 +1,7 @@
 ---
 layout: page
-title: @RIPLRT in Twitter
-subtitle: Access and follow here our Twitter posts!
+title: In Twitter
+subtitle: Access and follow our Twitter posts!
 ---
 
 Access here our post, news, and updates we share with the Twitter community. In the RIPLRT Twitter page, we share 

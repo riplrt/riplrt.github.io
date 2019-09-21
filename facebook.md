@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RIPLRT in Facebook
+title:  In Facebook
 subtitle: Access and follow here our Facebook page!
 ---
 
