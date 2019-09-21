@@ -93,11 +93,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 ---
 
-<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Prospective med-school student.</p></div>
+<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918318177" target="_blank">addressed differences in PM.25 between eastern and western states of the US and its relationship to asthma prevalence</a>. Ariel is also a prospective med-school student.</p></div>
 
 ---
-<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 18%; height: 18%; margin:8px"> 
+<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
 
 ---
@@ -105,8 +105,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients.</p></div>
 
 ---
-<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 12%; height: 12%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Shandra is currently enrolled as a med student at St. Georges University.</p></div>  
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) in the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918325600" target="_blank">addressed differences in prevalenve of food allergies among eastern and western states of the US</a>. Shandra is currently enrolled as a med student at St. Georges University.</p></div>  
 
 ---
 <img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 15%; height: 15%; margin:8px"> 
