@@ -101,12 +101,12 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
 
 ---
-<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 10%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Shandra is currently enrolled as a med student at St. Georges University.</p></div>  
-
----
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients.</p></div>
+
+---
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Shandra is currently enrolled as a med student at St. Georges University.</p></div>  
 
 ---
 <img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 15%; height: 15%; margin:8px"> 
