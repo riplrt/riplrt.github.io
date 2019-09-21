@@ -17,12 +17,6 @@ Find here pictures and bios of current members, [interns](#Interns in the RIPLRT
 
 ***[Past members of the RIPLRT](#Past members of the RIPLRT)***
 
----
-***[Interns](Interns in the RIPLRT)***
-
-- [Naziba Nuha](#Naziba Nuha)
-- [Tanha Rahman](#Tanha Rahman)
-
 
 ---
 <a name="Current members of the RIPLRT"></a><i><b>Current members of the RIPLRT</b></i>
@@ -107,12 +101,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
 
 ---
-<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley: </b></i> graduent from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-intern (2018 - 2019) of the RIPLRT. Currently working as a Research Assistant in the Department of Genomcis at MD Anderson Center (Houston, TX). Prospective med-school student.</p></div>
-
----
-<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Enrolled as a med student at St. Georges University.</p></div>  
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) of the RIPLRT. Shandra is currently enrolled as a med student at St. Georges University.</p></div>  
 
 ---
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
