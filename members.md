@@ -47,6 +47,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 20%; height: 20%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley is </b></i> graduet from the M.S. in Biomedical Sciences program at Larkin University, and remote Research Assistant in the RIPLRT. His credentials earned him a position as a Research Assistant in the Department of Genomcis at MD Anderson Center (Houston, TX). Josh is a prospective med-school student, and is together with Hayat and Ruslan one of the founders of the RIPLRT.</p></div>
 
+<a href="https://www.riplrt.com/cv/CV_Josh_Redacted.pdf" target="_blank">Click here</a> to view Josh's C.V.
 
 ---
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
