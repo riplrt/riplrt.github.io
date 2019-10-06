@@ -25,22 +25,15 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 ### *A Puerto Rican joins the RIPLRT*
 
-Sukeina Nasser, 2nd year pharmacy students at Larkin University, joins the Respiratory and Immunology Project and Laboratory. Sukie, as we call her, similar to Dr. Felix E. Rivera Mariani, has Puerto Rican heritage -- her mom is from San Juan, Puerto Rico. Although Sukie's mom moved to the US to study University of Michigan (English and Biochemistry), all her mom family still live in Puerto Rico. Also, her family in Puerto Rico experienced 1st hand the effects of Hurricane Maria. Therefore, Sukie greatly values the environmental health work the RIPLRT is doing with the Universities of Puerto Rico and Texas. 
+<p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus Programa for inviting Dr. Rivera-Mariani to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies.</p>
 
 
-<a href="https://www.riplrt.com/2019-06-24-puertorican-in-riplrt/">
-  <img src="/img/Sukeina.png" alt="RIPLRT Research Team" class="inline"/>
+<a href="https://www.riplrt.com/2019-10-06-upr-rcm-rise-invites-dr-rivera/">
+  <img src="/img/upr-rcm-rise.jpg" alt="UPR-RCM RISE" class="inline"/>
 </a>
 
 
-<b><a href="https://www.riplrt.com/2019-06-24-puertorican-in-riplrt/" class="list-filter">Read more here!</a></b>
-
----
-### *Recent research grant for the RIPLRT!*
-
-Together with scientists from the University of Texas-Austin, Dr. Rivera-Mariani and the RIPLRT will be collaborating in a project recently funded by the US Housing and Urban Development (under the Lead and Healthy Homes Technical Studies Grant Program) to identify relationships between biological and non-biological indoor contaminants and children's respiratory health. 
-
-<b><a href="https://www.riplrt.com/2018-11-29-hud-grant-indoor-pollution/" class="list-filter">Read more here!</a></b>
+<b><a href="https://www.riplrt.com/2019-10-06-upr-rcm-rise-invites-dr-rivera/" class="list-filter">Read more here!</a></b>
 
 ---
 ### *Our Funding Campaign!*
