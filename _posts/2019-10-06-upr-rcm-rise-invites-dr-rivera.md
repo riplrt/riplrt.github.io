@@ -4,7 +4,7 @@ title: Integrating Biomedical Sciences into Environmental Health Studies
 subtitle:
 ---
 
-<p>The RIPLRT would like to thank the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus Programa for inviting our PI, Dr. Rivera-Mariani, to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies. Also, for allowing Dr. Rivera-Mariani to be present at PhD-candidate Lorraine Nicole Vélez-Torres' thesis proposal.</p>
+<p>The RIPLRT would like to thank the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus Program for inviting our PI, Dr. Rivera-Mariani, to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies. Also, for allowing Dr. Rivera-Mariani to be present at PhD-candidate Lorraine Nicole Vélez-Torres' thesis proposal.</p>
 
 It was great for Dr. Rivera-Mariani to visit his alma mater and meet with colleagues Drs. Benjamin Bolanos Rosero (former PhD thesis mentor of Dr. Rivera-Mariani) and Filipa Godoy-Vitorino.
 
