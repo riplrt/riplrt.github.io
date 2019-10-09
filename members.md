@@ -46,7 +46,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley is </b></i> graduet from the M.S. in Biomedical Sciences program at Larkin University, and remote Research Assistant in the RIPLRT. HHe currently lives in Houston, Texas where he also works as a Research Assistant at MD Anderson, Department of Genomic Medicine.</p></div>
+<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley (Research Assistant - remote). </b></i> Josh graduated from the M.S. in Biomedical Sciences program at Larkin University. He currently lives in Houston, Texas where he also works as a Research Assistant at MD Anderson, Department of Genomic Medicine.</p></div>
 
 
 <div style="text-align:justify"><p>Josh's interest in research began when he started working in a biochemistry lab at Baylor University. He learned how to express and purify proteins while working on a project studying the MCM8 and MCM9 proteins. His research interest grew while he attended Larkin University and join the RIPLRT, taking an interest in immunology and data driven research. Josh strives to enter the medical field and use his research background to bring positive change to his community.</p></div>
@@ -54,8 +54,8 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <a href="https://www.riplrt.com/cv/CV_Josh_Redacted.pdf" target="_blank">Click here</a> to view Josh's C.V.
 
 ---
-<img src="/img/NicoleBernavides.jpg" alt="Nicole Benavides" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides</b></i> is a student in the M.S in Biomedical Science program at Larkin University. She grew up in Fairfax, Virginia and moved to Clermont, Florida in her early teenage years. She graduated from the University of Florida earning a B.S in Health Education. She aspires to attend medical school and become a physician, presently, with heavy interests in orthopedics. She is the first in her Latin family to pursue a professional career in healthcare.</p></div>
+<img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides (Graduate Student)</b></i> Nicole is a student in the M.S in Biomedical Science program at Larkin University. She grew up in Fairfax, Virginia and moved to Clermont, Florida in her early teenage years. She graduated from the University of Florida earning a B.S in Health Education. She aspires to attend medical school and become a physician, presently, with heavy interests in orthopedics. She is the first in her Latin family to pursue a professional career in healthcare.</p></div>
 
 <div style="text-align:justify"><p>Nicole’s interest in the health field led to her curiosity in research. She has been exposed to clinical settings through volunteering at the UFHealth hospital and shadowing physicians. Nicole is also a registered pharmacy technician and enjoys assisting patients in regards to their medications. She is eager to learn and contribute to the science community through RIPLRT and her future ambitions.</p></div>.
 
@@ -71,7 +71,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 ---
 <img src="/img/Sukeina.png" alt="Sukeina Nasser" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Sukeina Nasser"></a><i><b>Sukeina Nasser (we know her as Sukie)</b></i> is from Detroit, MI and is a 2nd year student at Larkin University College of Pharmacy. Her interest in drug research development, specifically in ways to create less addictive and more effective medications, is what lead her to pursue a career in pharmacy. Although her passion remains in pharmacy, she is also dedicated to the opportunity to work with the RIPL research team. Having family who live in Puerto Rico, and we’re affected first hand by the destruction of Hurricane Maria, she has sincere interest in the work that RIPL conducts regarding respiratory immunology issues that are being felt by so many individuals from the aftermath of Maria. Sukeina hopes to gain knowledge and experience from a Biomedical standpoint, while also hoping to offer some insight from a pharmacy background. She is excited to learn and grow alongside the RIPL team. </p></div> 
+<div style="text-align:justify"><p><a name="Sukeina Nasser"></a><i><b>Sukeina Nasser (Graduate Student) </b></i> Sukeina (we know her as Sukie) is from Detroit, MI and is a 2nd year student at Larkin University College of Pharmacy. Her interest in drug research development, specifically in ways to create less addictive and more effective medications, is what lead her to pursue a career in pharmacy. Although her passion remains in pharmacy, she is also dedicated to the opportunity to work with the RIPL research team. Having family who live in Puerto Rico, and we’re affected first hand by the destruction of Hurricane Maria, she has sincere interest in the work that RIPL conducts regarding respiratory immunology issues that are being felt by so many individuals from the aftermath of Maria. Sukeina hopes to gain knowledge and experience from a Biomedical standpoint, while also hoping to offer some insight from a pharmacy background. She is excited to learn and grow alongside the RIPL team. </p></div> 
 
 [Click here](#With Sukeina Nasser) to view Sukie's interview. 
 
