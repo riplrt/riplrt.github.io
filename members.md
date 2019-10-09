@@ -55,7 +55,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <a href="https://www.riplrt.com/cv/CV_Josh_Redacted.pdf" target="_blank">Click here</a> to view Josh's C.V.
 
 ---
-<img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides (Graduate Student)</b></i> Nicole is a student in the M.S in Biomedical Science program at Larkin University. She grew up in Fairfax, Virginia and moved to Clermont, Florida in her early teenage years. She graduated from the University of Florida earning a B.S in Health Education. She aspires to attend medical school and become a physician, presently, with heavy interests in orthopedics. She is the first in her Latin family to pursue a professional career in healthcare.</p></div>
 
 <div style="text-align:justify"><p>Nicole’s interest in the health field led to her curiosity in research. She has been exposed to clinical settings through volunteering at the UFHealth hospital and shadowing physicians. Nicole is also a registered pharmacy technician and enjoys assisting patients in regards to their medications. She is eager to learn and contribute to the science community through RIPLRT and her future ambitions.</p></div>
@@ -71,7 +71,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <a href="https://www.riplrt.com/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
 
 ---
-<img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Shana Zadron"></a><i><b>Shana Zadron (Graduate Student)</b></i> Shana, a first generation student of Afghan descent, is an alumnus of the University of Colorado, Denver with a B.S. in Biology and a minor in Psychology. She is a current student at Larkin University in the M.S. Biomedical Science program and represents her college as a student ambassador. Her ambition for research originated from her substantial knowledge of science acquired through her undergraduate degree. In addition to her desire to contribute to RIPLRT, she aspires to become a prominent physician and further enhance the field of medicine.</p></div>
 
 ---
