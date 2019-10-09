@@ -12,6 +12,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 - [Hayat Srour](#Hayat Srour)
 - [Joshua Baguley](#Joshua Baguley)
+- [Nicole Benavides](#Nicole Benavides)
 - [Ruslan Fomenko](#Ruslan Fomenko)
 - [Sukeina Nasser](#Sukeina Nasser)
 - [Summer Pellechio](#Summer Pellechio)
@@ -51,6 +52,12 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <div style="text-align:justify"><p>Josh's interest in research began when he started working in a biochemistry lab at Baylor University. He learned how to express and purify proteins while working on a project studying the MCM8 and MCM9 proteins. His research interest grew while he attended Larkin University and join the RIPLRT, taking an interest in immunology and data driven research. Josh strives to enter the medical field and use his research background to bring positive change to his community.</p></div>
 
 <a href="https://www.riplrt.com/cv/CV_Josh_Redacted.pdf" target="_blank">Click here</a> to view Josh's C.V.
+
+---
+<img src="/img/NicoleBernavides.jpg" alt="Nicole Benavides" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides</b></i> is a student in the M.S in Biomedical Science program at Larkin University. She grew up in Fairfax, Virginia and moved to Clermont, Florida in her early teenage years. She graduated from the University of Florida earning a B.S in Health Education. She aspires to attend medical school and become a physician, presently, with heavy interests in orthopedics. She is the first in her Latin family to pursue a professional career in healthcare.</p></div>
+
+<div style="text-align:justify"><p>Nicole’s interest in the health field led to her curiosity in research. She has been exposed to clinical settings through volunteering at the UFHealth hospital and shadowing physicians. Nicole is also a registered pharmacy technician and enjoys assisting patients in regards to their medications. She is eager to learn and contribute to the science community through RIPLRT and her future ambitions.</p></div>.
 
 ---
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
