@@ -14,6 +14,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Joshua Baguley](#Joshua Baguley)
 - [Nicole Benavides](#Nicole Benavides)
 - [Ruslan Fomenko](#Ruslan Fomenko)
+- [Shana Zadron](#Shana Zadron)
 - [Sukeina Nasser](#Sukeina Nasser)
 - [Summer Pellechio](#Summer Pellechio)
 
@@ -68,6 +69,10 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
 
 <a href="https://www.riplrt.com/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
+
+---
+<img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shana Zadron"></a><i><b>Shana Zadron (Graduate Student)</b></i> Shana, a first generation student of Afghan descent, is an alumnus of the University of Colorado, Denver with a B.S. in Biology and a minor in Psychology. She is a current student at Larkin University in the M.S. Biomedical Science program and represents her college as a student ambassador. Her ambition for research originated from her substantial knowledge of science acquired through her undergraduate degree. In addition to her desire to contribute to RIPLRT, she aspires to become a prominent physician and further enhance the field of medicine.</p></div>
 
 ---
 <img src="/img/Sukeina.png" alt="Sukeina Nasser" align="right" style="width: 15%; height: 15%; margin:8px"> 
