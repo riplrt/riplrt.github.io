@@ -45,7 +45,10 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley is </b></i> graduet from the M.S. in Biomedical Sciences program at Larkin University, and remote Research Assistant in the RIPLRT. His credentials earned him a position as a Research Assistant in the Department of Genomcis at MD Anderson Center (Houston, TX). Josh is a prospective med-school student, and is together with Hayat and Ruslan one of the founders of the RIPLRT.</p></div>
+<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley is </b></i> graduet from the M.S. in Biomedical Sciences program at Larkin University, and remote Research Assistant in the RIPLRT. HHe currently lives in Houston, Texas where he also works as a Research Assistant at MD Anderson, Department of Genomic Medicine.</p></div>
+
+
+<div style="text-align:justify"><p>Josh's interest in research began when he started working in a biochemistry lab at Baylor University. He learned how to express and purify proteins while working on a project studying the MCM8 and MCM9 proteins. His research interest grew while he attended Larkin University and join the RIPLRT, taking an interest in immunology and data driven research. Josh strives to enter the medical field and use his research background to bring positive change to his community.</p></div>
 
 <a href="https://www.riplrt.com/cv/CV_Josh_Redacted.pdf" target="_blank">Click here</a> to view Josh's C.V.
 
@@ -53,7 +56,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants.</p></div>  
 
-<div style="text-align:justify"><p>Ruslan's emergence as a researcher has been evident in the group. In addition to being one of the phlebotomists of the RIPLRT (yes, we work with human tissues and body fluids), Ruslan has been very active in different projects within the RIPLRT.</p></div>  
+<div style="text-align:justify"><p>Ruslan's emergence as a researcher has been evident in the group. In addition to being one of the phlebotomists of the RIPLRT (yes, we work with human tissues and body fluids), Ruslan has been involved in different projects within the RIPLRT.</p></div>  
 
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
 
