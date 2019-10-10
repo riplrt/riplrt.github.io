@@ -21,17 +21,21 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 [**Read more about the Team Members**](https://www.riplrt.com/members)!
 
 ---
-# Recent News @RIPLRT!!!
+<header>
+	<h1>Recent News @RIPLRT!!!</h1>
+</header>
 
-### *The RIPLRT is Expanding*
+<header>
+	<h3><i>The RIPLRT is Expanding!</i></h3>
+</header>
 
 <p><i>October 10th, 2019</i>. Five students from the College of Biomedical Sciences, Adria Guajardo Allen, Donna Oh, Nicole Benavides, Shana Zadron, and Kylie Daguio, join the RIPLRT. Their integration comes in a timely manner as the RIPLRT have various deployed projects addressing respiratory health of different populations, including children with asthma and Puerto Ricans who experienced the devastating effects of Hurricane Maria. 
 
 <b><a href="https://www.riplrt.com/2019-10-10-new-members-in-riplrt/" class="list-filter">Read more here!</a></b>
 
-<br>
-
-### *Seminar at his Alma Mater*
+<header>
+	<h3><i>Seminar at his Alma Mater</i></h3>
+</header>
 
 <p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus (UPR-MSC) for inviting Dr. Rivera-Mariani to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies. The UPR-MSC is the Alma Mater of Dr. Rivera-Mariani</p>
 
@@ -46,7 +50,9 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 <br>
 
 ---
-### *Our Funding Campaign!*
+<header>
+	<h1>Our Funding Campaign!</h1>
+</header>
 
 Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor future generations of scientists and healthcare workforce.
 
