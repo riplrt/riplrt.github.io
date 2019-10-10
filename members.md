@@ -11,8 +11,10 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 - [Hayat Srour](#Hayat Srour)
+- [Adria Guajardo Allen](#Adria Guajardo Allen)
 - [Donna Oh](#Donna Oh)
 - [Joshua Baguley](#Joshua Baguley)
+- [Kylie Daguio](#Kylie Daguio)
 - [Nicole Benavides](#Nicole Benavides)
 - [Ruslan Fomenko](#Ruslan Fomenko)
 - [Shana Zadron](#Shana Zadron)
@@ -47,6 +49,14 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf" target="_blank">Click here</a> to view Hayat's C.V.
 
 ---
+<img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo Allen" align="right" style="width: 15%; height: 15%; margin:8px">
+<div style="text-align:justify"><p><a name="Adria Guajardo Allen"></a><i><b>Adria Guajardo Allen (Graduate Student)</b></i>. Adria is from Dallas, TX and is a current M.S. student in the Biomedical Sciences program at Larkin University. Before attending Larkin University, she obtained her B.S. in Biology from the University of Texas at Arlington. Her passion for people, health and science guided her aspirations to become a Physician Assistant, a profession that offers endless opportunities to study the body and add to the quality of life with the use of medicine. .</p></div>
+
+<div style="text-align:justify"><p>In addition to being a registered dental assistant throughout her undergraduate career, Adria was the Vice President of National Society of Leadership and Success, founded UTAs first non-profit glow-in-the-dark 5k fundraiser, participated as an officer of her undergraduate pre-dental society, and volunteered in multiple health clinics.</p></div> 
+
+<div style="text-align:justify"><p>Her enthusiasm for medicine and people has compelled her toward research. Coming from a big Hispanic family and being the second oldest out of six, she has always enjoyed working in a team environment. She feels honored to be a part of RIPLRT and looks forward to bringing the experience, knowledge and work ethic attained from RIPLRT into furthering her endeavors.</p></div> 
+
+---
 <img src="/img/DonnaOh.jpg" alt="Donna Oh" align="right" style="width: 15%; height: 15%; margin:8px">
 <div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Student)</b></i>. Donna hails from Anchorage, Alaska, and is a current graduate student in the M.S. in Biomedical Sciences at Larkin University. With a B.S. in Biological Sciences from the University of Alaska, Anchorage under her belt, she moved from the Land of the Midnight Sun to the Sunshine State in order to expand her education, ultimately aiming for medical school and into a career as a physician. Having gained many years of experience in the social services and clinical health care, Donna’s interest in scientific research is mainly rooted in her passion for learning the biochemical pathways involved in physiological and pathogenic processes of the human body.</p></div>
 
@@ -60,6 +70,12 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <div style="text-align:justify"><p>Josh's interest in research began when he started working in a biochemistry lab at Baylor University. He learned how to express and purify proteins while working on a project studying the MCM8 and MCM9 proteins. His research interest grew while he attended Larkin University and join the RIPLRT, taking an interest in immunology and data driven research. Josh strives to enter the medical field and use his research background to bring positive change to his community.</p></div>
 
 <a href="https://www.riplrt.com/cv/CV_Josh_Redacted.pdf" target="_blank">Click here</a> to view Josh's C.V.
+
+---
+<img src="/img/KylieDaguio.png" alt="Kylie Daguio" align="right" style="width: 15%; height: 15%; margin:8px">
+<div style="text-align:justify"><p><a name="Kylie Daguio"></a><i><b>Kylie Daguio (Graduate Student)</b></i>. Kylie earned a B.S. in Biological Sciences with a concentration in pre-med at University of Nevada Las Vegas and is currently a student in the M.S. Biomedical Sciences program at Larkin University. Her enthusiasm for research emanates from her passion for healthcare, as shown through her dedication working in medical clinics and hospitals. She most recently worked as a Medial Scribe in the oncology and hematology department for Comprehensive Cancer Centers where she had the privilege to impact patient lives while learning more about cutting edge medicine in cancer research including immunotherapy. As a result of her combined clinical experiences, Kylie is driven to become a physician and eliminate barriers of healthcare including accessibility and affordability.</p></div> 
+
+<div style="text-align:justify"><p>That being said, as a member of RIPL-RT, Kylie values the ability to translate her research findings to the clinical setting. In addition to continually developing indispensable laboratory skills, she is passionate about bringing awareness to the scientific community as well as the public about human-based immunotoxins.</p></div> 
 
 ---
 <img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 15%; height: 15%; margin:8px"> 
