@@ -29,8 +29,6 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 <b><a href="https://www.riplrt.com/2019-10-10-new-members-in-riplrt/" class="list-filter">Read more here!</a></b>
 
----
-
 ### *Seminar at his Alma Mater*
 
 <p> <i>October 1st, 2019</i>. Thanks to the <a href="http://mbrs-rise.rcm.upr.edu/" target="_blank"> Researcn Initiation for Scientific Enhancement</a> (RISE) program at the University of Puerto Rico - Medical Sciences Campus (UPR-MSC) for inviting Dr. Rivera-Mariani to give a talk to the students of the RISE Program on how to integrate Biomedical Sciences into Environmental Health Studies. The UPR-MSC is the Alma Mater of Dr. Rivera-Mariani</p>
