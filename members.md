@@ -11,6 +11,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 - [Hayat Srour](#Hayat Srour)
+- [Donna Oh](#Donna Oh)
 - [Joshua Baguley](#Joshua Baguley)
 - [Nicole Benavides](#Nicole Benavides)
 - [Ruslan Fomenko](#Ruslan Fomenko)
@@ -44,6 +45,12 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 [Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
 
 <a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf" target="_blank">Click here</a> to view Hayat's C.V.
+
+---
+<img src="/img/DonnaOh.jpg" alt="Donna Oh" align="right" style="width: 15%; height: 15%; margin:8px">
+<div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Student)</b></i>. Donna hails from Anchorage, Alaska, and is a current graduate student in the M.S. in Biomedical Sciences at Larkin University. With a B.S. in Biological Sciences from the University of Alaska, Anchorage under her belt, she moved from the Land of the Midnight Sun to the Sunshine State in order to expand her education, ultimately aiming for medical school and into a career as a physician. Having gained many years of experience in the social services and clinical health care, Donna’s interest in scientific research is mainly rooted in her passion for learning the biochemical pathways involved in physiological and pathogenic processes of the human body.</p></div>
+
+<div style="text-align:justify"><p>She has been involved in many hours of clinical volunteering, utilizing her bilingual ability to speak both English and Korean to translate for patients in clinical settings both in exam and operating rooms. This exposed her to a wide demographic of patient-care, ranging from neonates to geriatrics, in fields of family medicine, orthopedics, dentistry, and a wide range of specialties. By joining RIPLRT to aide in the ongoing investigation of immunology, Donna looks forward to participating in the steps being made to advance the medical sciences.</p></div>
 
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 20%; height: 20%; margin:8px"> 
