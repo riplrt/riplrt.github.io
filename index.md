@@ -11,16 +11,20 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 <b><a href="mission" class="list-filter">Read more about our mission!</a></b>
 
----
-# RIPLRT Members
+<hr>
+<header> 
+ 	<h1>RIPLRT Members</h1>
+</header>
 
 <a href="https://www.riplrt.com/members/">
   <img src="/img/RIPL_EffectRT8.png" alt="RIPLRT Research Team" class="inline"/>
 </a>
 
-[**Read more about the Team Members**](https://www.riplrt.com/members)!
+<b><a href="https://www.riplrt.com/members">Click here to read more about the Team Members!</a></b>
 
----
+<hr>
+
+<br>
 <header>
 	<h1>Recent News @RIPLRT!!!</h1>
 </header>
@@ -47,9 +51,9 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 <b><a href="https://www.riplrt.com/2019-10-06-upr-rcm-rise-invites-dr-rivera/" class="list-filter">Read more here!</a></b>
 
+<hr>
+
 <br>
-
-
 <header>
 	<h1>Our Funding Campaign!</h1>
 </header>
@@ -58,8 +62,9 @@ Support our mission: to address the respiratory health of the population when ex
 
 See the list of previous donors [here](https://www.riplrt.com/donors).
 
-<br>
+<hr>
 
+<br>
 <i>To contact the RIPLRT Research Team</i>, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
