@@ -60,7 +60,7 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor future generations of scientists and healthcare workforce.
 
-See the list of previous donors [here](https://www.riplrt.com/donors).
+See the list of previous donors <b><a href="https://www.riplrt.com/donors">here</a></b>.
 
 <hr>
 
