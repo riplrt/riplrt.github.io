@@ -49,7 +49,7 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 <br>
 
----
+
 <header>
 	<h1>Our Funding Campaign!</h1>
 </header>
@@ -58,8 +58,9 @@ Support our mission: to address the respiratory health of the population when ex
 
 See the list of previous donors [here](https://www.riplrt.com/donors).
 
----
-**To contact the RIPLRT Research Team**, 
+<br>
+
+<i>To contact the RIPLRT Research Team</i>, 
 <a href="mailto:contactus@riplrt.com" target="_blank" style="color:#515151;"><i class="fa fa-envelope" style="font-size:1em"></i> &nbsp; click here!.<br></a>
 
 <a href="http://ularkin.org/college-of-biomedical-sciences/">
