@@ -7,7 +7,7 @@ subtitle: Five students from the College of Biomedical Sciences of Larkin Univer
 In parallel with its mentoring mission, the RIPLRT is expanding! Five students from the <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank"> Colleg of Biomedical Sciences of Larkin University</a>, joined this week the RIPLRT. After completing all the steps prior to joining the team, which included responses to survey questions, interviews with the PI (<a href="" target="_blank">Dr. Rivera-Mariani</a>) and current members of the team, and being academically-cleared by the Dean of the college, the following students joined the RIPRT (clik on the link to more about them):
 
 <ul>
-<li><a href="https://www.riplrt.com/members/#Adria%20Guajardo%20Allen">Adria Guahjardo Allen</a></li>
+<li><a href="https://www.riplrt.com/members/#Adria%20Guajardo%20Allen" target="_blank">Adria Guahjardo Allen</a></li>
 <li><a href="https://www.riplrt.com/members/#Nicole%20Benavides" target="_blank">Nicole Benavides</a></li>
 <li><a href="https://www.riplrt.com/members/#Kylie%20Daguio" target="_blank">Kylie Daguio</a></li>
 <li><a href="https://www.riplrt.com/members/#Shana%20Zadron" target="_blank">Shana Zadron</a></li>
