@@ -168,9 +168,6 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <i><b><a name="With Ruslan Fomenko and Hayat Srour"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zty6LdeTwbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<i><b><a name="With Summer Pellechio"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w4V-L2QB6ws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <i><b><a name="With Lorraine Vélez-Torres"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4EWnhrc4UCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
