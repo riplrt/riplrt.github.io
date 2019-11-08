@@ -19,7 +19,6 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Ruslan Fomenko](#Ruslan Fomenko)
 - [Shana Zadron](#Shana Zadron)
 - [Sukeina Nasser](#Sukeina Nasser)
-- [Summer Pellechio](#Summer Pellechio)
 
 ***[Past members of the RIPLRT](#Past members of the RIPLRT)***
 
@@ -105,14 +104,6 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 <a href="https://www.riplrt.com/cv/Sukeina_CV.pdf" target="_blank">Click here</a> to view Sukeina's C.V.
 
----
-<img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio (Research Assistant)</b></i>. Summer recently graduated from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. She has clinical experience with patients from working as an EMT in the city of Rochester and for RIT’s collegiate EMS agency, where she’s served as the Training Director. She’s also a certified phlebotomist. Her undergraduate lab work focused on the frequencies of anergic gene polymorphisms associated with innate and adaptive immune responses in sickle cell disease populations. She feels fortunate that her strong work ethic and curiosity have led her to join the RIPLRT.</p></div> 
-
-[Click here](#With Summer Pellechio) to view Summer's interview. 
-
-<a href="https://www.riplrt.com/cv/Summer_CV_05042019.pdf" target="_blank">Click here</a> to view Sumnmer's C.V.
-
 <br>
 
 <hr>
@@ -134,11 +125,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918318177" target="_blank">addressed differences in PM.25 between eastern and western states of the US and its relationship to asthma prevalence</a>. Ariel is also a prospective med-school student.</p></div>
+<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918318177" target="_blank">addressed differences in PM.25 between eastern and western states of the US and its relationship to asthma prevalence</a>. Ariel is also a prospective med-school student.</p></div>
 
 ---
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i>: graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
+<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
 
 ---
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
@@ -146,7 +137,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 ---
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger:</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) in the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918325600" target="_blank">addressed differences in prevalenve of food allergies among eastern and western states of the US</a>. Shandra is currently enrolled as a med student at St. Georges University.</p></div>  
+<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) in the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918325600" target="_blank">addressed differences in prevalenve of food allergies among eastern and western states of the US</a>. Shandra is a med student at St. Georges University.</p></div>  
+
+---
+<img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio </b></i> is a graduate from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. Summer constributed her leadership and scientific skillsets to the RIPLRT from May to October 2019. She is currently in ther interview cycle, and have received offers, for PA schools.</p></div> 
 
 ---
 <img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 15%; height: 15%; margin:8px"> 
