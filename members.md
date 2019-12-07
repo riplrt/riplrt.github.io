@@ -55,11 +55,15 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 <div style="text-align:justify"><p>Her enthusiasm for medicine and people has compelled her toward research. Coming from a big Hispanic family and being the second oldest out of six, she has always enjoyed working in a team environment. She feels honored to be a part of RIPLRT and looks forward to bringing the experience, knowledge and work ethic attained from RIPLRT into furthering her endeavors.</p></div> 
 
+[Click here](#With Donna Oh and Adria Guauardo-Allen) to view Adria's interview. 
+
 ---
 <img src="/img/DonnaOh.jpg" alt="Donna Oh" align="right" style="width: 15%; height: 15%; margin:8px">
 <div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Research Assistant)</b></i>. Donna hails from Anchorage, Alaska, and is a current graduate student in the M.S. in Biomedical Sciences at Larkin University. With a B.S. in Biological Sciences from the University of Alaska, Anchorage under her belt, she moved from the Land of the Midnight Sun to the Sunshine State in order to expand her education, ultimately aiming for medical school and into a career as a physician. Having gained many years of experience in the social services and clinical health care, Donna’s interest in scientific research is mainly rooted in her passion for learning the biochemical pathways involved in physiological and pathogenic processes of the human body.</p></div>
 
 <div style="text-align:justify"><p>She has been involved in many hours of clinical volunteering, utilizing her bilingual ability to speak both English and Korean to translate for patients in clinical settings both in exam and operating rooms. This exposed her to a wide demographic of patient-care, ranging from neonates to geriatrics, in fields of family medicine, orthopedics, dentistry, and a wide range of specialties. By joining RIPLRT to aide in the ongoing investigation of immunology, Donna looks forward to participating in the steps being made to advance the medical sciences.</p></div>
+
+[Click here](#With Donna Oh and Adria Guauardo-Allen) to view Donna's interview. 
 
 ---
 <img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 20%; height: 20%; margin:8px"> 
@@ -76,11 +80,15 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 <div style="text-align:justify"><p>That being said, as a member of RIPL-RT, Kylie values the ability to translate her research findings to the clinical setting. In addition to continually developing indispensable laboratory skills, she is passionate about bringing awareness to the scientific community as well as the public about human-based immunotoxins.</p></div> 
 
+[Click here](#With Shana, Kylie, and Nicole) to view Kylie's interview. 
+
 ---
 <img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides (Graduate Research Assistant)</b></i> Nicole is a student in the M.S in Biomedical Science program at Larkin University. She grew up in Fairfax, Virginia and moved to Clermont, Florida in her early teenage years. She graduated from the University of Florida earning a B.S in Health Education. She aspires to attend medical school and become a physician, presently, with heavy interests in orthopedics. She is the first in her Latin family to pursue a professional career in healthcare.</p></div>
 
 <div style="text-align:justify"><p>Nicole’s interest in the health field led to her curiosity in research. She has been exposed to clinical settings through volunteering at the UFHealth hospital and shadowing physicians. Nicole is also a registered pharmacy technician and enjoys assisting patients in regards to their medications. She is eager to learn and contribute to the science community through RIPLRT and her future ambitions.</p></div>
+
+[Click here](#With Shana, Kylie, and Nicole) to view Nicole's interview. 
 
 ---
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
@@ -95,6 +103,8 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 ---
 <img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Shana Zadron"></a><i><b>Shana Zadron (Graduate Research Assistant)</b></i> Shana, a first generation student of Afghan descent, is an alumnus of the University of Colorado, Denver with a B.S. in Biology and a minor in Psychology. She is a current student at Larkin University in the M.S. Biomedical Science program and represents her college as a student ambassador. Her ambition for research originated from her substantial knowledge of science acquired through her undergraduate degree. In addition to her desire to contribute to RIPLRT, she aspires to become a prominent physician and further enhance the field of medicine.</p></div>
+
+[Click here](#With Shana, Kylie, and Nicole) to view Shana's interview. 
 
 ---
 <img src="/img/Sukeina.png" alt="Sukeina Nasser" align="right" style="width: 15%; height: 15%; margin:8px"> 
@@ -173,6 +183,12 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <i><b><a name="With Sukeina Nasser"></a></b></i>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M-Wa6AblfWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i><b><a name="With Donna Oh and Adria Guauardo-Allen"></a></b></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q8tSZeoFNNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i><b><a name="With Shana, Kylie, and Nicole"></a></b></i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oui9Epb7xi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
