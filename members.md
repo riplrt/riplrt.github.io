@@ -16,7 +16,6 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Joshua Baguley](#Joshua Baguley)
 - [Kylie Daguio](#Kylie Daguio)
 - [Nicole Benavides](#Nicole Benavides)
-- [Ruslan Fomenko](#Ruslan Fomenko)
 - [Shana Zadron](#Shana Zadron)
 - [Sukeina Nasser](#Sukeina Nasser)
 
@@ -90,15 +89,6 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 [Click here](#With Shana, Kylie, and Nicole) to view Nicole's interview. 
 
----
-<img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants.</p></div>  
-
-<div style="text-align:justify"><p>Ruslan's emergence as a researcher has been evident in the group. In addition to being one of the phlebotomists of the RIPLRT (yes, we work with human tissues and body fluids), Ruslan has been involved in different projects within the RIPLRT.</p></div>  
-
-[Click here](#With Ruslan Fomenko and Hayat Srour) to view Ruslan's interview. 
-
-<a href="https://www.riplrt.com/cv/CV_ RF_Redacted.pdf" target="_blank">Click here</a> to view Ruslan's C.V.
 
 ---
 <img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 15%; height: 15%; margin:8px"> 
@@ -144,6 +134,10 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients.</p></div>
+
+---
+<img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants.</p></div>  
 
 ---
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
