@@ -36,6 +36,8 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 
 <p><i>February 3rd, 2020</i>. Current members of the RIPLRT, <a href="https://www.riplrt.com/members/#Nicole%20Benavides">Nicole Benavides</a>, <a href="https://www.riplrt.com/members/#Donna%20Oh">Donna Oh</a>, <a href="https://www.riplrt.com/members/#Kylie%20Daguio">Kylie Daguio</a>, <a href="">Shana Zadron</a>, and <a href="https://www.riplrt.com/members/#Adria%20Guajardo%20Allen">Adria Guajardo-Allen</a>, are among the students who made the 2019 Dean's list of College of Biomedical Sciences of Larkin University (COBS-LU). <font size="1"> <i>From left to right: Dr. Rivera-Mariani, Martha Suárez, Donna Oh, Luis López, Nicole Benavides, Shana Zadron, Dr. Marti Echols (Dean of COBS); front: Kylie Dagio and Adria Guajardo-Allen.</i><i>Picture taken by Jully Dave, student of the COBS-LU</i>.</font></p>
 
+<b> <a href="https://www.linkedin.com/in/larkin-university-613b49140?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJXSC8BJijlRh-GLthYTliimWTtV71peoE&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BrKa1m3JMRm6KEdojo2pY2g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_detail_base-original_share_actor_container&lici=gS4M21jhT3SiruupuUGFMQ%3D%3D" class="list-filter">Read more here!</a></b>
+
 <header>
 	<h3><i>The RIPLRT is Expanding!</i></h3>
 </header>
