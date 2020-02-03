@@ -30,10 +30,17 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 </header>
 
 <header>
+	<h3><i>Dean's list among the RIPLRT!</i></h3>
+	<img src="/img/deans_list_2020.jpeg" alt="RIPLRT Research Team" class="inline"/>
+</header>
+
+<p><i>February 3rd, 2020</i>. Current members of the RIPLRT, <a href="https://www.riplrt.com/members/#Nicole%20Benavides">Nicole Benavides</a>, <a href="https://www.riplrt.com/members/#Donna%20Oh">Donna Oh</a>, <a href="https://www.riplrt.com/members/#Kylie%20Daguio">Kylie Daguio</a>, <a href="">Shana Zadron</a>, and <a href="https://www.riplrt.com/members/#Adria%20Guajardo%20Allen">Adria Guajardo-Allen</a>, are among the students who made the 2019 Dean's list of College of Biomedical Sciences of Larkin University (COBS-LU).<i>From left to right: Dr. Rivera-Mariani, Martha Suárez, Donna Oh, Luis Pérez, Nicole Benavides, Shana Zadron, Dr. Marti Echols (Dean of COBS). Front: Kylie Dagio and Adria Guajardo-Allen.</i><i>Picture taken by Jully Dave, student of the COBS-LU</i>.</p>
+
+<header>
 	<h3><i>The RIPLRT is Expanding!</i></h3>
 </header>
 
-<p><i>October 10th, 2019</i>. Five students from the College of Biomedical Sciences, Adria Guajardo Allen, Donna Oh, Nicole Benavides, Shana Zadron, and Kylie Daguio, join the RIPLRT. Their integration comes in a timely manner as the RIPLRT have various deployed projects addressing respiratory health of different populations, including children with asthma and Puerto Ricans who experienced the devastating effects of Hurricane Maria. 
+<p><i>October 10th, 2019</i>. Five students from the College of Biomedical Sciences, Adria Guajardo Allen, Donna Oh, Nicole Benavides, Shana Zadron, and Kylie Daguio, join the RIPLRT. Their integration comes in a timely manner as the RIPLRT have various deployed projects addressing respiratory health of different populations, including children with asthma and Puerto Ricans who experienced the devastating effects of Hurricane Maria.</p> 
 
 <b><a href="https://www.riplrt.com/2019-10-10-new-members-in-riplrt/" class="list-filter">Read more here!</a></b>
 
