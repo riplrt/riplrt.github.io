@@ -120,7 +120,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a href="https://www.riplrt.com/cv/CV_Lorraine_Redacted.pdf" target="_blank">Click here</a> to view Lorraine's C.V.
 
-[Click here](#With Lorraine Vélez-Torres) to view Naziba's interview.
+[Click here](#With Lorraine Vélez-Torres) to view Lorraines's interview.
 
 ---
 
