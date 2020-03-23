@@ -10,7 +10,6 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
-- [Hayat Srour](#Hayat Srour)
 - [Adria Guajardo Allen](#Adria Guajardo Allen)
 - [Donna Oh](#Donna Oh)
 - [Joshua Baguley](#Joshua Baguley)
@@ -109,6 +108,17 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <hr>
 
 <a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
+
+<img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px">
+<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager 2018 - 2020)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before she joined Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality. </p></div>
+
+<div style="text-align:justify"><p>Hayat's leadership dates back to the beginnigs of the RIPLRT (back then the RIPLRG). When the group was created, Hayat was assigned the task of being the spokesperson of the group. Her leadership was also employed as a student representative in the Advisory Committee of the M.S. in Biomedical Sciences program at Larkin University. Therefore, it was no surprise that she was able to transition to being the Lab Manager of RIPLRT (2018 - 2020). </p></div>
+
+[Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
+
+<a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf" target="_blank">Click here</a> to view Hayat's C.V.
+
+---
 
 <img src="/img/Lorraine.jpeg" alt="Lorraine Vélez-Torres" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Lorraine Vélez-Torres"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
