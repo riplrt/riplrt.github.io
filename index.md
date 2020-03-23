@@ -17,7 +17,7 @@ In the RIPL_Research Team--in addition to addressing the respiratory health of t
 </header>
 
 <a href="https://www.riplrt.com/members/">
-  <img src="/img/RIPL_EffectRT10.png" alt="RIPLRT Research Team" class="inline"/>
+  <img src="/img/RIPL_EffectRT11.png" alt="RIPLRT Research Team" class="inline"/>
 </a>
 
 <b><a href="https://www.riplrt.com/members">Click here to read more about the Team Members!</a></b>
