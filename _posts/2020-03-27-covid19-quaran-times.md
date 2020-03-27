@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CODIV-19: Quaran-Times
+title: COVID-19...Quaran-Times!
 subtitle: A discussion on self-isolation during the new-age pandemic
 ---
 
