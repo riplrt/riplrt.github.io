@@ -84,7 +84,7 @@ When it comes to quarantine, how long is too long? Perhaps in the eyes of the ge
 <br>
 
 <img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<p><i><b>Shana Zadron</b></i>. Shana, a first generation student of Afghan descent, is a graduate from the University of Colorado, Denver (B.S. in Biology and minor in Psychology). She is a student at the <a href="https://ularkin.org/college-of-biomedical-sciences/" target="_blank">M.S. in Biomedical Sciences at Larkin University</a> and is one of the College of Biomedical Sciences' student ambassador. A graduate research assistant in the <a href="https://www.riplrt.com/" target="_blank">RIPLRT</a>, her ambition for research originated from her undergraduate studies. She also aspires to becoming a physician to contribute to the well-being of our nation.Click <a href="https://www.riplrt.com/members/#Shana%20Zadron" target="_blank">here</a> to learn more about Shana!</p>
+<p><i><b>Shana Zadron</b></i>. Shana, a first generation student of Afghan descent, is a graduate from the University of Colorado, Denver (B.S. in Biology and minor in Psychology). She is a student in the <a href="https://ularkin.org/college-of-biomedical-sciences/" target="_blank">M.S. in Biomedical Sciences at Larkin University</a> and is one of the College of Biomedical Sciences' student ambassador. A graduate research assistant in the <a href="https://www.riplrt.com/" target="_blank">RIPLRT</a>, her ambition for research originated from her undergraduate studies. She also aspires to becoming a physician to contribute to the well-being of our nation. Click <a href="https://www.riplrt.com/members/#Shana%20Zadron" target="_blank">here</a> to learn more about Shana!</p>
 
 
 
