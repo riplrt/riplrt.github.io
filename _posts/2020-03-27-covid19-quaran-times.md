@@ -79,7 +79,7 @@ When it comes to quarantine, how long is too long? Perhaps in the eyes of the ge
 <br>
 
 <img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo Allen" align="right" style="width: 15%; height: 15%; margin:8px">
-<p><i><b>Adria Guajardo-Allen</b></i>. Adria is from Dallas, TX (could she be a Cowboy's fan?) and is a student in the <a href="https://ularkin.org/college-of-biomedical-sciences/" target="_blank">M.S. in Biomedical Sciences at Larkin University</a> a graduate research assistant in the <a href="https://www.riplrt.com/" target="_blank">RIPLRT</a>. Adria obtained her B.S. in Biology from the University of Texas at Arlington, and her aspirations include becoming a Physician Assistant to continue to contribute to quality of life of our population. Click <a href="https://www.riplrt.com/members/#Adria%20Guajardo%20Allen" target="_blank">here</a> to learn more about Adria!</p>
+<p><i><b>Adria Guajardo-Allen</b></i>. Adria is from Dallas, TX (could she be a Cowboy's fan?) and is a student in the <a href="https://ularkin.org/college-of-biomedical-sciences/" target="_blank">M.S. in Biomedical Sciences at Larkin University</a> a graduate research assistant in the <a href="https://www.riplrt.com/" target="_blank">RIPLRT</a>. Adria obtained her B.S. in Biology from the University of Texas at Arlington, and her aspirations include becoming a Physician Assistant to contribute to the quality of life of our population. Click <a href="https://www.riplrt.com/members/#Adria%20Guajardo%20Allen" target="_blank">here</a> to learn more about Adria!</p>
 
 <br>
 
