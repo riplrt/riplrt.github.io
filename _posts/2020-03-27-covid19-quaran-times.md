@@ -9,14 +9,14 @@ subtitle: A discussion on self-isolation during the new-age pandemic
 <p>As soon as the world greeted the turn of the decade, it seemed that the new year was determined to make its mark in recent history. Like checking off a crisis to-do list, 2020 has sacked and pillaged through each month so far with a “hot-spot” item:</p>
 
 <ul>
-	<li>January was riddled with international and national uncertainties.</li>
-	<li>February tried to burn Australia down.</li>
+	<li><b>January</b> was riddled with international and national uncertainties.</li>
+	<li><b>February</b> tried to burn Australia down.</li>
 </ul>
 
 <p>And now, by the end of the 3<sup>rd</sup> month, we are all (hopefully) sitting at home, at least 6 feet away from other humans and with a bottle of hand-sanitizer loaded and ready. Maybe some toilet paper too, if you were lucky. So while we connect wirelessly through screens and speakers, and leave our doors firmly shut to the outside world, 2020 can successfully check off its third item on the list:</p>
 
 <ul>
-	<li>March: the COVID-19 Pandemic</li>
+	<li><b>Marchb</b>: the COVID-19 Pandemic</li>
 </ul>
 
 <p>The most recent use of the word “pandemic” was in 2009, when a known influenza virus, the H1N1, mutated into a novel and highly virulent form (<a href="https://www.livescience.com/covid-19-pandemic-vs-swine-flu.html" target="_blank">LiveScience</a>). Dubbed the “Swine Flu” for its endemic origins in pigs, this virus infected more than 1.4 billion people around the world in the course of the year before it was declared that the end of the pandemic in 2010 (<a href="https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html" target="_blank">CDC</a>).</p>
@@ -31,9 +31,8 @@ subtitle: A discussion on self-isolation during the new-age pandemic
 	<h2><i>But why?</i></h2>
 </header>
 
-<img src="/img/covid19-2.png" alt="The SARS-CoV-2 virus" align="left" style="width: 15%; height: 15%; margin:8px">
-
-<p?>COVID-19 is an infectious disease caused by the SARS-CoV-2 virus (see image on the lef), which person to person or contact with contaminated surfaces; nevertheless, <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2004973" target="_blank">a recent study</a> highlighted its aerosol viability (i.e. up to three hours). It ranges from being asymptomatic to complications as intense as organ failure leading to death. If this virus spreads from human contact, who wouldn’t want to be quarantined? Well, for those of you doubting these isolation tactics, here are some facts from the <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public" target="_blank">World Health Organization</a>:</p?>
+<img src="/img/covid19-2.png" alt="The SARS-CoV-2 virus" align="left" style="width: 20%; height: 20%; margin:8px">
+<p>COVID-19 is an infectious disease caused by the SARS-CoV-2 virus (see image on the lef), which person to person or contact with contaminated surfaces; nevertheless, <a href="https://www.nejm.org/doi/full/10.1056/NEJMc2004973" target="_blank">a recent study</a> highlighted its aerosol viability (i.e. up to three hours). It ranges from being asymptomatic to complications as intense as organ failure leading to death. If this virus spreads from human contact, who wouldn’t want to be quarantined? Well, for those of you doubting these isolation tactics, here are some facts from the <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public" target="_blank">World Health Organization</a>:</p>
 
 
 <blockquote><b>Wash Your Hands</b>. If you were not already practicing this, you may have bigger problems at stake. Washing hands with soap and water kills any bacteria or virus that you may have picked up. Most viruses, including the SARS-CoV-2, contain a protective, yet weak, viral envelope that is made of fat, and aids in the spreading of the virus: this holds true to viruses that can cause respiratory diseases and spread perso-to-person or following contact with contaminated surfaces. Inside this fatty envelope are its protein and genetic code. Viruses cannot survive alone and need a host. Due to the acidity of the epidermis, the outermost layer of the skin, the virus cannot puncture it; instead, it sticks to the surface. Soap’s chemical structure is attracted to the coronavirus’s fatty envelope, causing it to detach from the skin and break off into small viral pieces. The soap molecules continue to trap these small viral pieces, making it easier for water to come in and wash it away. Hand sanitizer is handy (comprised of at least 60% alcohol), but nothing beats a good ole’ hand wash.</blockquote>
@@ -54,14 +53,14 @@ subtitle: A discussion on self-isolation during the new-age pandemic
 	<h2><i>But people are complying.</i></h2> 
 </header>
 
-<img src="/img/covid19-3.png" alt="The SARS-CoV-2 virus" align="right" style="width: 15%; height: 15%; margin:8px">
+<img src="/img/covid19-3.png" alt="The SARS-CoV-2 virus" align="right" style="width: 20%; height: 20%; margin:8px">
 Barren streets and empty skyscrapers show the overwhelming obedience in favor of self-isolation. <b><i>Quaran-times</i></b> has become an electronic playground for many, streaming movie after movie (and TV series) while endlessly browsing the internet. Hell, even worklife is home-based. Life in cyberspace is being spoiled with the stench of monotony, and for the time being, the proverbial light at the end of the tunnel is still small and far.
 
 When it comes to quarantine, how long is too long? Perhaps in the eyes of the general public the caveats to social distancing will negate its seemingly short-term pros. Nonetheless, before levying the promotion on self-isolation, policymakers must consider a secondary outbreak. But, more importantly, beyond the decisions of suits and ties behind their table-top fortresses, it comes down to the people to act on informed decisions to mitigate the worst of the damage. It might be too late to hit the e-break on 2020’s vengeance, but steering the car through less turbulent roads ahead may make all the difference. Timing is everything -- at a time like this, it's important to remain proactive and stay safe.
 
 --- 
 <header>
-	<h1>Authors of this Blog</h1>
+	<h2>Authors of this Blog</h2>
 </header>
 
 <img src="/img/DonnaOh.jpg" alt="Donna Oh" align="right" style="width: 15%; height: 15%; margin:8px">
@@ -76,7 +75,6 @@ When it comes to quarantine, how long is too long? Perhaps in the eyes of the ge
 
 <img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <p><i><b>Nicole Benavides</b></i>. Nicole is also student in the <a href="https://ularkin.org/college-of-biomedical-sciences/" target="_blank">M.S. in Biomedical Sciences at Larkin University</a> and, as mentioned in Donna's description, a lab leader in the <a href="https://www.riplrt.com/" target="_blank">RIPLRT</a>. Originally from Fairfax, Virginia and a graduate from the University of Florida (B.S in Health Education), she aspires to become an orthopedic: we may see Nicole in an Olympic. She is the first in her Latin family to pursue a professional career in healthcare. Click <a href="https://www.riplrt.com/members/#Nicole%20Benavides" target="_blank">here</a> to learn more about Nicole!</p>
-</p>
 
 <br>
 
@@ -86,7 +84,7 @@ When it comes to quarantine, how long is too long? Perhaps in the eyes of the ge
 <br>
 
 <img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<p><i><b>Shana Zadron</b></i> Shana, a first generation student of Afghan descent, is an graduate from the University of Colorado, Denver (B.S. in Biology and minor in Psychology). She is a student at he<a href="https://ularkin.org/college-of-biomedical-sciences/" target="_blank">M.S. in Biomedical Sciences at Larkin University</a> and is one of the College of Biomedical Sciences' student ambassador. A graduate research assistant in the <a href="https://www.riplrt.com/" target="_blank">RIPLRT</a>, her ambition for research originated from her undergraduate studies. She also aspires to becoming a physician to contribute to the well-being of our nation.Click <a href="https://www.riplrt.com/members/#Shana%20Zadron" target="_blank">here</a> to learn more about Adria!</p></div>
+<p><i><b>Shana Zadron</b></i>. Shana, a first generation student of Afghan descent, is an graduate from the University of Colorado, Denver (B.S. in Biology and minor in Psychology). She is a student at the <a href="https://ularkin.org/college-of-biomedical-sciences/" target="_blank">M.S. in Biomedical Sciences at Larkin University</a> and is one of the College of Biomedical Sciences' student ambassador. A graduate research assistant in the <a href="https://www.riplrt.com/" target="_blank">RIPLRT</a>, her ambition for research originated from her undergraduate studies. She also aspires to becoming a physician to contribute to the well-being of our nation.Click <a href="https://www.riplrt.com/members/#Shana%20Zadron" target="_blank">here</a> to learn more about Adria!</p>
 
 
 
