@@ -19,7 +19,7 @@ subtitle: A discussion on self-isolation during the new-age pandemic
 	<li><b>March</b>: the COVID-19 Pandemic</li>
 </ul>
 
-<p>The most recent use of the word “pandemic” was in 2009, when a known influenza virus (the H1N1) mutated into a novel and highly virulent form (<a href="https://www.livescience.com/covid-19-pandemic-vs-swine-flu.html" target="_blank">LiveScience</a>). Dubbed the “Swine Flu” for its endemic origins in pigs, this virus infected more than 1.4 billion people around the world in the course of the year before it was declared that the end of the pandemic in 2010 (<a href="https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html" target="_blank">CDC</a>).</p>
+<p>The most recent use of the word “pandemic” was in 2009, when a known influenza virus (the H1N1) mutated into a novel and highly virulent form (<a href="https://www.livescience.com/covid-19-pandemic-vs-swine-flu.html" target="_blank">LiveScience</a>). Dubbed the “Swine Flu” for its endemic origins in pigs, this virus infected more than 1.4 billion people around the world in the course of the year before the end of the pandemic was declared in 2010 (<a href="https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html" target="_blank">CDC</a>).</p>
 
 <img src="/img/covid19-1.png" alt="Global COVID-19 cases" class="inline"/>
 
