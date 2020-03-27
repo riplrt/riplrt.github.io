@@ -16,7 +16,7 @@ subtitle: A discussion on self-isolation during the new-age pandemic
 <p>And now, by the end of the 3<sup>rd</sup> month, we are all (hopefully) sitting at home, at least 6 feet away from other humans and with a bottle of hand-sanitizer loaded and ready. Maybe some toilet paper too, if you were lucky. So while we connect wirelessly through screens and speakers, and leave our doors firmly shut to the outside world, 2020 can successfully check off its third item on the list:</p>
 
 <ul>
-	<li><b>Marchb</b>: the COVID-19 Pandemic</li>
+	<li><b>March</b>: the COVID-19 Pandemic</li>
 </ul>
 
 <p>The most recent use of the word “pandemic” was in 2009, when a known influenza virus, the H1N1, mutated into a novel and highly virulent form (<a href="https://www.livescience.com/covid-19-pandemic-vs-swine-flu.html" target="_blank">LiveScience</a>). Dubbed the “Swine Flu” for its endemic origins in pigs, this virus infected more than 1.4 billion people around the world in the course of the year before it was declared that the end of the pandemic in 2010 (<a href="https://www.cdc.gov/flu/pandemic-resources/2009-h1n1-pandemic.html" target="_blank">CDC</a>).</p>
