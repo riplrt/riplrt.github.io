@@ -4,7 +4,7 @@ title: COVID-19...Quaran-Times!
 subtitle: A discussion on self-isolation during the new-age pandemic
 ---
 
-*By Donna Oh, Kylie Daguio, Nicole Benavides, Adria  Guajardo Allen, Shana Zadron*
+*By Donna Oh, Kylie Daguio, Nicole Benavides, Adria  Guajardo Allen, Shana Zadron.*
 
 <p>As soon as the world greeted the turn of the decade, it seemed that the new year was determined to make its mark in recent history. Like checking off a crisis to-do list, 2020 has sacked and pillaged through each month so far with a “hot-spot” item:</p>
 
