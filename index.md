@@ -56,18 +56,6 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 
 <b><a href="https://www.riplrt.com/2019-10-10-new-members-in-riplrt/" class="list-filter">Read more here!</a></b>
 
-
-<hr>
-
-<br>
-<header>
-	<h1>Our Funding Campaign!</h1>
-</header>
-
-Support our mission: to address the respiratory health of the population when exposed to air pollution, and to mentor future generations of scientists and healthcare workforce.
-
-See the list of previous donors <b><a href="https://www.riplrt.com/donors">here</a></b>.
-
 <hr>
 
 <br>
