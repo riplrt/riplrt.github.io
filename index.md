@@ -4,10 +4,10 @@ title: The RIPLRT
 subtitle: Respiratory and Immunology Project and Laboratory Research Team
 ---
 
-We are the <b><i>RIPLRT</i></b>, which stands for Respiratory and Immunology Project and Laboratory Research Team, within the 
+We are the <b><i>RIPLRT</i></b> -- Respiratory and Immunology Project and Laboratory Research Team -- within the 
 <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>.
 
-In the RIPL_Research Team--in addition to addressing the respiratory health of the population through immunological, exposure science, and computational approaches--values inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership.
+<p>In the RIPLRT, in addition to addressing the respiratory health of the population through immunological, exposure science, and computational approaches, we value <i>inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership<i>.</p>
 
 <b><a href="mission" class="list-filter">Read more about our mission!</a></b>
 
