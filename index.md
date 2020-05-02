@@ -17,7 +17,7 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 	<li><b><a href="lab" class="list-filter">our Research Approaches</a></b></li>
 	<li><b><a href="mentoring" class="list-filter">our Mentoring</a></b></li>
 	<li><b><a href="facebook" class="list-filter">our Facebook Page</a></b></li>
-	<li><b><a href="articles" class="list-filter">our Publications</a></b></li>
+	<li><b><a href="publications" class="list-filter">our Publications</a></b></li>
 	<li><b><a href="blog" class="list-filter">our News and Blogs</a></b></li>
 </ul>
 
