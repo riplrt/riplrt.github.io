@@ -32,15 +32,10 @@ navbar-links:
     - Mentoring: "mentoring"
     - In Facebook: "facebook"
     - In Twitter: "twitter"
-  Publications: 
-    - Peer-review: "articles"
-    - Data Science: "datasci"
+  Publications: "publications"
   Blog: "blog"
-  Donors:
-    - Our Donors: "donors"
-    - Funding Campaign: "campaign"
+  Donors: "donors"
   Wiki: "https://wiki.riplrt.com"
-
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
