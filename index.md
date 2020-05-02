@@ -7,9 +7,9 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 <p>We are the <b><i>RIPLRT</i></b> -- Respiratory and Immunology Project and Laboratory Research Team -- within the 
 <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>.</p>
 
-<p>In the RIPLRT, we employ our efforts to address the respiratory health of the population through immunological, exposure science, and computational approaches. When addressing this research mission, we greately value <i>inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership<i>.</p>
+<p>In the <b><i>RIPLRT</i></b>, we employ our efforts to address the respiratory health of the population through immunological, exposure science, and computational approaches. When addressing this research mission, we greately value <i>inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership</i>.</p>
 
-<p><b><a href="mission" class="list-filter">Click here to read more about the Vision and Mission within the RIPLRT!</a></b></p>
+<p><b><a href="mission" class="list-filter">Click here</a></b> to read more about the <i>Vision and Mission</i> within the RIPLRT!</p>
 
 <p> Also, learn more about:</p>
 <ul>
