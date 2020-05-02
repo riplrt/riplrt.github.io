@@ -9,10 +9,10 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 
 <p>In the <b><i>RIPLRT</i></b>, we employ our efforts to address the respiratory health of the population through immunological, exposure science, and computational approaches. When addressing this research mission, we greately value <i>inclusiveness, diversity, integrity, productivity, innovation, excellence, collaboration, and leadership</i>.</p>
 
-<p><b><a href="mission" class="list-filter">Click here</a></b> to read more about the <i>Vision and Mission</i> within the RIPLRT!</p>
+<p>We welcome you to our website, and we invite you to learn more about</p>
 
-<p> Also, learn more about:</p>
 <ul>
+	<li><b><a href="mission" class="list-filter">our Vision and Mission</a></b></li>
 	<li><b><a href="members" class="list-filter">our RIPLRT Members</a></b></li>
 	<li><b><a href="lab" class="list-filter">our Research Approaches</a></b></li>
 	<li><b><a href="mentoring" class="list-filter">our Mentoring</a></b></li>
@@ -20,6 +20,8 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 	<li><b><a href="publications" class="list-filter">our Publications</a></b></li>
 	<li><b><a href="blog" class="list-filter">our News and Blogs</a></b></li>
 </ul>
+
+<p>Below you will see portraits of the current members of the RIPLRT, and below the portraits you can read summaries of recents news within our team!
 
 <hr>
 <header> 
