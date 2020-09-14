@@ -31,7 +31,6 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 <div style="text-align:justify"><p>At Larkin University, Dr. Rivera-Mariani seeks to mentor students and young researchers in the different pipelines and epicycles of scientific research, and through the Respiratory and Immunology Project and Laboratory Research Team (RIPLRT) by providing further insight into the immunotoxicology of airborne pollutants of different chemical origins. He has published extensively in this line of research (<a href="https://www.researchgate.net/profile/Felix_Rivera-Mariani/publications" target="_blank">click here for additional information</a>).</p></div>
 
-[Click here](#With Dr. Félix E. Rivera-Mariani) to view Dr. Rivera-Mariani's interview. 
 
 <a href="https://www.riplrt.com/cv/CV_FE_RiveraMariani.pdf" target="_blank">Click here</a> to view Dr. Rivera-Mariani's C.V.
 
@@ -153,30 +152,6 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <br>
 
 <hr>
-
-<br>
-
-<a name="Interviews with current members of the RIPLRT"></a><i><b>Interviews with current members of the RIPLRT</b></i>
-
-<br>
-
-<i><b><a name="With Dr. Félix E. Rivera-Mariani"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T7H_Q4WBYfI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<i><b><a name="With Ruslan Fomenko and Hayat Srour"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zty6LdeTwbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<i><b><a name="With Lorraine Vélez-Torres"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4EWnhrc4UCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<i><b><a name="With Sukeina Nasser"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M-Wa6AblfWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<i><b><a name="With Donna Oh and Adria Guauardo-Allen"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q8tSZeoFNNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<i><b><a name="With Shana, Kylie, and Nicole"></a></b></i>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oui9Epb7xi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
