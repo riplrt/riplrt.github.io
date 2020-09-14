@@ -46,7 +46,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <div style="text-align:justify"><p>Her past experiences have driven a fascination for research, and she hopes to continue participating in research throughout her future career as a physician. Brie is honored to be a part of the RIPLRT and is excited to continue to participate in the advancement of science and medicine.</p></div>
 
 ---
-<img src="/img/Cassandra.JPG.png" alt="Cassandra Damouni" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/Cassandra.JPG" alt="Cassandra Damouni" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Cassandra Damouni"></a><i><b>Cassandra</b></i>. is from Fenton, Michigan and is a current M.S. student in the Biomedical Sciences program at Larkin University. Before attending Larkin University, she earned her B.S. in Biology from the University of Michigan-Flint. Her passion for people, health and art lead her desire to become a dentist, a profession that allows her to use her passions.</p></div> 
 
 <div style="text-align:justify"><p>Cassandra was involved in many clubs during her undergraduate years. She was an officer in the university’s dental club. She and her friends also started a club called Cinemas Finest that later won the university’s ‘Outstanding Student Organization’ at Wolverine Excellence. She also volunteered at the Big Brother Big Sister organization where she was a mentor to three little girls.</p></div>
@@ -81,7 +81,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 
 ---
-<img src="/img/Summer 2.jpg" alt="Summer Paris Vanitvelt" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/Summer2020.png" alt="Summer Paris Vanitvelt" align="right" style="width: 15%; height: 15%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Summer Paris Vanitvelt"></a><i><b>Summer</b></i>. earned her B.A. in Psychology from Auburn University while also completing her prerequisites for dental school and is currently a student in the M.S. Biomedical Sciences program at Larkin University. During her time at Auburn, she was involved in Greek life, other on campus organizations and taught a Pilates class at the recreation center on campus.</p></div>
 
 <div style="text-align:justify"><p>Her passion for learning and working in a team setting is what drove her to join the RIPLRT research team. She is hoping to use the knowledge she gains from research for her future career as a dentist. She decided dentistry was the career for her after spending a few summers working at a dental practice and seeing how greatly a better smile can impact someone’s life.</p></div>
