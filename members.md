@@ -10,7 +10,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
-- [Brie Perdue](#Brie Purdue)
+- [Brie Perdue](#Brie Perdue)
 - [Cassandra Damouni](#Cassandra Damouni)
 - [Chevine Johnson](#Chevine Johnson)
 - [Christian Ramos](#Christian Ramos)
