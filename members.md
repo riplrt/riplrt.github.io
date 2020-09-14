@@ -10,7 +10,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
 
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
-- [Brie Purdue](#Brie Purdue)
+- [Brie Perdue](#Brie Purdue)
 - [Cassandra Damouni](#Cassandra Damouni)
 - [Chevine Johnson](#Chevine Johnson)
 - [Christian Ramos](#Christian Ramos)
@@ -36,8 +36,8 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 
 ---
-<img src="/img/brie.JPG" alt="Brie Purdue" align="right" style="width: 20%; height: 20%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Brie Purdue"></a><i><b>Brie Purdue</b></i>. <i>Brie</i> is from a small beach town called Gulf Breeze, FL and is currently a graduate student in the M.S. in Biomedical Sciences program at Larkin University. She received her Bachelor of Science in Biochemistry with a minor in Biology from The Florida State University in Tallahassee, FL. During her time at The Florida State University she participated in undergraduate research with a focus in radioactive inorganic chemistry, was a student athlete as a member of the Garnet Girls, worked as a patient care technician, and assisted in raising over $50,000 each year for Make-A-Wish foundation as a member of Chi Omega.</p></div>
+<img src="/img/brie.JPG" alt="Brie Perdue" align="right" style="width: 20%; height: 20%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Brie Perdue"></a><i><b>Brie Perdue</b></i>. <i>Brie</i> is from a small beach town called Gulf Breeze, FL and is currently a graduate student in the M.S. in Biomedical Sciences program at Larkin University. She received her Bachelor of Science in Biochemistry with a minor in Biology from The Florida State University in Tallahassee, FL. During her time at The Florida State University she participated in undergraduate research with a focus in radioactive inorganic chemistry, was a student athlete as a member of the Garnet Girls, worked as a patient care technician, and assisted in raising over $50,000 each year for Make-A-Wish foundation as a member of Chi Omega.</p></div>
 
 
 <div style="text-align:justify"><p>After graduating from Florida State University, Brie worked as a research assistant on the Andrews Research and Education Foundation team. She mainly worked on two studies, Multicenter Trial of Stem Cell Therapy and Autologous Adult Adipose-Derived Regenerative Cell Injection into Chronic Partial-Thickness Rotator Cuff Tears. The studies listed emphasized a focus on stem cells and their clinical relevance to the specialty of Orthopedics.</p></div>
