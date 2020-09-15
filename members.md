@@ -90,7 +90,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 ---
 <img src="/img/Summer2020.png" alt="Summer Paris Vanitvelt" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Summer Paris Vanitvelt"></a><i><b>Summer Paris Vanitvelt</b></i>. <i>Summer</i> earned her B.A. in Psychology from Auburn University while also completing her prerequisites for dental school and is currently a student in the M.S. Biomedical Sciences program at Larkin University. During her time at Auburn, she was involved in Greek life, other on campus organizations and taught a Pilates class at the recreation center on campus.</p></div>
+<div style="text-align:justify"><p><a name="Summer Paris Vanitvelt"></a><i><b>Summer Paris Vanitvelt</b></i>. <i>Summer</i>, from Flint, Michigan, earned her B.A. in Psychology from Auburn University while also completing her prerequisites for dental school and is currently a student in the M.S. Biomedical Sciences program at Larkin University. During her time at Auburn, she was involved in Greek life, other on campus organizations and taught a Pilates class at the recreation center on campus.</p></div>
 
 <div style="text-align:justify"><p>Her passion for learning and working in a team setting is what drove her to join the RIPLRT research team. She is hoping to use the knowledge she gains from research for her future career as a dentist. She decided dentistry was the career for her after spending a few summers working at a dental practice and seeing how greatly a better smile can impact someone’s life.</p></div>
 
