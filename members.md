@@ -15,6 +15,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Chevine Johnson](#Chevine Johnson)
 - [Christian Ramos](#Christian Ramos)
 - [Henna Patel](#Henna Patel)
+- [Karoline Alves](#Karoline Alves)
 - [Krystal Ramsaran](#Krystal Ramsaran)
 - [Lorraine Vélez-Torres](#- [Lorraine Vélez-Torres])
 - [Stevanie Robinson](#Stevanie Robinson)
@@ -76,6 +77,12 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 <div style="text-align:justify"><p>Following the completion of her undergraduate career, Henna volunteered her time as a member of the Boys and Girls Club, and tutored students in Chemistry at California State University, Bakersfield. She worked under Dr.Hanoz Santoke as a part time research assistant where her project focused on the quantifications of toxins found in the local waters of Kern County Bakersfield.</p></div> 
 
+
+---
+<img src="/img/karoline.jpeg" alt="Karoline Alves" align="right" style="width: 15%; height: 15%; margin:8px">
+<div style="text-align:justify"><p><a name="Karoline Alves"></a><i><b>Karoline Alves</b></i>. <i>Karoline</i> Karoline is from Fort Lauderdale FL, and is currently pursuing her Masters in Biomedical Sciences at Larkin University. She graduated from University of Central Florida with a B.S. in Biomedical Sciences and a minor in Psychology. During her undergrad years, she was involved with different organizations and clubs that contributed to the well-being of the Orlando community. She also worked as a Certified Nursing Assistant while in school, which positively contributed to her decision to pursue medicine and become a physician. One of her passions is traveling. She was able to combine her desire to assist people and travel the world by volunteering in under representative countries like Uganda, Greece, Vietnam, and other places around the globe. Those opportunities gave her the chance to put in practice the knowledge she acquired during her college time and learn about the health system in different countries.</p></div>
+
+<div style="text-align:justify"><p>She believes that RIPLRT research team will not only expose her to a great understanding of the research field but also give her a hands-on experience that can contribute to the advances of medicine.</p></div> 
 
 ---
 <img src="/img/krystal.png" alt="Krystal Ramsaran" align="right" style="width: 15%; height: 15%; margin:8px">
