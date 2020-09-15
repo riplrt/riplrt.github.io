@@ -72,6 +72,15 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <div style="text-align:justify"><p>Being exposed to various specialties of medicine helped influence her interest of pursuing research and how she could contribute to the medical field as she continues her academic path to becoming a physician.  She aspires to aid in giving back to communities and families that have limited access to healthcare.  Excited to be a part of the RIPLRT research team, she cannot wait to bring in her knowledge and help further advance this project.</p></div> 
 
 
+
+---
+<img src="/img/henna.jpeg" alt="Henna Patel" align="right" style="width: 15%; height: 15%; margin:8px">
+<div style="text-align:justify"><p><a name="Henna Patel"></a><i><b>Henna Patel</b></i>. <i>Henna</i> is from Central Valley California. She grew up in a small town known as Bakersfield, and is currently pursuing her Masters in Biomedical Sciences at Larkin University. She received her Bachelor’s of Science in Chemistry from the University of San Francisco. As an undergraduate student, Henna spent a lot of her free time working to give back to the undeveloped areas of San Francisco through an on campus club known as Food recovery network. Henna is an aspiring Dentist and hopes to specialize in Pediatric Orthodontics. Some her most involved outreach events included working closely with dental students from The University of California, San Francisco to educate students k-12 of the importance of good oral hygiene. </p></div>
+
+<div style="text-align:justify"><p>Following the completion of her undergraduate career, Henna volunteered her time as a member of the Boys and Girls Club, and tutored students in Chemistry at California State University, Bakersfield. She worked under Dr.Hanoz Santoke as a part time research assistant where her project focused on the quantifications of toxins found in the local waters of Kern County Bakersfield.</p></div> 
+
+
+
 ---
 <img src="/img/stevanie.JPG" alt="Stevanie Robinson" align="right" style="width: 15%; height: 15%; margin:8px">
 <div style="text-align:justify"><p><a name="Stevanie Robinson"></a><i><b>Stevanie Robinson</b></i>. <i>Stevanie</i> is a native of Florida, from the Fort Lauderdale area who is currently seeking her M.S. in Biomedical Science at Larkin University. She received her B.S in Biological Science from Nova Southeastern University.  She has an undying passion for healthcare and the wellbeing of others, especially those located in underrepresented regions, which propelled her to pursue a career in medicine to become a Physician.</p></div> 
