@@ -64,7 +64,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 ---
 <img src="/img/Christian.jpg" alt="Christian Ramos" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Christian Ramos"></a><i><b>Christian Ramos</b></i>. <i>Christian</i> is a first generation student of Hispanic descent. He is currently a graduate student at Larkin University College of Biomedical Science and an alumnus of Florida International University where he received his B.S. in Biology. His interest in research stems from his passion for Healthcare and helping others. Having gained experience from working as a volunteer in hospitals and as a medical scribe for an outpatient surgery center and Cardiologist he hopes to bring about positive change in his community through hard work and dedication. Christian aspires to be a Physician and is excited to contribute to the scientific community.</p></div>
+<div style="text-align:justify"><p><a name="Christian Ramos"></a><i><b>Christian Ramos</b></i>. <i>Christian</i>, from Miami, FL, is a first generation student of Hispanic descent. He is currently a graduate student at Larkin University College of Biomedical Science and an alumnus of Florida International University where he received his B.S. in Biology. His interest in research stems from his passion for Healthcare and helping others. Having gained experience from working as a volunteer in hospitals and as a medical scribe for an outpatient surgery center and Cardiologist he hopes to bring about positive change in his community through hard work and dedication. Christian aspires to be a Physician and is excited to contribute to the scientific community.</p></div>
 
 
 ---
