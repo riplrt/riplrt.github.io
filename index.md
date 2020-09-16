@@ -35,6 +35,8 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 
 <b> <a href="https://www.linkedin.com/in/larkin-university-613b49140?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJXSC8BJijlRh-GLthYTliimWTtV71peoE&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BrKa1m3JMRm6KEdojo2pY2g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_detail_base-original_share_actor_container&lici=gS4M21jhT3SiruupuUGFMQ%3D%3D" class="list-filter">Read more here!</a></b>
 
+<hr>
+
 <header>
 	<h3><i>The RIPLRT is Expanding!</i></h3>
 </header>
