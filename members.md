@@ -140,7 +140,6 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 
 ---
-AdriaGuajardo.JPG
 
 <img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Adria Guajardo"></a><i><b>Adria Guajardo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Texas, and is currently in the application cycle for Physician Assistant schools. </p></div>
@@ -156,7 +155,7 @@ AdriaGuajardo.JPG
 
 ---
 
-<img src="/img/DonnaOh.jpeg" alt="Donna Oh" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<img src="/img/DonnaOh.jpg" alt="Donna Oh" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Anchorage, Alaska, and she is currently in the application cycle for medical schools. </p></div>
 
 ---
