@@ -43,8 +43,8 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 
 <hr>
 
-<p><b>We invite you</b> to learn more about our:
-	
+<p><b>We invite you</b> to learn more about:
+
 <ul>
 	<li><b><a href="mission" class="list-filter">our Vision and Mission</a></b>, <b><a href="blog" class="list-filter">our News and Blogs</a></b></li> 
 	<li><b><a href="members" class="list-filter">our RIPLRT Members</a></b>, <b><a href="mentoring" class="list-filter">our Mentoring</a></b></li>
