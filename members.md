@@ -190,11 +190,6 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern - 2019).</b></i> Similar to Naziba, Tanha is also an undergraduate (third-year) student at Nova Southeastern University. She is pursuing her Bachelor of Science in Business Management and Biology (pre-medicine track) with a minor in International Studies.</p></div>
 
-
-<i><b>Other Past Members of the RIPLRT</b></i>
-
-<img src="/img/PastMembers.jpg" alt="Other Past Members of the RIPLRT" class="inline"/>
-
 <br>
 
 <hr>
