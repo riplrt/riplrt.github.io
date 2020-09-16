@@ -11,19 +11,7 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 
 <p><b>We invite</b> you to learn more about</p>
 
-<ul>
-	<li><b><a href="mission" class="list-filter">our Vision and Mission</a></b>, <b><a href="blog" class="list-filter">our News and Blogs</a></b></li> 
-	<li><b><a href="members" class="list-filter">our RIPLRT Members</a></b>, <b><a href="mentoring" class="list-filter">our Mentoring</a></b></li>
-	<li><b><a href="publications" class="list-filter">our Publications</a></b>, <b><a href="lab" class="list-filter">our Research Approaches</a></b></li>
-</ul>
-
-<p><b>Below you will see</b>:</p> 
-<ul>
-	<li>A video of the portraits of the current members of the RIPLRT</li> 
-	<li>Summaries of recents news within our team</li>
-</ul>
-
-<hr>
+<p><b>We invite you</b> to know about the current members in the video below:</p> 
 
 
 <iframe src="https://embed.wave.video/513f605f063275599e95d011" height="560" width="560" frameborder="0" allow="autoplay; fullscreen"></iframe>
@@ -54,6 +42,14 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 <p><i>October 10th, 2019</i>. Five students from the College of Biomedical Sciences, Adria Guajardo Allen, Donna Oh, Nicole Benavides, Shana Zadron, and Kylie Daguio, join the RIPLRT. Their integration comes in a timely manner as the RIPLRT have various deployed projects addressing respiratory health of different populations, including children with asthma and Puerto Ricans who experienced the devastating effects of Hurricane Maria.</p> 
 
 <b><a href="https://www.riplrt.com/2019-10-10-new-members-in-riplrt/" class="list-filter">Read more here!</a></b>
+
+<hr>
+
+<ul>
+	<li><b><a href="mission" class="list-filter">our Vision and Mission</a></b>, <b><a href="blog" class="list-filter">our News and Blogs</a></b></li> 
+	<li><b><a href="members" class="list-filter">our RIPLRT Members</a></b>, <b><a href="mentoring" class="list-filter">our Mentoring</a></b></li>
+	<li><b><a href="publications" class="list-filter">our Publications</a></b>, <b><a href="lab" class="list-filter">our Research Approaches</a></b></li>
+</ul>
 
 <hr>
 
