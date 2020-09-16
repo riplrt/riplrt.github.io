@@ -134,7 +134,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 ---
 
-<img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo" align="right" style="width: 8%; height: 8%; margin:8px"> 
+<img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Adria Guajardo"></a><i><b>Adria Guajardo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Texas, and is currently in the application cycle for Physician Assistant schools. </p></div>
 
 ---
