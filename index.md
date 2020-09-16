@@ -25,25 +25,12 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 </header>
 
 <header>
-	<h3><i>Dean's list among the RIPLRT!</i></h3>
-	<img src="/img/deans_list_2020.jpeg" alt="RIPLRT Research Team" class="inline"/>
+	<h3><i>RIPLRT 2020-2021 members!</i></h3>
 </header>
 
-<font size="1"> <i>From left to right: Dr. Rivera-Mariani, Martha Suárez, Donna Oh, Luis López, Nicole Benavides, Shana Zadron, Dr. Marti Echols (Dean of COBS); front: Kylie Dagio and Adria Guajardo-Allen.</i><i>Picture taken by Jully Dave, student of the COBS-LU</i>.</font>
 
-<p><i>February 3rd, 2020</i>. Current members of the RIPLRT, <a href="https://www.riplrt.com/members/#Nicole%20Benavides">Nicole Benavides</a>, <a href="https://www.riplrt.com/members/#Donna%20Oh">Donna Oh</a>, <a href="https://www.riplrt.com/members/#Kylie%20Daguio">Kylie Daguio</a>, <a href="">Shana Zadron</a>, and <a href="https://www.riplrt.com/members/#Adria%20Guajardo%20Allen">Adria Guajardo-Allen</a>, are among the students who made the 2019 Dean's list of College of Biomedical Sciences of Larkin University (COBS-LU). </p>
+<p><i>September 14, 2020</i>. <i><b>The Respiratory and Immunology Project and Laboratory Research Team</b></i> welcomes the new members from the 2020-2021 cohort of students from the M.S. in Biomedical Sciences at Larkin University. <a href="https://www.riplrt.com/members">Click here </a> to read more about the current members of the RIPLRT</a>. </p>
 
-<b> <a href="https://www.linkedin.com/in/larkin-university-613b49140?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACJXSC8BJijlRh-GLthYTliimWTtV71peoE&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BrKa1m3JMRm6KEdojo2pY2g%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_detail_base-original_share_actor_container&lici=gS4M21jhT3SiruupuUGFMQ%3D%3D" class="list-filter">Read more here!</a></b>
-
-<hr>
-
-<header>
-	<h3><i>The RIPLRT is Expanding!</i></h3>
-</header>
-
-<p><i>October 10th, 2019</i>. Five students from the College of Biomedical Sciences, Adria Guajardo Allen, Donna Oh, Nicole Benavides, Shana Zadron, and Kylie Daguio, join the RIPLRT. Their integration comes in a timely manner as the RIPLRT have various deployed projects addressing respiratory health of different populations, including children with asthma and Puerto Ricans who experienced the devastating effects of Hurricane Maria.</p> 
-
-<b><a href="https://www.riplrt.com/2019-10-10-new-members-in-riplrt/" class="list-filter">Read more here!</a></b>
 
 <hr>
 
