@@ -25,9 +25,7 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 <p>Below you will see portraits of the current members of the RIPLRT, and below the portraits you can read summaries of recents news within our team!
 
 <hr>
-<header> 
- 	<h1>RIPLRT Members</h1>
-</header>
+
 
 <<iframe src="https://embed.wave.video/513f605f063275599e95d011" height="560" width="560" frameborder="0" allow="autoplay; fullscreen"></iframe>
 
