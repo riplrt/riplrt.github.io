@@ -147,6 +147,12 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <img src="/img/DonnaOh.jpg" alt="Donna Oh" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Anchorage, Alaska, and she is currently in the application cycle for medical schools. </p></div>
 
+
+---
+
+<img src="/img/Joshua.jpeg" alt="Joshua Baguley" align="right" style="width: 10%; height: 10%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Joshua Baguley"></a><i><b>Joshua Baguley</b></i> is originally from Indonesia, a former co-leader of the RIPLRT (2018-2019), and currently works at MD Anderson Cancer Center.</p></div>
+
 ---
 
 <img src="/img/KylieDaguio.png" alt="Kylie Daguio" align="right" style="width: 10%; height: 10%; margin:8px"> 
