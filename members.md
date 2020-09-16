@@ -129,15 +129,8 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
 
-<img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 15%; height: 15%; margin:8px">
-<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager 2018 - 2020)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. Before she joined Larkin, she earned a B.A. in Anthropology from Wayne State University (Detroit, Michigan). Her interest in scientific research stems from her passion for medicine and philanthropy. Among her diverse goals, she aspires to become a physician that actively works toward global equality. </p></div>
-
-<div style="text-align:justify"><p>Hayat's leadership dates back to the beginnigs of the RIPLRT (back then the RIPLRG). When the group was created, Hayat was assigned the task of being the spokesperson of the group. Her leadership was also employed as a student representative in the Advisory Committee of the M.S. in Biomedical Sciences program at Larkin University. Therefore, it was no surprise that she was able to transition to being the Lab Manager of RIPLRT (2018 - 2020). </p></div>
-
-[Click here](#With Ruslan Fomenko and Hayat Srour) to view Hayat's interview. 
-
-<a href="https://www.riplrt.com/cv/CV_HS_Redacted.pdf" target="_blank">Click here</a> to view Hayat's C.V.
-
+<img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 10%; height: 10%; margin:8px">
+<div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager 2018 - 2020)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. She is currently in the application cycle for med schools. </p></div>
 
 ---
 
@@ -147,11 +140,11 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 10%; height: 10%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University (2019), and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. </p></div>
+<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University (2019), and a former co-leader and Research Assistant (2018 - 2019) of the RIPLRT. </p></div>
 
 ---
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 10%; height: 10%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is currently a pharmacy student at Midwestern University. </p></div>
+<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and former gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is currently a pharmacy student at Midwestern University. </p></div>
 
 ---
 
