@@ -29,7 +29,7 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 </header>
 
 
-<p><i>September 14, 2020</i>. <i><b>The Respiratory and Immunology Project and Laboratory Research Team</b></i> welcomes the new members from the 2020-2021 cohort of students from the M.S. in Biomedical Sciences at Larkin University. <a href="https://www.riplrt.com/members">Click here </a> to read more about the current members of the RIPLRT</a>. </p>
+<p><i>September 14, 2020</i>. <i>The Respiratory and Immunology Project and Laboratory Research Team</i> welcomes the new members from the 2020-2021 cohort of students from the M.S. in Biomedical Sciences at Larkin University. <a href="https://www.riplrt.com/members">Click here </a> to read more about the current members of the RIPLRT. </p>
 
 
 <hr>
