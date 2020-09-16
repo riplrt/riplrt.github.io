@@ -4,7 +4,7 @@ title: Team Members
 subtitle: Who are the RIPLRT?
 ---
 
-Find here pictures and bios of [current members](#Current members of the RIPLRT) and [past members](#Past members of the RIPLRT), as well as [interviews](#Interviews with current members of the RIPLRT) with current and past members of the RIPLRT. 
+Find here pictures and bios of [current members](#Current members of the RIPLRT) and [past members](#Past members of the RIPLRT) of the RIPLRT. 
 
 ---
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
