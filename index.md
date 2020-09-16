@@ -12,17 +12,16 @@ subtitle: Respiratory and Immunology Project and Laboratory Research Team
 <p>We welcome you to our website, and we invite you to learn more about</p>
 
 <ul>
-	<li><b><a href="mission" class="list-filter">our Vision and Mission</a></b></li>
-	<li><b><a href="members" class="list-filter">our RIPLRT Members</a></b></li>
-	<li><b><a href="lab" class="list-filter">our Research Approaches</a></b></li>
-	<li><b><a href="mentoring" class="list-filter">our Mentoring</a></b></li>
-	<li><b><a href="facebook" class="list-filter">our Facebook Page</a></b></li>
-	<li><b><a href="publications" class="list-filter">our Publications</a></b></li>
-	<li><b><a href="donors" class="list-filter">our Donors</a></b></li>
-	<li><b><a href="blog" class="list-filter">our News and Blogs</a></b></li>
+	<li><b><a href="mission" class="list-filter">our Vision and Mission</a></b>, <b><a href="blog" class="list-filter">our News and Blogs</a></b></li> 
+	<li><b><a href="members" class="list-filter">our RIPLRT Members</a></b>, <b><a href="mentoring" class="list-filter">our Mentoring</a></b></li>
+	<li><b><a href="publications" class="list-filter">our Publications</a></b>, <b><a href="lab" class="list-filter">our Research Approaches</a></b></li>
 </ul>
 
-<p>Below you will see portraits of the current members of the RIPLRT, and below the portraits you can read summaries of recents news within our team!
+<p>Below you will see:</p> 
+<ul>
+	<li>A video of the portraits of the current members of the RIPLRT</li> 
+	<li>Summaries of recents news within our team</li>
+</ul>
 
 <hr>
 
