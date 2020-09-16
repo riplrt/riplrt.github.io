@@ -140,29 +140,59 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 
 ---
+AdriaGuajardo.JPG
+
+<img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Adria Guajardo"></a><i><b>Adria Guajardo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Texas, and is currently in the application cycle for Physician Assistant schools. </p></div>
+
+---
 
 <img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918318177" target="_blank">addressed differences in PM.25 between eastern and western states of the US and its relationship to asthma prevalence</a>. Ariel is also a prospective med-school student.</p></div>
+<div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University (2019), and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. </p></div>
 
 ---
 <img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is a prospective medical student candidate in the upcoming application cycle. </p></div>
+<div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is currently a pharmacy student at Midwestern University. </p></div>
 
 ---
+
+<img src="/img/DonnaOh.jpeg" alt="Donna Oh" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Anchorage, Alaska, and she is currently in the application cycle for medical schools. </p></div>
+
+---
+
+<img src="/img/KylieDaguio.png" alt="Kylie Daguio" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Kylie Daguio"></a><i><b>Kylie Dagiuo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Hawaii, and she is currently in the application cycle for medical schools. Great laboratory techniques!!!</p></div>
+
+---
+
 <img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019).</b></i> Naziba is currently a sophomore at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. Currently Naziba works as a physician assistant scribe at Memorial Regional Hospital Emergency Department where she is responsible for filling out and maintaining patient charts and managing the physician’s workflow as they see patients.</p></div>
+<div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019)</b></i> is a former summer intern, and she is currently a junior at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. </p></div>
 
 ---
+
+<img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Virginia, and is currently in the application cycle for med schools.</p></div>
+
+---
+
 <img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan, also a recent graduate of the M.S. in Biomedical Sciences from Larkin University, grew up in Kazakhstan and moved Virginia Beach, Virginia during his high school years. He graduated from Christopher Newport University with a B.S. in Cellular and Molecular Biology with a Psychology minor, and later from Larkin University with a M.S. in Biomedical Sciences.  In addition to volunteering in various clinical environments, Ruslan took part in an internship at Patient First (chain of patient care centers) as a licensed phlebotomist.  His undergraduate research was focused on the antioxidant and antimicrobial properties of drought and salt-stressed Rosmarinus officinalis plants.</p></div>  
+<div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan graduated from the M.S. in Biomedical Sciences at Larkin University (2019), and he is currently in dental school (Midwestern University Dental School).</p></div>  
 
 ---
+
 <img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger</b></i> graduate from the M.S. in Biomedical Sciences program at Larkin University, and former Research Assistant-intern and lead editor (2018 - 2019) in the RIPLRT. Among her scientific achievement of Shandra as a former member of the RIPLRT include a poster presentation at the 2019 annual conference of the American Academy of Allergy, Asthma, and Immunology (AAAAI 2019). At AAAAI 2019, her poster <a href="https://linkinghub.elsevier.com/retrieve/pii/S0091674918325600" target="_blank">addressed differences in prevalenve of food allergies among eastern and western states of the US</a>. Shandra is a med student at St. Georges University.</p></div>  
+<div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and she is currently 2nd year med student (University of Medicine and Health Sciences).</p></div>  
 
 ---
+
+<img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Shana Zadron"></a><i><b>Shana Zadron (Graduate Research Assistants 2019 - 2020)</b></i> is originally from Afghanistan, and moved at a young age to the US. She is currently in the med schools' application cycle.</p></div> 
+
+---
+
 <img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio </b></i> is a graduate from the Rochester Institute of Technology (Rochester, NY) with a B.S. Biomedical Sciences. She originally matriculated as an Industrial Design student, seeking a people-oriented career that would integrate her empathy and creative thinking. Her ambition to meaningfully utilize these strengths moved her to healthcare sciences and to aspire to become a Physician Assistant. Summer constributed her leadership and scientific skillsets to the RIPLRT from May to October 2019. She is currently in ther interview cycle, and have received offers, for PA schools.</p></div> 
+<div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio </b></i> was a research assistant (2019) and she is currently in Phyican Assistant school.</p></div> 
 
 ---
 <img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 15%; height: 15%; margin:8px"> 
