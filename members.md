@@ -142,60 +142,60 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 ---
 AdriaGuajardo.JPG
 
-<img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/AdriaGuajardo.JPG" alt="Adria Guajardo" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Adria Guajardo"></a><i><b>Adria Guajardo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Texas, and is currently in the application cycle for Physician Assistant schools. </p></div>
 
 ---
 
-<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/Ariel.jpg" alt="Ariel Stateman" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Ariel Stateman"></a><i><b>Ariel Stateman</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University (2019), and a former co-leader and Research Assistant-internt (2018 - 2019) of the RIPLRT. </p></div>
 
 ---
-<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/BPatel.jpg" alt="Bhavikkumar Patel" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Bhavikkumar Patel"></a><i><b>Bhavikkumar Patel</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and formert gradaute research assistant of the RIPLRT (Jan 2019 - Aug 2019). Vik is currently a pharmacy student at Midwestern University. </p></div>
 
 ---
 
-<img src="/img/DonnaOh.jpeg" alt="Donna Oh" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/DonnaOh.jpeg" alt="Donna Oh" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Donna Oh"></a><i><b>Donna Oh (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Anchorage, Alaska, and she is currently in the application cycle for medical schools. </p></div>
 
 ---
 
-<img src="/img/KylieDaguio.png" alt="Kylie Daguio" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/KylieDaguio.png" alt="Kylie Daguio" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Kylie Daguio"></a><i><b>Kylie Dagiuo (Graduate Research Assistant 2019 - 2020)</b></i> is originally from Hawaii, and she is currently in the application cycle for medical schools. Great laboratory techniques!!!</p></div>
 
 ---
 
-<img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/naziba1.jpeg" alt="Naziba Nuha" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Naziba Nuha"></a><i><b>Naziba Nuha (Summer Intern - 2019)</b></i> is a former summer intern, and she is currently a junior at Nova Southeastern University and she is pursuing her Bachelor of Science in Biology and Mathematics with a minor in Chemistry. </p></div>
 
 ---
 
-<img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/NicoleBenavides.jpg" alt="Nicole Benavides" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Nicole Benavides"></a><i><b>Nicole Benavides (Graduate Research Assistant 2019 - 2020)</b></i> was a former co-leader in the RIPLRT, is originally from Virginia, and is currently in the application cycle for med schools.</p></div>
 
 ---
 
-<img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/Ruslan.jpg" alt="Ruslan Fomentko" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Ruslan Fomenko"></a><i><b>Ruslan Fomenko (Research Assistant)</b></i>. Ruslan graduated from the M.S. in Biomedical Sciences at Larkin University (2019), and he is currently in dental school (Midwestern University Dental School).</p></div>  
 
 ---
 
-<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/Shandra.jpeg" alt="Shandra Bellinger" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Shandra Bellinger"></a><i><b>Shandra Bellinger</b></i> graduated from the M.S. in Biomedical Sciences program at Larkin University, and she is currently 2nd year med student (University of Medicine and Health Sciences).</p></div>  
 
 ---
 
-<img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/ShanaZadron.png" alt="Shana Zadron" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Shana Zadron"></a><i><b>Shana Zadron (Graduate Research Assistants 2019 - 2020)</b></i> is originally from Afghanistan, and moved at a young age to the US. She is currently in the med schools' application cycle.</p></div> 
 
 ---
 
-<img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/Summer.png" alt="Summer Pellechio" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Summer Pellechio"></a><i><b>Summer Pellechio </b></i> was a research assistant (2019) and she is currently in Phyican Assistant school.</p></div> 
 
 ---
-<img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 15%; height: 15%; margin:8px"> 
+<img src="/img/Tanha.jpeg" alt="Tanha Rahman" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Tanha Rahman"></a><i><b>Tanha Rahman (Summer Intern - 2019).</b></i> Similar to Naziba, Tanha is also an undergraduate (third-year) student at Nova Southeastern University. She is pursuing her Bachelor of Science in Business Management and Biology (pre-medicine track) with a minor in International Studies.</p></div>
 
 
