@@ -14,7 +14,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Henna Patel](#Henna Patel);  [Karoline Alves](#Karoline Alves)
 - [Krystal Ramsaran](#Krystal Ramsaran);  [Stevanie Robinson](#Stevanie Robinson), 
 - [Summer Paris Vanitvelt](#Summer Paris Vanitvelt)
-- [Lorraine Vélez-Torres](#- [Lorraine Vélez-Torres]);  [Xaymara Hernández-González](#Xaymara Hernández-González)
+- [Lorraine N. Vélez-Torres](#[Lorraine N. Vélez-Torres]);  [Xaymara Hernández-González](#Xaymara Hernández-González)
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 
 
@@ -87,8 +87,8 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 <div style="text-align:justify"><p>Being exposed to various specialties of medicine helped influence her interest of pursuing research and how she could contribute to the medical field as she continues her academic path to becoming a physician.  She aspires to aid in giving back to communities and families that have limited access to healthcare.  Excited to be a part of the RIPLRT research team, she cannot wait to bring in her knowledge and help further advance this project.</p></div> 
 
 ---
-<img src="/img/Lorraine.jpeg" alt="Lorraine Vélez-Torres" align="right" style="width: 30%; height: 30%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Lorraine Vélez-Torres"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
+<img src="/img/Lorraine.jpeg" alt="Lorraine N. Vélez-Torres" align="right" style="width: 30%; height: 30%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Lorraine N. Vélez-Torres"></a><i><b>Lorraine Torres-Vélez (Ph.D. candidate - University of Puerto Rico - Medical Sciences Campus).</b></i>
 Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and Medical Zoology at the University of Puerto Rico, Medical Sciences Campus. She earned her master’s degree in Public Health with concentration in Epidemiology in 2015, identifying the risk factors affecting the quality of life of residents in Yabucoa, Puerto Rico. In 2014 she received a double major in Industrial Microbiology and Biology at the University of Puerto Rico, Mayagüez Campus. During her undergraduate education, she worked in the Symbiosis Laboratory of Dr. Cafaro investigating the antifungal capacity of Actinobacteria associated to the exoskeleton of the termite Nasutitermes costalis. She’s currently working in her research thesis at the Mycology Laboratory of Dr. Bolaños, studying the effect of Hurricane María in the indoor concentration of fungi and the health outcomes of the habitants.</p></div>
 
 <div style="text-align:justify"><p>Currently, she’s the President of the Microbiology Chapter of her campus where she promotes and organizes professional and educative outreach activities for the community. Outside academia, Lorraine enjoys dancing salsa, visiting new restaurants and kayaking.</p></div> 
