@@ -14,7 +14,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Henna Patel](#Henna Patel);  [Karoline Alves](#Karoline Alves)
 - [Krystal Ramsaran](#Krystal Ramsaran);  [Stevanie Robinson](#Stevanie Robinson), 
 - [Summer Paris Vanitvelt](#Summer Paris Vanitvelt)
-- [Lorraine N. Vélez-Torres](#[Lorraine N. Vélez-Torres]);  [Xaymara Hernández-González](#Xaymara Hernández-González)
+- [Lorraine N. Vélez-Torres](#Lorraine N. Vélez-Torres);  [Xaymara Hernández-González](#Xaymara Hernández-González)
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 
 
@@ -118,6 +118,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <div style="text-align:justify"><p>During the past three years, she had the opportunity to collaborate in the project "Taking a breath after Hurricane Maria" taking air samples from water damaged houses and identifying fungus captured from the air samples.  Also, she is working in analyzing data from air samples captured from houses located in the community of Pinones in Loiza, Puerto Rico.  Currently, she is part of the directive of the Microbiology Chapter at the UPR-RCM and is the representative of the master students at the graduate committee.  Besides academia, Xaymara enjoys exercising, doing road trips and reading. She pursues to continue graduate studies.</p></div>
 
+<a href="https://www.riplrt.com/cv/CV-Xaymara Hernandez.pdf" target="_blank">Click here</a> to view Xaymara's C.V.
 
 <br>
 
