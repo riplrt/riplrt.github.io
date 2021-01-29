@@ -9,12 +9,17 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 ---
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
 
-- [Brie Perdue](#Brie Perdue);  [Cassandra Damouni](#Cassandra Damouni)
-- [Chevine Johnson](#Chevine Johnson);  [Christian Ramos](#Christian Ramos)
-- [Henna Patel](#Henna Patel);  [Karoline Alves](#Karoline Alves)
-- [Krystal Ramsaran](#Krystal Ramsaran);  [Stevanie Robinson](#Stevanie Robinson), 
+- [Brie Perdue](#Brie Perdue)  
+- [Cassandra Damouni](#Cassandra Damouni)
+- [Chevine Johnson](#Chevine Johnson)
+- [Christian Ramos](#Christian Ramos)
+- [Henna Patel](#Henna Patel)
+- [Karoline Alves](#Karoline Alves)
+- [Krystal Ramsaran](#Krystal Ramsaran)
+- [Stevanie Robinson](#Stevanie Robinson)
 - [Summer Paris Vanitvelt](#Summer Paris Vanitvelt)
-- [Lorraine N. Vélez-Torres](#Lorraine N. Vélez-Torres);  [Xaymara Hernández-González](#Xaymara Hernández-González)
+- [Lorraine N. Vélez-Torres](#Lorraine N. Vélez-Torres)
+- [Xaymara Hernández-González](#Xaymara Hernández-González)
 - [Dr. Félix E. Rivera-Mariani (**Principal Investigator**)](#Dr. Félix E. Rivera-Mariani)
 
 
