@@ -9,44 +9,40 @@ subtitle: Find recent peer-reviewed articles and abstracts by RIPLRT
 </ul> 
 
 <ul>
-<li><div style="text-align:justify"><p>Rivera-Mariani FE, Almaguer M, Jesus Aira M, Bolaños-Rosero B. Comparison of atmospheric fungal spore concentrations between two main cities in the Caribbean basin. PR Health Sci J. 2020 Sep;39(3):235-242.(<a href="https://pubmed.ncbi.nlm.nih.gov/33031690/" target="_blank">click here to access the publication</a>).</p></div></li>
+<li><div style="text-align:justify"><p>Rivera-Mariani FE, Almaguer M, Jesus Aira M, Bolaños-Rosero B. Comparison of atmospheric fungal spore concentrations between two main cities in the Caribbean basin. <i>PR Health Sci J</i>. 2020 Sep;39(3):235-242.(<a href="https://pubmed.ncbi.nlm.nih.gov/33031690/" target="_blank">click here to access the publication</a>).</p></div></li>
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Suárez-Martínez EB, Rivera-Mariani FE, Ocasio M, Arroyo G. Microbiome and Respiratory Diseases: A A Study Using a Novel Non-invasive Saliva Sample Collection Method. The FASEB Journal. 2020. 34 (S1): 1-1.(<a href="https://doi.org/10.1096/fasebj.2020.34.s1.04956" target="_blank">click here to access the publication</a>)</p></div></li>
+<li><div style="text-align:justify"><p>Suárez-Martínez EB, Rivera-Mariani FE, Ocasio M, Arroyo G. Microbiome and Respiratory Diseases: A A Study Using a Novel Non-invasive Saliva Sample Collection Method. <i>The FASEB Journal</i>. 2020. 34 (S1): 1-1.(<a href="https://doi.org/10.1096/fasebj.2020.34.s1.04956" target="_blank">click here to access the publication</a>)</p></div></li>
 </ul>
 
 
 <ul>
-<li><div style="text-align:justify"><p>Nawaz Z., Pullen F., Rivera-Mariani F.E., Rizvi SA, Sanchez-Gonzalez M.A., Smollar M., Grogan T. “Spring is here, now what? Know the Difference Between a Cold, Flu, Coronavirus and Allergy.” Emerg Infect Dis Diag J. 2020. EIDDJ-100010. (<a href="https://grfpublishers.com/article/view/MjMx/Spring-is-here-now-what-Know-the-Difference-Between-a-Cold-Flu-Coronavirus-and-Allergy" target="_blank">click here to access the publication</a>)</p></div></li>
+<li><div style="text-align:justify"><p>Nawaz Z., Pullen F., Rivera-Mariani F.E., Rizvi SA, Sanchez-Gonzalez M.A., Smollar M., Grogan T. “Spring is here, now what? Know the Difference Between a Cold, Flu, Coronavirus and Allergy.” <i>Emerg Infect Dis Diag J</i>. 2020. EIDDJ-100010. (<a href="https://grfpublishers.com/article/view/MjMx/Spring-is-here-now-what-Know-the-Difference-Between-a-Cold-Flu-Coronavirus-and-Allergy" target="_blank">click here to access the publication</a>)</p></div></li>
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Suárez-Martínez, E.B., Rivera-Mariani, F. E., Ocasio M., Arroyo G. “Microbiome and Respiratory Diseases: A Study Using a Novel Non‐invasive Saliva Sample Collection Method.” The FASEB Journal. 2020. DOI:10.1096/fasebj.2020.34.s1.04956. (<a href="https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2020.34.s1.04956" target="_blank">click here to access the publication</a>)</p></div></li>
+<li><div style="text-align:justify"><p>Rivera-Mariani, F. E., H. Srour, R. Fomenko, J. P. Maestre, K. Kinney, F. Godoy-Vitorino, B. Bolaños-Rosero, and H. Cavallin. “Pro-Inflammatory Potential of Indoor Dust Collected from Households in San Juan, Puerto Rico in the Aftermath of Hurricane Maria.” presented at the <i>Society of Toxicology 2019</i>, Late-Breaking Abstract Session (Abstract 3323), Baltimore, MD, March 14.</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Rivera-Mariani, F. E., H. Srour, R. Fomenko, J. P. Maestre, K. Kinney, F. Godoy-Vitorino, B. Bolaños-Rosero, and H. Cavallin. “Pro-Inflammatory Potential of Indoor Dust Collected from Households in San Juan, Puerto Rico in the Aftermath of Hurricane Maria.” presented at the Society of Toxicology 2019, Late-Breaking Abstract Session (Abstract 3323), Baltimore, MD, March 14.</p></div></li> 
+<li><div style="text-align:justify"><p>Baguley, Joshua K., Shandra V. Bellinger, Hayat H. Srour, Ariel J. Stateman, and Felix E. Rivera-Mariani. “Gender Differences in Dendritic Cell Population in Nasal and Oral Cavity between Allergic and Non-Allergic Subjects.”  <i>J Allergy Clin Immunol</i>. 2019. 143 (2): AB228. (<a href="https://www.jacionline.org/article/S0091-6749(18)32438-2/fulltext" target="_blank">click here to access the publication</a>).</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Baguley, Joshua K., Shandra V. Bellinger, Hayat H. Srour, Ariel J. Stateman, and Felix E. Rivera-Mariani. “Gender Differences in Dendritic Cell Population in Nasal and Oral Cavity between Allergic and Non-Allergic Subjects.” The Journal of Allergy and Clinical Immunology. 2019. 143 (2): AB228. (<a href="https://www.jacionline.org/article/S0091-6749(18)32438-2/fulltext" target="_blank">click here to access the publication</a>).</p></div></li> 
+<li><div style="text-align:justify"><p>Bellinger, Shandra V., Ariel J. Stateman, Hayat H. Srour, Joshua K. Baguley, and Felix E. Rivera-Mariani. “Evaluating Differences in Prevalence of Food Allergies between Two Geographic Regions: Australia and US.” <i> J Allergy Clin Immunol</i>. 2019. 143 (2): AB268. (<a href="https://www.jacionline.org/article/S0091-6749(18)32560-0/fulltext" target="_blank">cclick here to access the publication</a>).</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Bellinger, Shandra V., Ariel J. Stateman, Hayat H. Srour, Joshua K. Baguley, and Felix E. Rivera-Mariani. “Evaluating Differences in Prevalence of Food Allergies between Two Geographic Regions: Australia and US.” The Journal of Allergy and Clinical Immunology. 2019. 143 (2): AB268. (<a href="https://www.jacionline.org/article/S0091-6749(18)32560-0/fulltext" target="_blank">cclick here to access the publication</a>).</p></div></li> 
+<li><div style="text-align:justify"><p>Srour, Hayat H., Joshua K. Baguley, Shandra V. Bellinger, Ariel J. Stateman, and Felix E. Rivera-Mariani. “Comparing the Magnitude of Meteorological Variables and Air Pollutants as Contributing Factors Atopic Dermatitis Symptoms.” <i>J Allergy Clin Immunol</i>. 2019. 143 (2): AB235. (<a href="https://www.jacionline.org/article/S0091-6749(18)32457-6/fulltext" target="_blank">click here to access the publication</a>).</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Srour, Hayat H., Joshua K. Baguley, Shandra V. Bellinger, Ariel J. Stateman, and Felix E. Rivera-Mariani. “Comparing the Magnitude of Meteorological Variables and Air Pollutants as Contributing Factors Atopic Dermatitis Symptoms.” The Journal of Allergy and Clinical Immunology. 2019. 143 (2): AB235. (<a href="https://www.jacionline.org/article/S0091-6749(18)32457-6/fulltext" target="_blank">click here to access the publication</a>).</p></div></li> 
+<li><div style="text-align:justify"><p>Stateman, Ariel J., Hayat H. Srour, Joshua K. Baguley, Shandra V. Bellinger, and Felix E. Rivera-Mariani. “Comparison between PM2.5 Levels on East Coast and State of California in Relationship to Asthma.” <i>J Allergy Clin Immunol</i>. 2019 143 (2): AB24. (<a href="https://www.jacionline.org/article/S0091-6749(18)31817-7/fulltext" target="_blank">click here to access the publication</a>).</p></div></li> 
 </ul>
 
 <ul>
-<li><div style="text-align:justify"><p>Stateman, Ariel J., Hayat H. Srour, Joshua K. Baguley, Shandra V. Bellinger, and Felix E. Rivera-Mariani. “Comparison between PM2.5 Levels on East Coast and State of California in Relationship to Asthma.” The Journal of Allergy and Clinical Immunology. 2019 143 (2): AB24. (<a href="https://www.jacionline.org/article/S0091-6749(18)31817-7/fulltext" target="_blank">click here to access the publication</a>).</p></div></li> 
-</ul>
-
-<ul>
-<li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, Rivera-Mariani FE. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. [version 1; referees: awaiting peer review]. 2018. 7: 1232 (doi: <a href="https://doi.org/10.12688/f1000research.15839.2" target="_blank">click here to access the publication</a>).</p></div></li> 
+<li><div style="text-align:justify"><p>Srour H, Fomenko R, Baguley J, Bellinger S, Jordan A, Sutton J, Santana M, Marull A, Abdalhuk M, Rivera-Mariani FE. Pilot Study of Public-Available Data to Evaluate the Relationship between Forest Fires and Emergency Department Visits due to Asthma in the State of California. <i>F1000Research</i>. 2018. 7: 1232 (doi: <a href="https://doi.org/10.12688/f1000research.15839.2" target="_blank">click here to access the publication</a>).</p></div></li> 
 </ul>
 
 <ul>
