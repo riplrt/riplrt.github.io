@@ -4,6 +4,11 @@ title: Mentoring in RIPLRT
 subtitle: The strategies to mentor our RIPLRT members
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
+
 As stated by <a href="https://www.riplrt.com/members/#Ruslan%20Fomenko" target="_blank">Ruslan Fomenko</a> in a <a href="https://www.riplrt.com/2019-05-02-mentors-unsung-heroes/" target="_blank">mentoring blog</a>, *"A mentor is someone who allows you to see the hope inside yourself" (by Oprah Winfrey).* <a href="https://www.riplrt.com/members/#Shandra%20Bellinger" target="_blank">Shandra Bellinger</a> further elaborates that there are <a href="https://www.riplrt.com/2019-05-17-mentors/" target="_blank">different types of mentors</a> (and different circumstances merit different mentoring styles), and mentoring is also a two-way street. Not only mentees but also mentors need to understand this inter-engaging relationship for mentoring to be effective and successful.
 
 <img src="/img/mentors1.png" alt="Mentoring" style="width:80%" class="center">

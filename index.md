@@ -4,6 +4,11 @@ title: The RIPLRT
 subtitle: Respiratory and Immunology Project and Laboratory Research Team
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
+
 <p>We are the <b><i>RIPLRT</i></b> -- Respiratory and Immunology Project and Laboratory Research Team -- within the 
 <a href="http://ularkin.org/college-of-biomedical-sciences/" target="_blank">College of Biomedical Sciences at Larkin University</a>.</p>
 

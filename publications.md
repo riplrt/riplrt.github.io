@@ -4,6 +4,11 @@ title: Publications
 subtitle: Find recent peer-reviewed articles and abstracts by RIPLRT
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
+
 <ul>
 <li><div style="text-align:justify"><p>Vélez-Torres L, Bolaños-Rosero B, Godoy-Vitorino F, Rivera-Mariani FE, Maestre J, Kinney KA, Cavallin H. Culture-Based Characterization of Fungal Communities in Homes in San Juan, Puerto Rico following Hurricane Maria. <i>Applied and Environmental Microbiology</i>. Submitted.</p></div></li>
 </ul> 

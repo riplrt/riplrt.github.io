@@ -4,6 +4,11 @@ title: Vision and Mission
 subtitle: RIPLRT's vision and mission in science and with our members
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
+
 # Our Vision
 To provide further insight into the immuno-physiological health effects that airborne pollutants of different chemical origins induce once they cross the human respiratory barrier among susceptible individuals such as people suffering from asthma, respiratory allergies, and other chronic respiratory conditions). We also seek to foster an environment that leads to enrichment in the professional, personal, and academic aspects of the RIPLRT members and interns. 
 

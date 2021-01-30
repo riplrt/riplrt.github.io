@@ -4,6 +4,11 @@ title: Our Donors
 subtitle: People that have contributed donations to the @RIPLRT
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
+
 The **RIPLRT** is grateful for our donors. Find the **list of donors** that have supported our research, mentoring, and educational endeavor’s!
 
 <b>We are grateful for the donations made by:</b>

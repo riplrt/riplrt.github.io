@@ -4,6 +4,11 @@ title: Team Members
 subtitle: Who are the RIPLRT?
 ---
 
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-6458f1c2-738e-40ed-b7a0-7379c0377dff"></div>
+
+<br>
+
 Find here pictures and bios of [current members](#Current members of the RIPLRT) and [past members](#Past members of the RIPLRT) of the RIPLRT. 
 
 ---
