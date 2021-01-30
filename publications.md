@@ -16,7 +16,6 @@ subtitle: Find recent peer-reviewed articles and abstracts by RIPLRT
 <li><div style="text-align:justify"><p>Suárez-Martínez EB, Rivera-Mariani FE, Ocasio M, Arroyo G. Microbiome and Respiratory Diseases: A A Study Using a Novel Non-invasive Saliva Sample Collection Method. <i>The FASEB Journal</i>. 2020. 34 (S1): 1-1.(<a href="https://doi.org/10.1096/fasebj.2020.34.s1.04956" target="_blank">click here to access the publication</a>)</p></div></li>
 </ul>
 
-
 <ul>
 <li><div style="text-align:justify"><p>Nawaz Z., Pullen F., Rivera-Mariani F.E., Rizvi SA, Sanchez-Gonzalez M.A., Smollar M., Grogan T. “Spring is here, now what? Know the Difference Between a Cold, Flu, Coronavirus and Allergy.” <i>Emerg Infect Dis Diag J</i>. 2020. EIDDJ-100010. (<a href="https://grfpublishers.com/article/view/MjMx/Spring-is-here-now-what-Know-the-Difference-Between-a-Cold-Flu-Coronavirus-and-Allergy" target="_blank">click here to access the publication</a>)</p></div></li>
 </ul>
