@@ -15,9 +15,7 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 ***[Current members of the RIPLRT](#Current members of the RIPLRT)***
 
 - [Brie Perdue](#Brie Perdue)  
-- [Cassandra Damouni](#Cassandra Damouni)
 - [Chevine Johnson](#Chevine Johnson)
-- [Christian Ramos](#Christian Ramos)
 - [Henna Patel](#Henna Patel)
 - [Karoline Alves](#Karoline Alves)
 - [Krystal Ramsaran](#Krystal Ramsaran)
@@ -57,24 +55,10 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 
 
 ---
-<img src="/img/Cassandra.JPG" alt="Cassandra Damouni" align="right" style="width: 30%; height: 30%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Cassandra Damouni"></a><i><b>Cassandra Damouni</b></i>. <i>Cassandra</i> is from Fenton, Michigan and is a current M.S. student in the Biomedical Sciences program at Larkin University. Before attending Larkin University, she earned her B.S. in Biology from the University of Michigan-Flint. Her passion for people, health and art lead her desire to become a dentist, a profession that allows her to use her passions.</p></div> 
-
-<div style="text-align:justify"><p>Cassandra was involved in many clubs during her undergraduate years. She was an officer in the university’s dental club. She and her friends also started a club called Cinemas Finest that later won the university’s ‘Outstanding Student Organization’ at Wolverine Excellence. She also volunteered at the Big Brother Big Sister organization where she was a mentor to three little girls.</p></div>
-
-<div style="text-align:justify"><p>Her eagerness to learn and love for science is what drew her to get into research. She is excited to be a part of RIPLRT and to one day use her experiences and gained knowledge from RIPLRT in her future career.</p></div>
-
-
----
 <img src="/img/chevine.png" alt="Chevine Johnson" align="right" style="width: 30%; height: 30%; margin:8px">
 <div style="text-align:justify"><p><a name="Chevine Johnson"></a><i><b>Chevine Johnson</b></i>. <i>Chevine</i>, from Miami, FL, is a current graduate student in M.S. in Biomedical Sciences at Larkin University. Chevine earned a B.S. in Chemistry, specialized in Biochemistry at Barry University, where she developed a passion for research aimed at revolutionizing the healthcare industry. Chevine aspires to become a successful physician who will bring sanity and accuracy to healthcare and actualize her research to solve some of the health challenges that have wreaked havoc globally. Since her undergraduate studies, Chevine has been preparing for this vision by joining and participating in research at the University of Miami and gaining clinical experience. She loves working in the laboratory setting because she is driven to translate the skills and knowledge, along with research finding to clinical setting to make a difference in society. </p></div>
 
 <div style="text-align:justify"><p>Chevine believes a M.S. will propel her further towards her vision as she gains more research and clinical experience. She looks forward to increasing her theoretical and experimental knowledge and partnering with similar minds that she hopes will be essential to her career path. Chevine is also eager to learn and contribute heavily to the society through RIPLRT, and she passionately believes that she can crack the hardest nuts in the healthcare industry. Chevine believes that she is on the right track to seeing her vision and goals for society come to pass.</p></div>
-
-
----
-<img src="/img/Christian.jpg" alt="Christian Ramos" align="right" style="width: 30%; height: 30%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Christian Ramos"></a><i><b>Christian Ramos</b></i>. <i>Christian</i>, from Miami, FL, is a first generation student of Hispanic descent. He is currently a graduate student at Larkin University College of Biomedical Science and an alumnus of Florida International University where he received his B.S. in Biology. His interest in research stems from his passion for Healthcare and helping others. Having gained experience from working as a volunteer in hospitals and as a medical scribe for an outpatient surgery center and Cardiologist he hopes to bring about positive change in his community through hard work and dedication. Christian aspires to be a Physician and is excited to contribute to the scientific community.</p></div>
 
 
 ---
@@ -136,6 +120,12 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
 
+---
+<img src="/img/Christian.jpg" alt="Christian Ramos" align="right" style="width: 30%; height: 30%; margin:8px"> 
+<div style="text-align:justify"><p><a name="Christian Ramos"></a><i><b>Christian Ramos</b></i>. <i>Christian</i>, from Miami, FL, is a first generation student of Hispanic descent. He recently graduate from our M.S. program within the currently a graduate student at Larkin University College of Biomedical Science. Christian is pending enrollment into medical school.</p></div>
+
+
+---
 <img src="/img/Hayat.jpg" alt="Hayat Srour" align="right" style="width: 10%; height: 10%; margin:8px">
 <div style="text-align:justify"><p><a name="Hayat Srour"></a><i><b>Hayat Srour (Research Assistant and Lab Manager 2018 - 2020)</b></i>. Hayat, from Detroit, Michigan, is also a graduate from the M.S. in Biomedical Sciences program at Larkin University. She is currently in the application cycle for med schools. </p></div>
 
