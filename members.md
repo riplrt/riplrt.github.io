@@ -121,7 +121,7 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 <a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
 
 ---
-<img src="/img/Christian.jpg" alt="Christian Ramos" align="right" style="width: 30%; height: 30%; margin:8px"> 
+<img src="/img/Christian.jpg" alt="Christian Ramos" align="right" style="width: 10%; height: 10%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Christian Ramos"></a><i><b>Christian Ramos</b></i>. <i>Christian</i>, from Miami, FL, is a first generation student of Hispanic descent. He recently graduate from our M.S. program within the currently a graduate student at Larkin University College of Biomedical Science. Christian is pending enrollment into medical school.</p></div>
 
 
