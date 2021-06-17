@@ -18,8 +18,6 @@ Find here pictures and bios of [current members](#Current members of the RIPLRT)
 - [Chevine Johnson](#Chevine Johnson)
 - [Henna Patel](#Henna Patel)
 - [Karoline Alves](#Karoline Alves)
-- [Krystal Ramsaran](#Krystal Ramsaran)
-- [Stevanie Robinson](#Stevanie Robinson)
 - [Summer Paris Vanitvelt](#Summer Paris Vanitvelt)
 - [Lorraine N. Vélez-Torres](#Lorraine N. Vélez-Torres)
 - [Xaymara Hernández-González](#Xaymara Hernández-González)
@@ -93,13 +91,6 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 
 ---
-<img src="/img/stevanie.JPG" alt="Stevanie Robinson" align="right" style="width: 30%; height: 30%; margin:8px">
-<div style="text-align:justify"><p><a name="Stevanie Robinson"></a><i><b>Stevanie Robinson</b></i>. <i>Stevanie</i> is a native of Florida, from the Fort Lauderdale area who is currently seeking her M.S. in Biomedical Science at Larkin University. She received her B.S in Biological Science from Nova Southeastern University.  She has an undying passion for healthcare and the wellbeing of others, especially those located in underrepresented regions, which propelled her to pursue a career in medicine to become a Physician.</p></div> 
-
-<div style="text-align:justify"><p>Stevanie has traveled to many underrepresented areas working alongside licensed physicians to help improve the quality of healthcare. Also, she has worked in emergency rooms, clinics, and shadowed in many specialties. She used these pivotal opportunities to seek out a comprehensive love for medicine and it was at this moment her enthusiasm for research was heightened. She sought to understand the human body in its entirety and how research plays such a vital role in the success of medicine. It is with this acquired knowledge and passion that she believes by joining the RIPLRT, to assist in the continuous efforts to investigate immunology, she will gain the skills to be a contributing partner to the field of science and the medical community at large as an aspiring physician. </p></div>
-
-
----
 <img src="/img/Summer2020.png" alt="Summer Paris Vanitvelt" align="right" style="width: 30%; height: 30%; margin:8px"> 
 <div style="text-align:justify"><p><a name="Summer Paris Vanitvelt"></a><i><b>Summer Paris Vanitvelt</b></i>. <i>Summer</i>, from Flint, Michigan, earned her B.A. in Psychology from Auburn University while also completing her prerequisites for dental school and is currently a student in the M.S. Biomedical Sciences program at Larkin University. During her time at Auburn, she was involved in Greek life, other on campus organizations and taught a Pilates class at the recreation center on campus.</p></div>
 
@@ -120,9 +111,15 @@ Lorraine is a third-year Ph.D. candidate in the Department of Microbiology and M
 
 <a name="Past members of the RIPLRT"></a><i><b>Past members of the RIPLRT</b></i>
 
+
+---
+<img src="/img/stevanie.JPG" alt="Stevanie Robinson" align="right" style="width: 10%; height: 10%; margin:8px">
+<div style="text-align:justify"><p><a name="Stevanie Robinson"></a><i><b>Stevanie Robinson</b></i>. <i>Stevanie</i> is a native of Florida, from the Fort Lauderdale area who is currently seeking her M.S. in Biomedical Science at Larkin University. She received her B.S in Biological Science from Nova Southeastern University.  She has an undying passion for healthcare and the wellbeing of others, especially those located in underrepresented regions, which propelled her to pursue a career in medicine to become a Physician.</p></div> 
+
+
 ---
 <img src="/img/Christian.jpg" alt="Christian Ramos" align="right" style="width: 10%; height: 10%; margin:8px"> 
-<div style="text-align:justify"><p><a name="Christian Ramos"></a><i><b>Christian Ramos</b></i>. <i>Christian</i>, from Miami, FL, is a first generation student of Hispanic descent. He recently graduate from our M.S. program within the currently a graduate student at Larkin University College of Biomedical Science. Christian is pending enrollment into medical school.</p></div>
+<div style="text-align:justify"><p><a name="Christian Ramos"></a><i><b>Christian Ramos</b></i>. <i>Christian</i>, from Miami, FL, is a first generation student of Hispanic descent. He recently graduated from our M.S. program within the currently a graduate student at Larkin University College of Biomedical Science. Christian was recently accepted into medical school.</p></div>
 
 
 ---
